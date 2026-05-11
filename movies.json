@@ -19102,5 +19102,33 @@
         "rating": 7.9,
         "poster_path": "covers/movie_615457.jpg",
         "original_language": "en"
+    },
+    {
+        "id": 1233413,
+        "type": "movie",
+        "title": "Грешники",
+        "original_title": "Sinners",
+        "year": "2025",
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер"
+        ],
+        "director": "Райан Куглер",
+        "cast": [
+            "Майкл Б. Джордан",
+            "Хейли Стайнфелд",
+            "Майлз Кэйтон",
+            "Джек О'Коннелл",
+            "Вунми Мосаку",
+            "Джейми Лоусон",
+            "Омар Бенсон Миллер",
+            "Делрой Линдо",
+            "Ли Цзюнь Ли",
+            "Яо"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_1233413.jpg",
+        "original_language": "en"
     }
 ]
