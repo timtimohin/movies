@@ -25,3 +25,28 @@ To https://github.com/timtimohin/movies.git
  create mode 100644 covers/tv_74440.jpg
 To https://github.com/timtimohin/movies.git
    1f66b53..e9c2630  main -> main
+[main d0fe7de] Обновление базы через бота
+ 24 files changed, 941 insertions(+), 2 deletions(-)
+ create mode 100644 covers/movie_126889.jpg
+ create mode 100644 covers/movie_149.jpg
+ create mode 100644 covers/movie_4977.jpg
+ create mode 100644 covers/movie_508439.jpg
+ create mode 100644 covers/movie_550988.jpg
+ create mode 100644 covers/movie_634649.jpg
+ create mode 100644 covers/movie_687163.jpg
+ create mode 100644 covers/movie_70981.jpg
+ create mode 100644 covers/movie_752623.jpg
+ create mode 100644 covers/movie_76341.jpg
+ create mode 100644 covers/movie_916224.jpg
+ create mode 100644 covers/movie_945961.jpg
+ create mode 100644 covers/tv_1100.jpg
+ create mode 100644 covers/tv_1429.jpg
+ create mode 100644 covers/tv_224372.jpg
+ create mode 100644 covers/tv_30991.jpg
+ create mode 100644 covers/tv_61459.jpg
+ create mode 100644 covers/tv_71912.jpg
+ create mode 100644 covers/tv_73586.jpg
+ create mode 100644 covers/tv_87108.jpg
+ create mode 100644 covers/tv_87739.jpg
+To https://github.com/timtimohin/movies.git
+   e9c2630..d0fe7de  main -> main

@@ -19847,5 +19847,237 @@
         "poster_path": "covers/tv_87739.jpg",
         "original_language": "en",
         "seasons": 1
+    },
+    {
+        "id": 933260,
+        "type": "movie",
+        "title": "Субстанция",
+        "original_title": "The Substance",
+        "year": "2024",
+        "genres": [
+            "ужасы",
+            "фантастика"
+        ],
+        "director": "Корали Фаржа",
+        "cast": [
+            "Деми Мур",
+            "Маргарет Куолли",
+            "Деннис Куэйд",
+            "Эдвард Гамильтон-Кларк",
+            "Гор Абрамс",
+            "Оскар Лесаж",
+            "Кристиан Эриксон",
+            "Робин Грир",
+            "Том Мортон",
+            "Хьюго Диего Гарсия"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_933260.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 762504,
+        "type": "movie",
+        "title": "Нет",
+        "original_title": "Nope",
+        "year": "2022",
+        "genres": [
+            "ужасы",
+            "фантастика"
+        ],
+        "director": "Джордан Пил",
+        "cast": [
+            "Дэниэл Калуя",
+            "Кеке Палмер",
+            "Брэндон Переа",
+            "Майкл Уинкотт",
+            "Стивен Ян",
+            "Ренн Шмидт",
+            "Кит Дэвид",
+            "Devon Graye",
+            "Терри Нотари",
+            "Барби Феррейра"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_762504.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 100088,
+        "type": "tv",
+        "title": "Одни из нас",
+        "original_title": "The Last of Us",
+        "year": "2023",
+        "genres": [
+            "драма"
+        ],
+        "director": "Нил Дракманн",
+        "cast": [
+            "Белла Рамзи",
+            "Гэбриел Луна",
+            "Изабела Мерсед",
+            "Янг Мазино",
+            "Такия Брингс Пленти"
+        ],
+        "rating": 8.4,
+        "poster_path": "covers/tv_100088.jpg",
+        "original_language": "en",
+        "seasons": 2
+    },
+    {
+        "id": 9352,
+        "type": "movie",
+        "title": "Евротур",
+        "original_title": "EuroTrip",
+        "year": "2004",
+        "genres": [
+            "комедия"
+        ],
+        "director": "Джефф Шеффер",
+        "cast": [
+            "Скотт Мекловиц",
+            "Джейкоб Питтс",
+            "Мишель Трахтенберг",
+            "Трэвис Вэстер",
+            "Винни Джонс",
+            "Люси Лоулесс",
+            "Джессика Бёрс",
+            "Патрик Мэлахайд",
+            "Патрик Рапольд",
+            "Дидрих Бадер"
+        ],
+        "rating": 6.6,
+        "poster_path": "covers/movie_9352.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 81356,
+        "type": "tv",
+        "title": "Сексуальное просвещение",
+        "original_title": "Sex Education",
+        "year": "2019",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Лори Нанн",
+        "cast": [
+            "Эйса Баттерфилд",
+            "Джиллиан Андерсон",
+            "Шути Гатва",
+            "Эмма Маки",
+            "Кедар Уильямс-Стирлинг",
+            "Таддеа Грэм",
+            "Мими Кин",
+            "Anthony Lexa",
+            "Коннор Суинделлс",
+            "Эйми Лу Вуд"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/tv_81356.jpg",
+        "original_language": "en",
+        "seasons": 4
+    },
+    {
+        "id": 94605,
+        "type": "tv",
+        "title": "Аркейн",
+        "original_title": "Arcane",
+        "year": "2021",
+        "genres": [
+            "мультфильм",
+            "Боевик и Приключения",
+            "НФ и Фэнтези"
+        ],
+        "director": "Кристиан Линке",
+        "cast": [
+            "Хейли Стайнфелд",
+            "Элла Пернелл"
+        ],
+        "rating": 8.8,
+        "poster_path": "covers/tv_94605.jpg",
+        "original_language": "en",
+        "seasons": 2
+    },
+    {
+        "id": 88329,
+        "type": "tv",
+        "title": "Соколиный Глаз",
+        "original_title": "Hawkeye",
+        "year": "2021",
+        "genres": [
+            "драма",
+            "комедия",
+            "Боевик и Приключения"
+        ],
+        "director": "Джонатан Игла",
+        "cast": [
+            "Джереми Реннер",
+            "Хейли Стайнфелд",
+            "Тони Далтон",
+            "Алаква Кокс",
+            "Фра Фи",
+            "Алекс Паунович",
+            "Петр Адамчик",
+            "Вера Фармига"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/tv_88329.jpg",
+        "original_language": "en",
+        "seasons": 1
+    },
+    {
+        "id": 225180,
+        "type": "tv",
+        "title": "Голубоглазый самурай",
+        "original_title": "BLUE EYE SAMURAI",
+        "year": "2023",
+        "genres": [
+            "Боевик и Приключения",
+            "мультфильм"
+        ],
+        "director": "Эмбер Ноидзуми",
+        "cast": [
+            "Майя Эрскин",
+            "Джордж Такеи",
+            "Маси Ока",
+            "Кэри-Хироюки Тагава",
+            "Бренда Сонг",
+            "Даррен Барнет",
+            "Рэндолл Парк",
+            "Кеннет Брана"
+        ],
+        "rating": 8.5,
+        "poster_path": "covers/tv_225180.jpg",
+        "original_language": "en",
+        "seasons": 2
+    },
+    {
+        "id": 545611,
+        "type": "movie",
+        "title": "Всё везде и сразу",
+        "original_title": "Everything Everywhere All at Once",
+        "year": "2022",
+        "genres": [
+            "боевик",
+            "приключения",
+            "фантастика"
+        ],
+        "director": "Daniel Scheinert",
+        "cast": [
+            "Мишель Йео",
+            "Стефани Хсу",
+            "Ке Хюи Куан",
+            "Джеймс Хонг",
+            "Джейми Ли Кёртис",
+            "Tallie Medel",
+            "Дженни Слейт",
+            "Гарии Шум мл.",
+            "Бифф Уифф",
+            "Сунита Мани"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_545611.jpg",
+        "original_language": "en"
     }
 ]
