@@ -18853,5 +18853,33 @@
         "rating": 8.3,
         "poster_path": "covers/movie_1218925.jpg",
         "original_language": "ja"
+    },
+    {
+        "id": 530385,
+        "type": "movie",
+        "title": "Солнцестояние",
+        "original_title": "Midsommar",
+        "year": "2019",
+        "genres": [
+            "ужасы",
+            "драма",
+            "детектив"
+        ],
+        "director": "Ари Астер",
+        "cast": [
+            "Флоренс Пью",
+            "Джек Рейнор",
+            "Уильям Джексон Харпер",
+            "Уилл Поултер",
+            "Vilhelm Blomgren",
+            "Isabelle Grill",
+            "Gunnel Fred",
+            "Эллора Торчия",
+            "Арчи Мадекве",
+            "Henrik Norlén"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_530385.jpg",
+        "original_language": "en"
     }
 ]
