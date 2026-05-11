@@ -19269,5 +19269,27 @@
         "rating": 6.5,
         "poster_path": "covers/movie_739405.jpg",
         "original_language": "en"
+    },
+    {
+        "id": 74440,
+        "type": "tv",
+        "title": "Харли Квинн",
+        "original_title": "Harley Quinn",
+        "year": "2019",
+        "genres": [
+            "Боевик и Приключения",
+            "мультфильм",
+            "комедия",
+            "НФ и Фэнтези"
+        ],
+        "director": "Patrick Schumacker",
+        "cast": [
+            "Кейли Куоко",
+            "Лейк Белл"
+        ],
+        "rating": 8.3,
+        "poster_path": "covers/tv_74440.jpg",
+        "original_language": "en",
+        "seasons": 5
     }
 ]
