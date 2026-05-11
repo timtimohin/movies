@@ -5,3 +5,8 @@ python3: can't open file '/home/count_timohin/movies/bot.py': [Errno 2] No such 
  create mode 100644 nohup.out
 To https://github.com/timtimohin/movies.git
    a915e8c..4259e77  main -> main
+[main f7ba2e2] Обновление базы через бота
+ 4 files changed, 54 insertions(+), 39 deletions(-)
+ create mode 100644 covers/movie_157336.jpg
+To https://github.com/timtimohin/movies.git
+   4259e77..f7ba2e2  main -> main

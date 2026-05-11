@@ -19139,5 +19139,135 @@
         "rating": 8.5,
         "poster_path": "covers/movie_157336.jpg",
         "original_language": "en"
+    },
+    {
+        "id": 1396,
+        "type": "tv",
+        "title": "Во все тяжкие",
+        "original_title": "Breaking Bad",
+        "year": "2008",
+        "genres": [
+            "драма",
+            "криминал"
+        ],
+        "director": "Винс Гиллиган",
+        "cast": [
+            "Брайан Крэнстон",
+            "Аарон Пол",
+            "Анна Ганн",
+            "Ар Джей Митт",
+            "Дин Норрис",
+            "Бетси Брандт",
+            "Боб Оденкёрк",
+            "Джонатан Бэнкс"
+        ],
+        "rating": 8.9,
+        "poster_path": "covers/tv_1396.jpg",
+        "original_language": "en",
+        "seasons": 5
+    },
+    {
+        "id": 60059,
+        "type": "tv",
+        "title": "Лучше звоните Солу",
+        "original_title": "Better Call Saul",
+        "year": "2015",
+        "genres": [
+            "криминал",
+            "драма"
+        ],
+        "director": "Винс Гиллиган",
+        "cast": [
+            "Боб Оденкёрк",
+            "Джонатан Бэнкс",
+            "Рэй Сихорн",
+            "Тони Далтон",
+            "Джанкарло Эспозито"
+        ],
+        "rating": 8.7,
+        "poster_path": "covers/tv_60059.jpg",
+        "original_language": "en",
+        "seasons": 6
+    },
+    {
+        "id": 236235,
+        "type": "tv",
+        "title": "Джентльмены",
+        "original_title": "The Gentlemen",
+        "year": "2024",
+        "genres": [
+            "комедия",
+            "драма",
+            "криминал"
+        ],
+        "director": "Гай Ричи",
+        "cast": [
+            "Тео Джеймс",
+            "Кая Скоделарио",
+            "Дэниэл Ингс",
+            "Джоэли Ричардсон",
+            "Винни Джонс"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/tv_236235.jpg",
+        "original_language": "en",
+        "seasons": 2
+    },
+    {
+        "id": 522627,
+        "type": "movie",
+        "title": "Джентльмены",
+        "original_title": "The Gentlemen",
+        "year": "2020",
+        "genres": [
+            "комедия",
+            "криминал",
+            "боевик"
+        ],
+        "director": "Гай Ричи",
+        "cast": [
+            "Мэттью Макконахи",
+            "Чарли Ханнэм",
+            "Мишель Докери",
+            "Джереми Стронг",
+            "Лин Рене",
+            "Колин Фаррелл",
+            "Генри Голдинг",
+            "Том Ву",
+            "Чиди Аджуфо",
+            "Хью Грант"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_522627.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 739405,
+        "type": "movie",
+        "title": "Операция «Фортуна»: Искусство побеждать",
+        "original_title": "Operation Fortune: Ruse de Guerre",
+        "year": "2023",
+        "genres": [
+            "боевик",
+            "комедия",
+            "триллер",
+            "приключения"
+        ],
+        "director": "Гай Ричи",
+        "cast": [
+            "Джейсон Стейтем",
+            "Обри Плаза",
+            "Кэри Элвис",
+            "Хью Грант",
+            "Джош Хартнетт",
+            "Bugzy Malone",
+            "Эдди Марсан",
+            "Питер Фердинандо",
+            "Nicholas Facey",
+            "Lourdes Faberes"
+        ],
+        "rating": 6.5,
+        "poster_path": "covers/movie_739405.jpg",
+        "original_language": "en"
     }
 ]
