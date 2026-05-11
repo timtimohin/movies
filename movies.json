@@ -19021,5 +19021,59 @@
         "rating": 7.7,
         "poster_path": "covers/movie_766507.jpg",
         "original_language": "en"
+    },
+    {
+        "id": 1457,
+        "type": "tv",
+        "title": "Гордость и предубеждение",
+        "original_title": "Pride and Prejudice",
+        "year": "1995",
+        "genres": [
+            "драма"
+        ],
+        "director": "Эндрю Дэвис",
+        "cast": [
+            "Дженнифер Эль",
+            "Колин Ферт",
+            "Susannah Harker",
+            "Crispin Bonham-Carter",
+            "Benjamin Whitrow",
+            "Элисон Стедман",
+            "Адриан Лукис",
+            "Julia Sawalha",
+            "Люси Дэвис",
+            "Lucy Scott"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/tv_1457.jpg",
+        "original_language": "en",
+        "seasons": 1
+    },
+    {
+        "id": 4348,
+        "type": "movie",
+        "title": "Гордость и предубеждение",
+        "original_title": "Pride & Prejudice",
+        "year": "2005",
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Джо Райт",
+        "cast": [
+            "Кира Найтли",
+            "Мэттью Макфэдьен",
+            "Бренда Блетин",
+            "Розамунд Пайк",
+            "Кэри Маллиган",
+            "Джена Мэлоун",
+            "Талула Райли",
+            "Дональд Сазерленд",
+            "Саймон Вудс",
+            "Джуди Денч"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/movie_4348.jpg",
+        "original_language": "en"
     }
 ]
