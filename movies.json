@@ -2850,25 +2850,6 @@
         "original_language": "en"
     },
     {
-        "id": 529107,
-        "title": "Inside 'Interstellar'",
-        "year": "2015",
-        "genres": [
-            "документальный"
-        ],
-        "director": "Jason Hillhouse",
-        "cast": [
-            "Кристофер Нолан",
-            "Эмма Томас",
-            "Линда Обст",
-            "Мэттью Макконахи",
-            "Джессика Честейн"
-        ],
-        "rating": 6.9,
-        "poster_path": "covers/529107.jpg",
-        "original_language": "en"
-    },
-    {
         "id": 39254,
         "title": "Живая сталь",
         "year": "2011",
@@ -19129,6 +19110,34 @@
         ],
         "rating": 7.5,
         "poster_path": "covers/movie_1233413.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 157336,
+        "type": "movie",
+        "title": "Интерстеллар",
+        "original_title": "Interstellar",
+        "year": "2014",
+        "genres": [
+            "приключения",
+            "драма",
+            "фантастика"
+        ],
+        "director": "Кристофер Нолан",
+        "cast": [
+            "Мэттью Макконахи",
+            "Энн Хэтэуэй",
+            "Майкл Кейн",
+            "Джессика Честейн",
+            "Кейси Аффлек",
+            "Уэс Бентли",
+            "Тофер Грейс",
+            "Маккензи Фой",
+            "Эллен Бёрстин",
+            "Джон Литгоу"
+        ],
+        "rating": 8.5,
+        "poster_path": "covers/movie_157336.jpg",
         "original_language": "en"
     }
 ]

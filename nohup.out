@@ -1,1 +1,7 @@
 python3: can't open file '/home/count_timohin/movies/bot.py': [Errno 2] No such file or directory
+[main 4259e77] Обновление базы через бота
+ 4 files changed, 48 insertions(+), 1 deletion(-)
+ create mode 100644 covers/movie_1233413.jpg
+ create mode 100644 nohup.out
+To https://github.com/timtimohin/movies.git
+   a915e8c..4259e77  main -> main
