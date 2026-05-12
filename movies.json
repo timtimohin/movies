@@ -20079,5 +20079,389 @@
         "rating": 7.7,
         "poster_path": "covers/movie_545611.jpg",
         "original_language": "en"
+    },
+    {
+        "id": 493529,
+        "type": "movie",
+        "title": "Подземелья и драконы: Честь среди воров",
+        "original_title": "Dungeons & Dragons: Honor Among Thieves",
+        "year": "2023",
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия"
+        ],
+        "director": "Джонатан Голдштейн",
+        "cast": [
+            "Крис Пайн",
+            "Мишель Родригес",
+            "Джастис Смит",
+            "София Лиллис",
+            "Хью Грант",
+            "Реге Пейдж",
+            "Хлоя Коулмэн",
+            "Дэйзи Хэд",
+            "Кайл Хиксон",
+            "Спенсер Уайлдинг"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_493529.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 582014,
+        "type": "movie",
+        "title": "Девушка, подающая надежды",
+        "original_title": "Promising Young Woman",
+        "year": "2020",
+        "genres": [
+            "триллер",
+            "криминал",
+            "драма"
+        ],
+        "director": "Эмиральд Феннел",
+        "cast": [
+            "Кэри Маллиган",
+            "Бо Бёрнэм",
+            "Элисон Бри",
+            "Клэнси Браун",
+            "Дженнифер Кулидж",
+            "Лаверн Кокс",
+            "Крис Лоуэлл",
+            "Молли Шеннон",
+            "Конни Бриттон",
+            "Адам Броди"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_582014.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 446021,
+        "type": "movie",
+        "title": "Ничего хорошего в отеле «Эль рояль»",
+        "original_title": "Bad Times at the El Royale",
+        "year": "2018",
+        "genres": [
+            "триллер",
+            "детектив",
+            "криминал"
+        ],
+        "director": "Дрю Годдард",
+        "cast": [
+            "Джефф Бриджес",
+            "Синтия Эриво",
+            "Льюис Пуллман",
+            "Дакота Джонсон",
+            "Кейли Спэни",
+            "Джон Хэмм",
+            "Крис Хемсворт",
+            "Ник Офферман",
+            "Ксавье Долан",
+            "Шей Уигэм"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_446021.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 296096,
+        "type": "movie",
+        "title": "До встречи с тобой",
+        "original_title": "Me Before You",
+        "year": "2016",
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Теа Шэррок",
+        "cast": [
+            "Эмилия Кларк",
+            "Сэм Клафлин",
+            "Джанет Мактир",
+            "Чарльз Дэнс",
+            "Брендан Койл",
+            "Дженна Коулман",
+            "Мэттью Льюис",
+            "Саманта Спиро",
+            "Стивен Пикок",
+            "Ванесса Кирби"
+        ],
+        "rating": 7.9,
+        "poster_path": "covers/movie_296096.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 359940,
+        "type": "movie",
+        "title": "Три билборда на границе Эббинга, Миссури",
+        "original_title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "genres": [
+            "криминал",
+            "драма"
+        ],
+        "director": "Мартин Макдонах",
+        "cast": [
+            "Фрэнсис Макдорманд",
+            "Вуди Харрельсон",
+            "Сэм Рокуэлл",
+            "Эбби Корниш",
+            "Лукас Хеджес",
+            "Желько Иванек",
+            "Калеб Лэндри Джонс",
+            "Кларк Питерс",
+            "Самара Уивинг",
+            "Джон Хоукс"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/movie_359940.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 884605,
+        "type": "movie",
+        "title": "Без обид",
+        "original_title": "No Hard Feelings",
+        "year": "2023",
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "director": "Джин Ступницки",
+        "cast": [
+            "Дженнифер Лоуренс",
+            "Эндрю Барт Фельдман",
+            "Лаура Бенанти",
+            "Натали Моралес",
+            "Мэттью Бродерик",
+            "Скотт Макартур",
+            "Эбон Мосс-Бакрак",
+            "Кайл Муни",
+            "Хасан Минхаж",
+            "Jordan Mendoza"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_884605.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 974931,
+        "type": "movie",
+        "title": "Абсолютный убийца",
+        "original_title": "Totally Killer",
+        "year": "2023",
+        "genres": [
+            "ужасы",
+            "комедия",
+            "фантастика"
+        ],
+        "director": "Нахнатчка Хан",
+        "cast": [
+            "Кирнан Шипка",
+            "Оливия Холт",
+            "Troy Leigh-Anne Johnson",
+            "Лохлин Манро",
+            "Charlie Gillespie",
+            "Kelcey Mawema",
+            "Джонатан Поттс",
+            "Stephi Chin-Salvo",
+            "Anna Diaz",
+            "Лиана Либерато"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_974931.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 526007,
+        "type": "movie",
+        "title": "Ночной портье",
+        "original_title": "The Night Clerk",
+        "year": "2020",
+        "genres": [
+            "триллер",
+            "криминал",
+            "драма"
+        ],
+        "director": "Майкл Кристофер",
+        "cast": [
+            "Тай Шеридан",
+            "Ана де Армас",
+            "Джон Легуизамо",
+            "Хелен Хант",
+            "Jacque Gray",
+            "Johnathon Schaech",
+            "Joey Miyashima",
+            "Austin Archer",
+            "D.L. Walker",
+            "Walter Platz"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_526007.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 645710,
+        "type": "movie",
+        "title": "Вуайеристы",
+        "original_title": "The Voyeurs",
+        "year": "2021",
+        "genres": [
+            "триллер"
+        ],
+        "director": "Michael Mohan",
+        "cast": [
+            "Сидни Суини",
+            "Джастис Смит",
+            "Бен Харди",
+            "Natasha Liu Bordizzo",
+            "Кэтрин Кинг",
+            "Cameo Adele",
+            "Джин Юн",
+            "Cait Alexander",
+            "Блессинг Адедиджо",
+            "Bianca Blizzard"
+        ],
+        "rating": 6.5,
+        "poster_path": "covers/movie_645710.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 501170,
+        "type": "movie",
+        "title": "Доктор Сон",
+        "original_title": "Doctor Sleep",
+        "year": "2019",
+        "genres": [
+            "ужасы",
+            "фэнтези"
+        ],
+        "director": "Майк Флэнаган",
+        "cast": [
+            "Юэн Макгрегор",
+            "Ребекка Фергюсон",
+            "Кайли Кёрран",
+            "Клифф Кёртис",
+            "Зан Маккларнон",
+            "Эмили Элин Линд",
+            "Селена Андусе",
+            "Роберт Лонгстрит",
+            "Карел Стрёйкен",
+            "Кэти Паркер"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_501170.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 694,
+        "type": "movie",
+        "title": "Сияние",
+        "original_title": "The Shining",
+        "year": "1980",
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "director": "Стэнли Кубрик",
+        "cast": [
+            "Джек Николсон",
+            "Шелли Дюваль",
+            "Danny Lloyd",
+            "Скэтмэн Крозерс",
+            "Barry Nelson",
+            "Филип Стоун",
+            "Джо Тёркел",
+            "Anne Jackson",
+            "Tony Burton",
+            "Lia Beldam"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/movie_694.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 346685,
+        "type": "movie",
+        "title": "Девушка в поезде",
+        "original_title": "The Girl on the Train",
+        "year": "2016",
+        "genres": [
+            "криминал",
+            "детектив",
+            "триллер"
+        ],
+        "director": "Tate Taylor",
+        "cast": [
+            "Эмили Блант",
+            "Ребекка Фергюсон",
+            "Хейли Беннетт",
+            "Люк Эванс",
+            "Джастин Теру",
+            "Эллисон Дженни",
+            "Лиза Кудроу",
+            "Laura Prepon",
+            "Эдгар Рамирес",
+            "Даррен Гольдштейн"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_346685.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 300668,
+        "type": "movie",
+        "title": "Аннигиляция",
+        "original_title": "Annihilation",
+        "year": "2018",
+        "genres": [
+            "фантастика",
+            "ужасы"
+        ],
+        "director": "Алекс Гарленд",
+        "cast": [
+            "Натали Портман",
+            "Дженнифер Джейсон Ли",
+            "Джина Родригес",
+            "Тесса Томпсон",
+            "Тува Новотны",
+            "Оскар Айзек",
+            "Бенедикт Вонг",
+            "Соноя Мидзуно",
+            "Дэвид Джеси",
+            "Джон Шваб"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_300668.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 39758,
+        "type": "tv",
+        "title": "Мешок с костями",
+        "original_title": "Bag of Bones",
+        "year": "2011",
+        "genres": [
+            "драма",
+            "детектив"
+        ],
+        "director": "Стивен Кинг",
+        "cast": [
+            "Пирс Броснан",
+            "Мелисса Джордж",
+            "Аннабет Гиш",
+            "Аника Нони Роуз",
+            "Мэтт Фрюэр",
+            "Jason Priestley",
+            "Caitlin Carmichael",
+            "Peter MacNeill",
+            "Уильям Шэллерт",
+            "Deborah Allen"
+        ],
+        "rating": 5.9,
+        "poster_path": "covers/tv_39758.jpg",
+        "original_language": "en",
+        "seasons": 1
     }
 ]
