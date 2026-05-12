@@ -20463,5 +20463,202 @@
         "poster_path": "covers/tv_39758.jpg",
         "original_language": "en",
         "seasons": 1
+    },
+    {
+        "id": 1104,
+        "type": "tv",
+        "title": "Безумцы",
+        "original_title": "Mad Men",
+        "year": "2007",
+        "genres": [
+            "драма"
+        ],
+        "director": "Мэттью Вайнер",
+        "cast": [
+            "Джон Хэмм",
+            "Элизабет Мосс",
+            "Винсент Картайзер",
+            "Дженьюэри Джонс",
+            "Кристина Хендрикс",
+            "Aaron Staton",
+            "Рич Соммер",
+            "Кирнан Шипка",
+            "Кевин Рам",
+            "Крис Стэнли"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/tv_1104.jpg",
+        "original_language": "en",
+        "seasons": 7
+    },
+    {
+        "id": 14864,
+        "type": "movie",
+        "title": "Горячее местечко",
+        "original_title": "The Hot Spot",
+        "year": "1990",
+        "genres": [
+            "мелодрама",
+            "криминал",
+            "триллер"
+        ],
+        "director": "Деннис Хоппер",
+        "cast": [
+            "Дон Джонсон",
+            "Вирджиния Мэдсен",
+            "Дженнифер Коннелли",
+            "Чарльз Мартин Смит",
+            "Уильям Сэдлер",
+            "Джерри Хардин",
+            "Барри Корбин",
+            "Leon Rippy",
+            "Джек Нэнс",
+            "Virgil Frye"
+        ],
+        "rating": 6.3,
+        "poster_path": "covers/movie_14864.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 16270,
+        "type": "movie",
+        "title": "Возможности карьеры",
+        "original_title": "Career Opportunities",
+        "year": "1991",
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "director": "Брайан Гордон",
+        "cast": [
+            "Фрэнк Уэйли",
+            "Дженнифер Коннелли",
+            "Дермот Малруни",
+            "Kieran Mulroney",
+            "John M. Jackson",
+            "Дженни О’Хара",
+            "Ноубл Уиллингэм",
+            "Нада Деспотович",
+            "Reid Binion",
+            "Барри Корбин"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_16270.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 12244,
+        "type": "movie",
+        "title": "Девять",
+        "original_title": "9",
+        "year": "2009",
+        "genres": [
+            "боевик",
+            "приключения",
+            "мультфильм",
+            "фантастика",
+            "триллер"
+        ],
+        "director": "Shane Acker",
+        "cast": [
+            "Элайджа Вуд",
+            "Кристофер Пламмер",
+            "Мартин Ландау",
+            "Джон Си Райли",
+            "Криспин Гловер",
+            "Дженнифер Коннелли",
+            "Фред Таташор",
+            "Алан Оппенгеймер",
+            "Том Кэйн",
+            "Helen Wilson"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_12244.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 576845,
+        "type": "movie",
+        "title": "Прошлой ночью в Сохо",
+        "original_title": "Last Night in Soho",
+        "year": "2021",
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "director": "Эдгар Райт",
+        "cast": [
+            "Томасин МакКензи",
+            "Аня Тейлор-Джой",
+            "Мэтт Смит",
+            "Rita Tushingham",
+            "Michael Ajao",
+            "Синнёве Карлсен",
+            "Полин Маклин",
+            "Теренс Стэмп",
+            "Дайана Ригг",
+            "Aimée Cassettari"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_576845.jpg",
+        "original_language": "en"
+    },
+    {
+        "id": 66732,
+        "type": "tv",
+        "title": "Очень странные дела",
+        "original_title": "Stranger Things",
+        "year": "2016",
+        "genres": [
+            "НФ и Фэнтези",
+            "детектив",
+            "Боевик и Приключения"
+        ],
+        "director": "Росс Даффер",
+        "cast": [
+            "Вайнона Райдер",
+            "Дэвид Харбор",
+            "Милли Бобби Браун",
+            "Финн Вулфхард",
+            "Гейтен Матараццо",
+            "Калеб Маклафлин",
+            "Ноа Шнапп",
+            "Сэди Синк",
+            "Наталия Дайер",
+            "Чарли Хитон"
+        ],
+        "rating": 8.6,
+        "poster_path": "covers/tv_66732.jpg",
+        "original_language": "en",
+        "seasons": 5
+    },
+    {
+        "id": 590223,
+        "type": "movie",
+        "title": "Любовь и монстры",
+        "original_title": "Love and Monsters",
+        "year": "2020",
+        "genres": [
+            "приключения",
+            "комедия",
+            "фэнтези",
+            "фантастика"
+        ],
+        "director": "Майкл Мэтьюз",
+        "cast": [
+            "Дилан О'Брайен",
+            "Джессика Хенвик",
+            "Майкл Рукер",
+            "Dan Ewing",
+            "Ариана Гринблатт",
+            "Эллен Холлман",
+            "Тре Хейл",
+            "Пачаро Мзембе",
+            "Senie Priti",
+            "Амали Голден"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_590223.jpg",
+        "original_language": "en"
     }
 ]
