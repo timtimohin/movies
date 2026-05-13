@@ -10789,28 +10789,6 @@
         "status": "favorite"
     },
     {
-        "id": 634649,
-        "title": "Человек-паук: Нет пути домой",
-        "year": "2021",
-        "genres": [
-            "боевик",
-            "приключения",
-            "фантастика"
-        ],
-        "director": "Джон Уоттс",
-        "cast": [
-            "Том Холланд",
-            "Зендея",
-            "Бенедикт Камбербэтч",
-            "Джейкоб Баталон",
-            "Джон Фавро"
-        ],
-        "rating": 7.9,
-        "poster_path": "covers/634649.jpg",
-        "original_language": "en",
-        "status": "favorite"
-    },
-    {
         "id": 36668,
         "title": "Люди Икс: Последняя битва",
         "year": "2006",
@@ -20207,35 +20185,6 @@
         "status": "favorite"
     },
     {
-        "id": 634649,
-        "type": "movie",
-        "title": "Человек-паук: Нет пути домой",
-        "original_title": "Spider-Man: No Way Home",
-        "year": "2021",
-        "genres": [
-            "боевик",
-            "приключения",
-            "фантастика"
-        ],
-        "director": "Джон Уоттс",
-        "cast": [
-            "Том Холланд",
-            "Зендея",
-            "Бенедикт Камбербэтч",
-            "Джейкоб Баталон",
-            "Джон Фавро",
-            "Джейми Фокс",
-            "Уиллем Дефо",
-            "Альфред Молина",
-            "Бенедикт Вонг",
-            "Тони Револори"
-        ],
-        "rating": 7.9,
-        "poster_path": "covers/movie_634649.jpg",
-        "original_language": "en",
-        "status": "favorite"
-    },
-    {
         "id": 1429,
         "type": "tv",
         "title": "Атака титанов",
@@ -21915,5 +21864,526 @@
         "poster_path": "covers/movie_418879.jpg",
         "original_language": "en",
         "status": "planned"
+    },
+    {
+        "id": 77174,
+        "type": "movie",
+        "title": "Паранорман, или Как приручить зомби",
+        "original_title": "ParaNorman",
+        "year": "2012",
+        "genres": [
+            "семейный",
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "director": "Сэм Фелл",
+        "cast": [
+            "Коди Смит-Макфи",
+            "Tucker Albrizzi",
+            "Анна Кендрик",
+            "Кейси Аффлек",
+            "Кристофер Минц-Плассе",
+            "Лесли Манн",
+            "Джефф Гарлин",
+            "Elaine Stritch",
+            "Бернард Хилл",
+            "Джоделль Ферланд"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_77174.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 170687,
+        "type": "movie",
+        "title": "Семейка монстров",
+        "original_title": "The Boxtrolls",
+        "year": "2014",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "director": "Graham Annable",
+        "cast": [
+            "Бен Кингсли",
+            "Айзек Хэмпстед-Райт",
+            "Эль Фэннинг",
+            "Ди Брэдли Бейкер",
+            "Тони Коллетт",
+            "Джаред Харрис",
+            "Ник Фрост",
+            "Ричард Айоади",
+            "Трейси Морган",
+            "Саймон Пегг"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_170687.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 458253,
+        "type": "movie",
+        "title": "Потерянное звено",
+        "original_title": "Missing Link",
+        "year": "2019",
+        "genres": [
+            "семейный",
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "боевик"
+        ],
+        "director": "Крис Батлер",
+        "cast": [
+            "Хью Джекман",
+            "Зои Салдана",
+            "Зак Галифианакис",
+            "Стивен Фрай",
+            "Тимоти Олифант",
+            "Эмма Томпсон",
+            "Амрита Ачарья",
+            "Мэтт Лукас",
+            "Ching Valdes-Aran",
+            "Дэвид Уолльямс"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_458253.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 435129,
+        "type": "movie",
+        "title": "Добытчица",
+        "original_title": "The Breadwinner",
+        "year": "2017",
+        "genres": [
+            "мультфильм",
+            "военный",
+            "драма",
+            "семейный"
+        ],
+        "director": "Nora Twomey",
+        "cast": [
+            "Saara Chaudry",
+            "Soma Bhatia",
+            "Noorin Gulamgaus",
+            "Laara Sadiq",
+            "Али Бадшах",
+            "Shaista Latif",
+            "Kanza Feris",
+            "Kawa Ada",
+            "Kane Mahon",
+            "Ali Kazmi"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_435129.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 441130,
+        "type": "movie",
+        "title": "Легенда о волках",
+        "original_title": "Wolfwalkers",
+        "year": "2020",
+        "genres": [
+            "мультфильм",
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "director": "Tomm Moore",
+        "cast": [
+            "Хонор Нифси",
+            "Eva Whittaker",
+            "Шон Бин",
+            "Саймон Макберни",
+            "Tommy Tiernan",
+            "Мария Дойл Кеннеди",
+            "Jon Kenny",
+            "John Morton",
+            "Nora Twomey",
+            "Oliver McGrath"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/movie_441130.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 560052,
+        "type": "movie",
+        "title": "Папин дракон",
+        "original_title": "My Father's Dragon",
+        "year": "2022",
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фэнтези",
+            "комедия"
+        ],
+        "director": "Nora Twomey",
+        "cast": [
+            "Джейкоб Трамбле",
+            "Гольшифте Фарахани",
+            "Гейтен Матараццо",
+            "Дайан Уист",
+            "Рита Морено",
+            "Крис О’Дауд",
+            "Джуди Грир",
+            "Алан Камминг",
+            "Яра Шахиди",
+            "Джэки Ерл Хейли"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_560052.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 466420,
+        "type": "movie",
+        "title": "Убийцы цветочной луны",
+        "original_title": "Killers of the Flower Moon",
+        "year": "2023",
+        "genres": [
+            "криминал",
+            "история",
+            "драма"
+        ],
+        "director": "Мартин Скорсезе",
+        "cast": [
+            "Леонардо ДиКаприо",
+            "Роберт Де Ниро",
+            "Лили Гладстон",
+            "Джесси Племонс",
+            "Танту Кардинал",
+            "Джон Литгоу",
+            "Брендан Фрейзер",
+            "Cara Jade Myers",
+            "JaNae Collins",
+            "Jillian Dion"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_466420.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 9264,
+        "type": "movie",
+        "title": "Ядовитый плющ",
+        "original_title": "Poison Ivy",
+        "year": "1992",
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "director": "Katt Shea",
+        "cast": [
+            "Дрю Бэрримор",
+            "Том Скеррит",
+            "Sara Gilbert",
+            "Cheryl Ladd",
+            "Alan Stock",
+            "Джинн Саката",
+            "E.J. Moore",
+            "J.B. Quon",
+            "Леонардо ДиКаприо",
+            "Michael Goldner"
+        ],
+        "rating": 5.4,
+        "poster_path": "covers/movie_9264.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 616037,
+        "type": "movie",
+        "title": "Тор: Любовь и гром",
+        "original_title": "Thor: Love and Thunder",
+        "year": "2022",
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "комедия"
+        ],
+        "director": "Тайка Вайтити",
+        "cast": [
+            "Крис Хемсворт",
+            "Натали Портман",
+            "Кристиан Бейл",
+            "Тесса Томпсон",
+            "Тайка Вайтити",
+            "Рассел Кроу",
+            "Джейми Александер",
+            "Идрис Эльба",
+            "Крис Прэтт",
+            "Дейв Батиста"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_616037.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 497698,
+        "type": "movie",
+        "title": "Чёрная вдова",
+        "original_title": "Black Widow",
+        "year": "2021",
+        "genres": [
+            "боевик",
+            "приключения",
+            "фантастика"
+        ],
+        "director": "Кейт Шортланд",
+        "cast": [
+            "Скарлетт Йоханссон",
+            "Флоренс Пью",
+            "Рэйчел Вайс",
+            "Дэвид Харбор",
+            "Рэй Уинстон",
+            "Евер Андерсон",
+            "Вайолет МакГроу",
+            "О. Т. Фагбенли",
+            "Уильям Хёрт",
+            "Ольга Куриленко"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_497698.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 566525,
+        "type": "movie",
+        "title": "Шан-Чи и Легенда Десяти Колец",
+        "original_title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": "2021",
+        "genres": [
+            "боевик",
+            "приключения",
+            "фэнтези"
+        ],
+        "director": "Дестин Дэниел Креттон",
+        "cast": [
+            "Симу Лю",
+            "Тони Люн Чу-Вай",
+            "Аквафина",
+            "Бен Кингсли",
+            "Чжан Мэнъэр",
+            "Чэнь Фала",
+            "Мишель Йео",
+            "Юэнь Ва",
+            "Флориан Мунтяну",
+            "Энди Ле"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_566525.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 453395,
+        "type": "movie",
+        "title": "Доктор Стрэндж: В мультивселенной безумия",
+        "original_title": "Doctor Strange in the Multiverse of Madness",
+        "year": "2022",
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "director": "Сэм Рэйми",
+        "cast": [
+            "Бенедикт Камбербэтч",
+            "Сочи Гомес",
+            "Элизабет Олсен",
+            "Чиветел Эджиофор",
+            "Бенедикт Вонг",
+            "Рэйчел МакАдамс",
+            "Джетт Клайн",
+            "Джулиан Хиллиард",
+            "Майкл Стулбарг",
+            "Хейли Этвелл"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_453395.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 505642,
+        "type": "movie",
+        "title": "Чёрная Пантера: Ваканда навеки",
+        "original_title": "Black Panther: Wakanda Forever",
+        "year": "2022",
+        "genres": [
+            "боевик",
+            "приключения",
+            "фантастика"
+        ],
+        "director": "Райан Куглер",
+        "cast": [
+            "Летиша Райт",
+            "Теноч Уэрта",
+            "Лупита Нионго",
+            "Данай Гурира",
+            "Уинстон Дьюк",
+            "Анджела Бассетт",
+            "Мартин Фримен",
+            "Джулия Луи-Дрейфус",
+            "Доминик Торн",
+            "Флоренс Касумба"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_505642.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 447365,
+        "type": "movie",
+        "title": "Стражи Галактики. Часть 3",
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "year": "2023",
+        "genres": [
+            "фантастика",
+            "приключения",
+            "боевик"
+        ],
+        "director": "Джеймс Ганн",
+        "cast": [
+            "Крис Прэтт",
+            "Зои Салдана",
+            "Дейв Батиста",
+            "Карен Гиллан",
+            "Пом Клементьефф",
+            "Вин Дизель",
+            "Брэдли Купер",
+            "Шон Ганн",
+            "Чаквуди Ивуджи",
+            "Уилл Поултер"
+        ],
+        "rating": 7.9,
+        "poster_path": "covers/movie_447365.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 956842,
+        "type": "movie",
+        "title": "Покажи мне Луну",
+        "original_title": "Fly Me to the Moon",
+        "year": "2024",
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "director": "Грег Берланти",
+        "cast": [
+            "Скарлетт Йоханссон",
+            "Ченнинг Татум",
+            "Вуди Харрельсон",
+            "Рэй Романо",
+            "Джим Рэш",
+            "Анна Гарсиа",
+            "Дональд Уоткинс",
+            "Ной Роббинс",
+            "Кристиан Клименсон",
+            "Колин Вуделл"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_956842.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 116,
+        "type": "movie",
+        "title": "Матч Поинт",
+        "original_title": "Match Point",
+        "year": "2005",
+        "genres": [
+            "драма",
+            "мелодрама",
+            "триллер"
+        ],
+        "director": "Вуди Аллен",
+        "cast": [
+            "Джонатан Риз Майерс",
+            "Скарлетт Йоханссон",
+            "Эмили Мортимер",
+            "Мэтью Гуд",
+            "Брайан Кокс",
+            "Пенелопа Уилтон",
+            "Джеймс Несбитт",
+            "Юэн Бремнер",
+            "Miranda Raison",
+            "Margaret Tyzack"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_116.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 82856,
+        "type": "tv",
+        "title": "Мандалорец",
+        "original_title": "The Mandalorian",
+        "year": "2019",
+        "genres": [
+            "НФ и Фэнтези",
+            "Боевик и Приключения"
+        ],
+        "director": "Джон Фавро",
+        "cast": [
+            "Педро Паскаль",
+            "Кэти Сакхофф"
+        ],
+        "rating": 8.4,
+        "poster_path": "covers/tv_82856.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "seasons": 3
+    },
+    {
+        "id": 430162,
+        "type": "movie",
+        "title": "Сказки серого волка",
+        "original_title": "Revolting Rhymes",
+        "year": "2017",
+        "genres": [
+            "семейный",
+            "мультфильм",
+            "комедия",
+            "фэнтези"
+        ],
+        "director": "Jan Lachauer",
+        "cast": [
+            "Доминик Уэст",
+            "Джемма Чан",
+            "Роуз Лесли",
+            "Tamsin Greig",
+            "Берти Карвел",
+            "Роб Брайдон",
+            "Amelie Forester-Evans",
+            "Айзек Хэмпстед-Райт",
+            "Dylan Issberner",
+            "Бел Паули"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_430162.jpg",
+        "original_language": "en",
+        "status": "favorite"
     }
 ]
