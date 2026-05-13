@@ -21829,5 +21829,91 @@
         "poster_path": "covers/movie_961323.jpg",
         "original_language": "en",
         "status": "favorite"
+    },
+    {
+        "id": 471506,
+        "type": "movie",
+        "title": "В объятиях лжи",
+        "original_title": "Greta",
+        "year": "2019",
+        "genres": [
+            "детектив",
+            "триллер",
+            "драма"
+        ],
+        "director": "Neil Jordan",
+        "cast": [
+            "Хлоя Грейс Морец",
+            "Изабель Юппер",
+            "Майка Монро",
+            "Колм Фиори",
+            "Стивен Ри",
+            "Заве Эштон",
+            "Джефф Хиллер",
+            "Тадеус Дэниелс",
+            "Raven Dauda",
+            "Паркер Сойерс"
+        ],
+        "rating": 6.6,
+        "poster_path": "covers/movie_471506.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 11495,
+        "type": "movie",
+        "title": "Воспламеняющая взглядом",
+        "original_title": "Firestarter",
+        "year": "1984",
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "триллер"
+        ],
+        "director": "Марк Л. Лестер",
+        "cast": [
+            "Дэвид Кит",
+            "Дрю Бэрримор",
+            "Фредди Джонс",
+            "Хэзер Локлир",
+            "Мартин Шин",
+            "Джордж К. Скотт",
+            "Арт Карни",
+            "Луиза Флетчер",
+            "Моузес Ганн",
+            "Антонио Фаргас"
+        ],
+        "rating": 6.3,
+        "poster_path": "covers/movie_11495.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 418879,
+        "type": "movie",
+        "title": "Война токов",
+        "original_title": "The Current War",
+        "year": "2018",
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "director": "Alfonso Gomez-Rejon",
+        "cast": [
+            "Бенедикт Камбербэтч",
+            "Майкл Шеннон",
+            "Николас Холт",
+            "Кэтрин Уотерстон",
+            "Том Холланд",
+            "Мэттью Макфэдьен",
+            "Таппенс Мидлтон",
+            "Стэнли Таунсенд",
+            "Дэмиен Молони",
+            "Conor MacNeill"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_418879.jpg",
+        "original_language": "en",
+        "status": "planned"
     }
 ]
