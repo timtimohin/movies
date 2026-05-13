@@ -22017,37 +22017,6 @@
         "status": "planned"
     },
     {
-        "id": 560052,
-        "type": "movie",
-        "title": "Папин дракон",
-        "original_title": "My Father's Dragon",
-        "year": "2022",
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фэнтези",
-            "комедия"
-        ],
-        "director": "Nora Twomey",
-        "cast": [
-            "Джейкоб Трамбле",
-            "Гольшифте Фарахани",
-            "Гейтен Матараццо",
-            "Дайан Уист",
-            "Рита Морено",
-            "Крис О’Дауд",
-            "Джуди Грир",
-            "Алан Камминг",
-            "Яра Шахиди",
-            "Джэки Ерл Хейли"
-        ],
-        "rating": 7.1,
-        "poster_path": "covers/movie_560052.jpg",
-        "original_language": "en",
-        "status": "planned"
-    },
-    {
         "id": 466420,
         "type": "movie",
         "title": "Убийцы цветочной луны",
@@ -22385,5 +22354,344 @@
         "poster_path": "covers/movie_430162.jpg",
         "original_language": "en",
         "status": "favorite"
+    },
+    {
+        "id": 533,
+        "type": "movie",
+        "title": "Уоллес и Громит: Проклятие Кролика-Оборотня",
+        "original_title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "year": "2005",
+        "genres": [
+            "приключения",
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "director": "Steve Box",
+        "cast": [
+            "Питер Саллис",
+            "Рэйф Файнс",
+            "Хелена Бонем Картер",
+            "Питер Кэй",
+            "Nicholas Smith",
+            "Liz Smith",
+            "John Thomson",
+            "Марк Гэтисс",
+            "Vincent Ebrahim",
+            "Джеральдин Макьюэн"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_533.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 532,
+        "type": "movie",
+        "title": "Уоллес и Громит: Выбрить Наголо",
+        "original_title": "A Close Shave",
+        "year": "1996",
+        "genres": [
+            "семейный",
+            "мультфильм",
+            "комедия"
+        ],
+        "director": "Ник Парк",
+        "cast": [
+            "Питер Саллис",
+            "Энн Рейд"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/movie_532.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 530,
+        "type": "movie",
+        "title": "Уоллес и Громит: Великий Выходной",
+        "original_title": "A Grand Day Out",
+        "year": "1990",
+        "genres": [
+            "семейный",
+            "мультфильм",
+            "комедия",
+            "фантастика",
+            "приключения"
+        ],
+        "director": "Ник Парк",
+        "cast": [
+            "Питер Саллис"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_530.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 211798,
+        "type": "movie",
+        "title": "Уоллес и Громит: Хитроумные Приспособления",
+        "original_title": "Wallace & Gromit's Cracking Contraptions",
+        "year": "2002",
+        "genres": [
+            "мультфильм",
+            "комедия"
+        ],
+        "director": "Loyd Price",
+        "cast": [
+            "Питер Саллис"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_211798.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 332228,
+        "type": "movie",
+        "title": "Мир изобретений Уоллеса и Громита",
+        "original_title": "Wallace & Gromit's World of Invention",
+        "year": "2010",
+        "genres": [
+            "семейный",
+            "мультфильм"
+        ],
+        "director": "Merlin Crossingham",
+        "cast": [
+            "Ник Парк",
+            "Bob Baker",
+            "Sarah Laborde",
+            "Miles Bullough",
+            "Питер Саллис"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_332228.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 929204,
+        "type": "movie",
+        "title": "Уоллес и Громит: Самая Дикая Месть",
+        "original_title": "Wallace & Gromit: Vengeance Most Fowl",
+        "year": "2024",
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения",
+            "мультфильм"
+        ],
+        "director": "Ник Парк",
+        "cast": [
+            "Бен Уайтхед",
+            "Питер Кэй",
+            "Лорен Патель",
+            "Рис Шерсмит",
+            "Диана Морган",
+            "Аджоа Андох",
+            "Мазз Хан",
+            "Ленни Генри",
+            "Виктория Эллиотт",
+            "Джон Гловер"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_929204.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 204154,
+        "type": "tv",
+        "title": "Царство падальщиков",
+        "original_title": "Scavengers Reign",
+        "year": "2023",
+        "genres": [
+            "НФ и Фэнтези",
+            "драма",
+            "мультфильм",
+            "Боевик и Приключения"
+        ],
+        "director": "Чарльз Хюттнер",
+        "cast": [
+            "Сунита Мани",
+            "Вунми Мосаку",
+            "Алиа Шокат",
+            "Боб Стивенсон",
+            "Ted Travelstead"
+        ],
+        "rating": 8.5,
+        "poster_path": "covers/tv_204154.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "seasons": 1
+    },
+    {
+        "id": 7249,
+        "type": "movie",
+        "title": "Футурама: Большой куш Бендера",
+        "original_title": "Futurama: Bender's Big Score",
+        "year": "2007",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "director": "Dwayne Carey-Hill",
+        "cast": [
+            "Билли Уэст",
+            "Кэти Сагал",
+            "Джон Ди Маджо",
+            "Фил Ламарр",
+            "Тресс Макнилл",
+            "Лорен Том",
+            "Морис Ламарш",
+            "Дэвид Херман",
+            "Донн Льюис",
+            "Kath Soucie"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_7249.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 13253,
+        "type": "movie",
+        "title": "Футурама: Игра Бендера",
+        "original_title": "Futurama: Bender's Game",
+        "year": "2008",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика",
+            "боевик",
+            "фэнтези"
+        ],
+        "director": "Dwayne Carey-Hill",
+        "cast": [
+            "Билли Уэст",
+            "Кэти Сагал",
+            "Джон Ди Маджо",
+            "Тресс Макнилл",
+            "Морис Ламарш",
+            "Фил Ламарр",
+            "Kath Soucie",
+            "Лорен Том",
+            "Дэвид Херман",
+            "Фрэнк Уэлкер"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_13253.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 12889,
+        "type": "movie",
+        "title": "Футурама: Зверь с миллиардом спин",
+        "original_title": "Futurama: The Beast with a Billion Backs",
+        "year": "2008",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика",
+            "мелодрама"
+        ],
+        "director": "Питер Аванзино",
+        "cast": [
+            "Билли Уэст",
+            "Кэти Сагал",
+            "Джон Ди Маджо",
+            "Фил Ламарр",
+            "Лорен Том",
+            "Тресс Макнилл",
+            "Морис Ламарш",
+            "Дэвид Херман",
+            "Дэн Кастелланета",
+            "Дэвид Кросс"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_12889.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 279687,
+        "type": "movie",
+        "title": "Футурама: Потерянное приключение",
+        "original_title": "Futurama: The Lost Adventure",
+        "year": "2008",
+        "genres": [
+            "комедия",
+            "мультфильм"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Билли Уэст",
+            "Кэти Сагал",
+            "Джон Ди Маджо",
+            "Тресс Макнилл",
+            "Морис Ламарш",
+            "Дэвид Херман"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_279687.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 15060,
+        "type": "movie",
+        "title": "Футурама: В дикую зелёную даль",
+        "original_title": "Futurama: Into the Wild Green Yonder",
+        "year": "2009",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "director": "Питер Аванзино",
+        "cast": [
+            "Билли Уэст",
+            "Кэти Сагал",
+            "Джон Ди Маджо",
+            "Тресс Макнилл",
+            "Морис Ламарш",
+            "Фил Ламарр",
+            "Донн Льюис",
+            "Лорен Том",
+            "Снуп Догг",
+            "Phil Hendrie"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_15060.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 196950,
+        "type": "tv",
+        "title": "Ателье колдовских колпаков",
+        "original_title": "とんがり帽子のアトリエ",
+        "year": "2026",
+        "genres": [
+            "мультфильм",
+            "драма",
+            "НФ и Фэнтези"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Рэна Мотомура",
+            "Нацуки Ханаэ",
+            "Хибику Ямамура",
+            "Куруми Харуки",
+            "Хика Цукиширо"
+        ],
+        "rating": 9.2,
+        "poster_path": "covers/tv_196950.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "seasons": 1
     }
 ]
