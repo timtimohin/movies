@@ -21681,5 +21681,153 @@
         "poster_path": "covers/movie_212778.jpg",
         "original_language": "en",
         "status": "planned"
+    },
+    {
+        "id": 37056,
+        "type": "movie",
+        "title": "Письма к Джульетте",
+        "original_title": "Letters to Juliet",
+        "year": "2010",
+        "genres": [
+            "комедия",
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Гари Виник",
+        "cast": [
+            "Аманда Сайфред",
+            "Кристофер Эган",
+            "Гаэль Гарсиа Берналь",
+            "Ванесса Редгрейв",
+            "Франко Неро",
+            "Луиза Раньери",
+            "Milena Vukotić",
+            "Marina Massironi",
+            "Марсия Дебонис",
+            "Luisa De Santis"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_37056.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 614560,
+        "type": "movie",
+        "title": "Манк",
+        "original_title": "Mank",
+        "year": "2020",
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "director": "Дэвид Финчер",
+        "cast": [
+            "Гэри Олдман",
+            "Аманда Сайфред",
+            "Лили Коллинз",
+            "Арлисс Ховард",
+            "Том Пельфри",
+            "Сэм Троутон",
+            "Фердинанд Кингсли",
+            "Таппенс Мидлтон",
+            "Том Бёрк",
+            "Джозеф Кросс"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_614560.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 79548,
+        "type": "movie",
+        "title": "Игра на выживание",
+        "original_title": "Gone",
+        "year": "2012",
+        "genres": [
+            "триллер",
+            "детектив"
+        ],
+        "director": "Эйтор Далия",
+        "cast": [
+            "Аманда Сайфред",
+            "Дэниэл Санжата",
+            "Себастиан Стэн",
+            "Сократис Отто",
+            "Дженнифер Карпентер",
+            "Уэс Бентли",
+            "Kate Moennig",
+            "Nick Searcy",
+            "Эмили Уикершем",
+            "Джоэл Дэвид Мур"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_79548.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 49730,
+        "type": "movie",
+        "title": "Красная шапочка",
+        "original_title": "Red Riding Hood",
+        "year": "2011",
+        "genres": [
+            "триллер",
+            "драма",
+            "фэнтези",
+            "детектив",
+            "ужасы",
+            "мелодрама"
+        ],
+        "director": "Кэтрин Хардвик",
+        "cast": [
+            "Аманда Сайфред",
+            "Гэри Олдман",
+            "Билли Бёрк",
+            "Шайло Фернандес",
+            "Макс Айронс",
+            "Джули Кристи",
+            "Лукас Хаас",
+            "Вирджиния Мэдсен",
+            "Шона Кейн",
+            "Michael Hogan"
+        ],
+        "rating": 6.0,
+        "poster_path": "covers/movie_49730.jpg",
+        "original_language": "en",
+        "status": "planned"
+    },
+    {
+        "id": 961323,
+        "type": "movie",
+        "title": "Нимона",
+        "original_title": "Nimona",
+        "year": "2023",
+        "genres": [
+            "мультфильм",
+            "семейный",
+            "фэнтези",
+            "фантастика",
+            "приключения"
+        ],
+        "director": "Трой Квон",
+        "cast": [
+            "Хлоя Грейс Морец",
+            "Риз Ахмед",
+            "Eugene Lee Yang",
+            "Фрэнсис Конрой",
+            "Lorraine Toussaint",
+            "Бек Беннетт",
+            "РуПол",
+            "Индия Мур",
+            "Julio Torres",
+            "Сара Шерман"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_961323.jpg",
+        "original_language": "en",
+        "status": "favorite"
     }
 ]

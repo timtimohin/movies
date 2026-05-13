@@ -93,3 +93,7 @@ Traceback (most recent call last):
   File "/home/count_timohin/movies/bot.py", line 16, in <module>
     ADMIN_ID = int(os.getenv('ADMIN_ID'))
 TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[main 25a7027] Обновление базы через бота
+ 2 files changed, 2958 insertions(+), 978 deletions(-)
+To https://github.com/timtimohin/movies.git
+   c4b00af..25a7027  main -> main
