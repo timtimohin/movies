@@ -21654,5 +21654,32 @@
         "poster_path": "covers/movie_16643.jpg",
         "original_language": "en",
         "status": "planned"
+    },
+    {
+        "id": 212778,
+        "type": "movie",
+        "title": "Повар на колесах",
+        "original_title": "Chef",
+        "year": "2014",
+        "genres": [
+            "комедия"
+        ],
+        "director": "Джон Фавро",
+        "cast": [
+            "Джон Фавро",
+            "Джон Легуизамо",
+            "Бобби Каннавале",
+            "Эмджей Энтони",
+            "Скарлетт Йоханссон",
+            "Дастин Хоффман",
+            "София Вергара",
+            "Оливер Платт",
+            "Эми Седарис",
+            "Роберт Дауни мл."
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_212778.jpg",
+        "original_language": "en",
+        "status": "planned"
     }
 ]
