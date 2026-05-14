@@ -245,3 +245,12 @@ Traceback (most recent call last):
   File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
     raise ConnectionError(e, request=request)
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8747974329:AAFeVxPq-szhlaZ4cErdS8PwPZR853YcqxY/getUpdates?offset=428629883&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x799be4fb61a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+[main efde458] Обновление базы через бота
+ 8 files changed, 754 insertions(+), 1424 deletions(-)
+ create mode 100644 covers/movie_1035750.jpg
+ create mode 100644 covers/movie_1271.jpg
+ create mode 100644 covers/movie_40807.jpg
+ create mode 100644 covers/movie_70436.jpg
+ create mode 100644 covers/movie_9495.jpg
+To https://github.com/timtimohin/movies.git
+   9e47dbf..efde458  main -> main
