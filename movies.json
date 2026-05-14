@@ -22617,30 +22617,6 @@
         "status": "favorite"
     },
     {
-        "id": 279687,
-        "type": "movie",
-        "title": "Футурама: Потерянное приключение",
-        "original_title": "Futurama: The Lost Adventure",
-        "year": "2008",
-        "genres": [
-            "комедия",
-            "мультфильм"
-        ],
-        "director": "Неизвестно",
-        "cast": [
-            "Билли Уэст",
-            "Кэти Сагал",
-            "Джон Ди Маджо",
-            "Тресс Макнилл",
-            "Морис Ламарш",
-            "Дэвид Херман"
-        ],
-        "rating": 6.8,
-        "poster_path": "covers/movie_279687.jpg",
-        "original_language": "en",
-        "status": "favorite"
-    },
-    {
         "id": 15060,
         "type": "movie",
         "title": "Футурама: В дикую зелёную даль",
@@ -22690,6 +22666,188 @@
         ],
         "rating": 9.2,
         "poster_path": "covers/tv_196950.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "seasons": 1
+    },
+    {
+        "id": 207332,
+        "type": "tv",
+        "title": "Дни Сакамото",
+        "original_title": "SAKAMOTO DAYS",
+        "year": "2025",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "Боевик и Приключения"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Томокадзу Сугита",
+            "Нобунага Симадзаки",
+            "Аянэ Сакура",
+            "Нао Тояма",
+            "Хина Кино",
+            "Рёта Судзуки",
+            "Нацуки Ханаэ",
+            "Таку Ясиро",
+            "Саори Хаями",
+            "Хироки Ясумото"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/tv_207332.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "seasons": 1
+    },
+    {
+        "id": 1097,
+        "type": "tv",
+        "title": "Эрго Прокси",
+        "original_title": "エルゴプラクシー",
+        "year": "2006",
+        "genres": [
+            "мультфильм",
+            "детектив",
+            "НФ и Фэнтези"
+        ],
+        "director": "Сюко Мурасэ",
+        "cast": [
+            "斉藤梨絵",
+            "Кодзи Юса",
+            "Акико Ядзима"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/tv_1097.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "seasons": 1
+    },
+    {
+        "id": 64710,
+        "type": "tv",
+        "title": "Бездомный бог",
+        "original_title": "ノラガミ",
+        "year": "2014",
+        "genres": [
+            "мультфильм",
+            "Боевик и Приключения",
+            "НФ и Фэнтези"
+        ],
+        "director": "Адачитока",
+        "cast": [
+            "Хироси Камия",
+            "Маая Утида",
+            "Юки Кадзи",
+            "Аки Тоёсаки"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/tv_64710.jpg",
+        "original_language": "ja",
+        "status": "favorite",
+        "seasons": 2
+    },
+    {
+        "id": 35935,
+        "type": "tv",
+        "title": "Берсерк",
+        "original_title": "剣風伝奇ベルセルク",
+        "year": "1997",
+        "genres": [
+            "Боевик и Приключения",
+            "НФ и Фэнтези",
+            "мультфильм"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Нобутоши Канна",
+            "Тосиюки Морикава",
+            "Юко Миямура",
+            "Томохиро Нишимура",
+            "Унсё Исидзука"
+        ],
+        "rating": 8.5,
+        "poster_path": "covers/tv_35935.jpg",
+        "original_language": "ja",
+        "status": "favorite",
+        "seasons": 1
+    },
+    {
+        "id": 95479,
+        "type": "tv",
+        "title": "МАГИЧЕСКАЯ БИТВА",
+        "original_title": "呪術廻戦",
+        "year": "2020",
+        "genres": [
+            "мультфильм",
+            "Боевик и Приключения",
+            "НФ и Фэнтези"
+        ],
+        "director": "Неизвестно",
+        "cast": [],
+        "rating": 8.6,
+        "poster_path": "covers/tv_95479.jpg",
+        "original_language": "ja",
+        "status": "favorite",
+        "seasons": 1
+    },
+    {
+        "id": 21734,
+        "type": "tv",
+        "title": "Гиперпространственная крепость Макросс",
+        "original_title": "超時空要塞マクロス",
+        "year": "1982",
+        "genres": [
+            "мультфильм",
+            "Боевик и Приключения",
+            "НФ и Фэнтези",
+            "Война и Политика"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "長谷有洋",
+            "飯島真理",
+            "Мика Дои",
+            "神谷明",
+            "蟹江栄司",
+            "竹田えり",
+            "Хироми Цуру",
+            "Хиротака Судзуоки",
+            "Митио Хадзама",
+            "深雪さなえ"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/tv_21734.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "seasons": 1
+    },
+    {
+        "id": 1063,
+        "type": "tv",
+        "title": "Самурай Чамплу",
+        "original_title": "サムライチャンプルー",
+        "year": "2004",
+        "genres": [
+            "мультфильм",
+            "Боевик и Приключения",
+            "комедия"
+        ],
+        "director": "Синъитиро Ватанабэ",
+        "cast": [
+            "Аяко Кавасуми",
+            "Кадзуя Накай",
+            "Гинпэй Сато",
+            "Акио Оцука",
+            "Эйдзи Маруяма",
+            "Кэйичи Нанба",
+            "Киёюки Янада",
+            "Такаюки Суго",
+            "Отоя Кавано",
+            "Макио Иноуэ"
+        ],
+        "rating": 8.3,
+        "poster_path": "covers/tv_1063.jpg",
         "original_language": "ja",
         "status": "planned",
         "seasons": 1
