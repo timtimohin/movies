@@ -25206,29 +25206,135 @@
         "seasons": 1
     },
     {
-        "id": 217366,
-        "type": "movie",
+        "id": 1425,
+        "type": "tv",
         "title": "Карточный домик",
-        "original_title": "The House of Cards",
+        "original_title": "House of Cards",
         "year": "2013",
         "genres": [
-            "боевик",
             "драма"
         ],
-        "director": "Ian Chinsee",
+        "director": "Бо Уиллимон",
         "cast": [
-            "Винсент Б. Горс",
-            "Ian Chinsee",
-            "Daniel Cason",
-            "Grace Endicott",
-            "Benjamin Alldridge",
-            "Anna Doody",
-            "Kathleen Doody",
-            "Lorraine Page"
+            "Дайан Лейн",
+            "Констанс Зиммер",
+            "Робин Райт",
+            "Майкл Келли",
+            "Грег Киннир",
+            "Кэмпбелл Скотт",
+            "Патрисия Кларксон",
+            "Ларс Миккельсен",
+            "Дерек Сесил",
+            "Коди Ферн"
         ],
-        "rating": 3.7,
-        "poster_path": "covers/movie_217366.jpg",
+        "rating": 8.0,
+        "poster_path": "covers/tv_1425.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "seasons": 6
+    },
+    {
+        "id": 615777,
+        "type": "movie",
+        "title": "Вавилон",
+        "original_title": "Babylon",
+        "year": "2022",
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "director": "Дэмьен Шазелл",
+        "cast": [
+            "Брэд Питт",
+            "Марго Робби",
+            "Оливия Уайлд",
+            "Джин Смарт",
+            "Phoebe Tonkin",
+            "Диего Кальва",
+            "Фли",
+            "Джован Адепо",
+            "Jimmy Ortega",
+            "Marcos A. Ferraez"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_615777.jpg",
+        "original_language": "en",
+        "status": "favorite"
+    },
+    {
+        "id": 664469,
+        "type": "movie",
+        "title": "Амстердам",
+        "original_title": "Amsterdam",
+        "year": "2022",
+        "genres": [
+            "детектив",
+            "комедия",
+            "драма"
+        ],
+        "director": "David O. Russell",
+        "cast": [
+            "Аня Тейлор-Джой",
+            "Марго Робби",
+            "Роберт Де Ниро",
+            "Зои Салдана",
+            "Кристиан Бейл",
+            "Рами Малек",
+            "Тимоти Олифант",
+            "Майк Майерс",
+            "Майкл Шеннон",
+            "Джон Дэвид Вашингтон"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_664469.jpg",
         "original_language": "en",
         "status": "planned"
+    },
+    {
+        "id": 62560,
+        "type": "tv",
+        "title": "Мистер Робот",
+        "original_title": "Mr. Robot",
+        "year": "2015",
+        "genres": [
+            "криминал",
+            "драма"
+        ],
+        "director": "Сэм Эсмэйл",
+        "cast": [
+            "Рами Малек",
+            "Кристиан Слейтер",
+            "Карли Чайкин"
+        ],
+        "rating": 8.3,
+        "poster_path": "covers/tv_62560.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "seasons": 4
+    },
+    {
+        "id": 106379,
+        "type": "tv",
+        "title": "Фоллаут",
+        "original_title": "Fallout",
+        "year": "2024",
+        "genres": [
+            "Боевик и Приключения",
+            "НФ и Фэнтези"
+        ],
+        "director": "Грэм Вагнер",
+        "cast": [
+            "Элла Пернелл",
+            "Уолтон Гоггинс",
+            "Кайл МакЛахлен",
+            "Фрэнсис Тернер",
+            "Мойзес Ариас",
+            "Аарон Мотен"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/tv_106379.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "seasons": 2
     }
 ]
