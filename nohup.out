@@ -254,3 +254,7 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org'
  create mode 100644 covers/movie_9495.jpg
 To https://github.com/timtimohin/movies.git
    9e47dbf..efde458  main -> main
+[main f4ad0a8] Обновление базы через бота
+ 3 files changed, 6031 insertions(+), 4221 deletions(-)
+To https://github.com/timtimohin/movies.git
+   efde458..f4ad0a8  main -> main
