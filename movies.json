@@ -31576,5 +31576,38 @@
             "Topcraft",
             "Tokuma Shoten"
         ]
+    },
+    {
+        "id": 24736,
+        "type": "movie",
+        "title": "В плену песков",
+        "original_title": "A Far Off Place",
+        "year": "1993",
+        "genres": [
+            "драма",
+            "приключения"
+        ],
+        "director": "Mikael Salomon",
+        "cast": [
+            "Риз Уизерспун",
+            "Итан Эмбри",
+            "Джек Томпсон",
+            "Роберт Джон Бёрк",
+            "Максимилиан Шелл",
+            "Майлз Андерсон",
+            "Патриша Кэлембер",
+            "Дэниэл Джерролл",
+            "Kessia Embry",
+            "Sebastian Klein"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_24736.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Walt Disney Pictures",
+            "Amblin Entertainment"
+        ]
     }
 ]
