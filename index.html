@@ -28,6 +28,7 @@
         .badge.tv { background-color: #4a90e2; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.6em; vertical-align: middle; margin-left: 5px; }
         .clickable-tag { cursor: pointer; transition: 0.2s; }
         .clickable-tag:hover { color: #fff; text-decoration: underline; }
+        input[type="search"] { -webkit-appearance: searchfield; appearance: searchfield; box-sizing: border-box; }
         input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: searchfield-cancel-button; filter: invert(1); cursor: pointer; }
     </style>
 </head>
@@ -23054,74 +23055,77 @@
         let activeTab = 'all';
 
         function applyFiltersAndSort() {
-            const fVal = {
-                search: filters.search.value.toLowerCase(),
-                genre: filters.genre.value.toLowerCase(),
-                director: filters.director.value.toLowerCase(),
-                actor: filters.actor.value.toLowerCase()
-            };
+            try {
+                const fVal = {
+                    search: (filters.search.value || '').toLowerCase().trim(),
+                    genre: (filters.genre.value || '').toLowerCase().trim(),
+                    director: (filters.director.value || '').toLowerCase().trim(),
+                    actor: (filters.actor.value || '').toLowerCase().trim()
+                };
 
-            // 1. Фильтрация
-            cards.forEach(card => {
-                const subtype = card.getAttribute('data-subtype');
-                const status = card.getAttribute('data-status');
-                const title = card.getAttribute('data-title');
-                const cDirector = card.getAttribute('data-director');
-                const cGenres = JSON.parse(card.getAttribute('data-genres')).map(g => g.toLowerCase());
-                const cActors = JSON.parse(card.getAttribute('data-actors')).map(a => a.toLowerCase());
-                
-                // --- НОВОЕ: СЧИТЫВАЕМ СТУДИИ И КОЛЛЕКЦИИ ---
-                const cCollection = (card.getAttribute('data-collection') || '').toLowerCase();
-                const cStudios = (card.getAttribute('data-studios') || '').toLowerCase();
-                // -------------------------------------------
+                // 1. Фильтрация
+                cards.forEach(card => {
+                    const subtype = card.getAttribute('data-subtype') || '';
+                    const status = card.getAttribute('data-status') || '';
+                    const title = (card.getAttribute('data-title') || '').toLowerCase();
+                    const cDirector = (card.getAttribute('data-director') || '').toLowerCase();
+                    
+                    let cGenres = [];
+                    let cActors = [];
+                    try { cGenres = JSON.parse(card.getAttribute('data-genres') || '[]').map(g => g.toLowerCase()); } catch(e) {}
+                    try { cActors = JSON.parse(card.getAttribute('data-actors') || '[]').map(a => a.toLowerCase()); } catch(e) {}
+                    
+                    const cCollection = (card.getAttribute('data-collection') || '').toLowerCase();
+                    const cStudios = (card.getAttribute('data-studios') || '').toLowerCase();
 
-                let matchesTabAndStatus = false;
-                if (activeTab === 'planned') {
-                    matchesTabAndStatus = (status === 'planned');
-                } else {
-                    matchesTabAndStatus = (status === 'favorite') && (activeTab === 'all' || activeTab === subtype);
+                    let matchesTabAndStatus = false;
+                    if (activeTab === 'planned') {
+                        matchesTabAndStatus = (status === 'planned');
+                    } else {
+                        matchesTabAndStatus = (status === 'favorite') && (activeTab === 'all' || activeTab === subtype);
+                    }
+
+                    const matchesSearch = title.includes(fVal.search) || 
+                                        cCollection.includes(fVal.search) || 
+                                        cStudios.includes(fVal.search);
+
+                    const matchesGenre = !fVal.genre || cGenres.some(g => g.includes(fVal.genre));
+                    const matchesDirector = !fVal.director || cDirector.includes(fVal.director);
+                    const matchesActor = !fVal.actor || cActors.some(a => a.includes(fVal.actor));
+
+                    card.style.display = (matchesTabAndStatus && matchesSearch && matchesGenre && matchesDirector && matchesActor) ? 'block' : 'none';
+                });
+
+                // 2. Сортировка
+                let visibleCards = cards.filter(card => card.style.display === 'block');
+                let hiddenCards = cards.filter(card => card.style.display === 'none');
+                const sortValue = sortSelect.value;
+
+                if (sortValue !== 'default') {
+                    visibleCards.sort((a, b) => {
+                        if (sortValue === 'title_asc') {
+                            return (a.getAttribute('data-title') || '').localeCompare(b.getAttribute('data-title') || '');
+                        } else if (sortValue === 'year_desc') {
+                            let yA = parseInt(a.getAttribute('data-year')) || 0;
+                            let yB = parseInt(b.getAttribute('data-year')) || 0;
+                            return yB - yA;
+                        } else if (sortValue === 'rating_desc') {
+                            let rA = parseFloat(a.getAttribute('data-rating')) || 0;
+                            let rB = parseFloat(b.getAttribute('data-rating')) || 0;
+                            return rB - rA;
+                        }
+                        return 0;
+                    });
                 }
 
-                // --- НОВОЕ: ИЩЕМ НЕ ТОЛЬКО ПО НАЗВАНИЮ, НО И ПО СТУДИЯМ/МЕТКАМ ---
-                const matchesSearch = title.includes(fVal.search) || 
-                                    cCollection.includes(fVal.search) || 
-                                    cStudios.includes(fVal.search);
-                // -----------------------------------------------------------------
-
-                const matchesGenre = !fVal.genre || cGenres.some(g => g.includes(fVal.genre));
-                const matchesDirector = !fVal.director || cDirector.includes(fVal.director);
-                const matchesActor = !fVal.actor || cActors.some(a => a.includes(fVal.actor));
-
-                card.style.display = (matchesTabAndStatus && matchesSearch && matchesGenre && matchesDirector && matchesActor) ? 'block' : 'none';
-            });
-
-            // 2. Сортировка
-            let visibleCards = cards.filter(card => card.style.display === 'block');
-            let hiddenCards = cards.filter(card => card.style.display === 'none');
-            const sortValue = sortSelect.value;
-
-            if (sortValue !== 'default') {
-                visibleCards.sort((a, b) => {
-                    if (sortValue === 'title_asc') {
-                        return a.getAttribute('data-title').localeCompare(b.getAttribute('data-title'));
-                    } else if (sortValue === 'year_desc') {
-                        let yA = parseInt(a.getAttribute('data-year')) || 0;
-                        let yB = parseInt(b.getAttribute('data-year')) || 0;
-                        return yB - yA;
-                    } else if (sortValue === 'rating_desc') {
-                        let rA = parseFloat(a.getAttribute('data-rating')) || 0;
-                        let rB = parseFloat(b.getAttribute('data-rating')) || 0;
-                        return rB - rA;
-                    } else if (sortValue === 'random') {
-                        return Math.random() - 0.5;
-                    }
-                });
+                // 3. Отрисовка
+                movieGrid.innerHTML = '';
+                visibleCards.forEach(card => movieGrid.appendChild(card));
+                hiddenCards.forEach(card => movieGrid.appendChild(card));
+                
+            } catch (error) {
+                console.error("Ошибка при фильтрации:", error);
             }
-
-            // 3. Отрисовка
-            movieGrid.innerHTML = '';
-            visibleCards.forEach(card => movieGrid.appendChild(card));
-            hiddenCards.forEach(card => movieGrid.appendChild(card));
         }
 
         tabBtns.forEach(btn => {
@@ -23129,7 +23133,6 @@
                 tabBtns.forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
                 activeTab = btn.getAttribute('data-type');
-                // При смене вкладки возвращаем сортировку по умолчанию, чтобы не путаться
                 sortSelect.value = 'default'; 
                 applyFiltersAndSort();
             });
@@ -23139,44 +23142,46 @@
         sortSelect.addEventListener('change', applyFiltersAndSort);
         
         applyFiltersAndSort();
+
         // --- ФУНКЦИЯ ДЛЯ КЛИКАБЕЛЬНЫХ МЕТОК ---
-    function setFilter(type, element) {
-        // Берем текст прямо из того элемента, по которому кликнули
-        let value = element.textContent.trim();
-        let input;
+        function setFilter(type, element) {
+            let value = element.textContent.trim();
+            let input;
 
-        if (type === 'actor') {
-            // Находим поле "Актер..."
-            input = document.querySelector('input[placeholder="Актер..."]');
-        } else if (type === 'collection') {
-            // Очищаем название коллекции от эмодзи книжек
-            value = value.replace('📚', '').trim();
-            // Находим главную строку поиска
-            input = document.querySelector('input[placeholder="Поиск по названию..."]');
+            if (type === 'actor') {
+                input = document.querySelector('input[placeholder="Актер..."]');
+            } else if (type === 'collection') {
+                value = value.replace('📚', '').trim();
+                input = document.querySelector('input[placeholder="Поиск по названию..."]');
+            }
+
+            if (input) {
+                input.value = value;
+                input.dispatchEvent(new Event('input'));
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
         }
 
-        if (input) {
-            input.value = value;
-            // Имитируем ручной ввод, чтобы ваш код понял, что пора фильтровать
-            input.dispatchEvent(new Event('input'));
-            // Плавно прокручиваем страницу в самый верх, к результатам
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
-    }
-    // --- КНОПКА СЛУЧАЙНОЙ СОРТИРОВКИ ---
-    document.getElementById('random-btn').addEventListener('click', function() {
-        // 1. Берем только те карточки, которые сейчас видны (отфильтрованы)
-        let visibleCards = Array.from(cards).filter(card => card.style.display !== 'none');
-        
-        // 2. Перемешиваем их (надежный алгоритм Фишера-Йетса)
-        for (let i = visibleCards.length - 1; i > 0; i--) {
-            let j = Math.floor(Math.random() * (i + 1));
-            [visibleCards[i], visibleCards[j]] = [visibleCards[j], visibleCards[i]];
-        }
-        
-        // 3. Возвращаем их на экран в новом порядке
-        visibleCards.forEach(card => movieGrid.appendChild(card));
-    });
+        // --- КНОПКА СЛУЧАЙНОЙ СОРТИРОВКИ ---
+        document.getElementById('random-btn').addEventListener('click', function() {
+            let currentCards = Array.from(movieGrid.children);
+            let visibleCards = currentCards.filter(card => card.style.display !== 'none');
+            let hiddenCards = currentCards.filter(card => card.style.display === 'none');
+            
+            for (let i = visibleCards.length - 1; i > 0; i--) {
+                let j = Math.floor(Math.random() * (i + 1));
+                let temp = visibleCards[i];
+                visibleCards[i] = visibleCards[j];
+                visibleCards[j] = temp;
+            }
+            
+            movieGrid.innerHTML = '';
+            visibleCards.forEach(card => movieGrid.appendChild(card));
+            hiddenCards.forEach(card => movieGrid.appendChild(card));
+            
+            // Сбрасываем фильтр, чтобы было понятно, что порядок теперь ручной
+            sortSelect.value = 'default';
+        });
     </script>
 </body>
 </html>
