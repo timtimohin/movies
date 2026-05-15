@@ -28,6 +28,7 @@
         .badge.tv { background-color: #4a90e2; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.6em; vertical-align: middle; margin-left: 5px; }
         .clickable-tag { cursor: pointer; transition: 0.2s; }
         .clickable-tag:hover { color: #fff; text-decoration: underline; }
+        input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: searchfield-cancel-button; filter: invert(1); cursor: pointer; }
     </style>
 </head>
 <body>
@@ -23042,7 +23043,7 @@
         const cards = Array.from(document.querySelectorAll('.card'));
         const movieGrid = document.getElementById('movieGrid');
         const filters = {
-            search: document.getElementById('search'),
+            search: document.getElementById('searchInput'),
             genre: document.getElementById('genreFilter'),
             director: document.getElementById('directorFilter'),
             actor: document.getElementById('actorFilter')
