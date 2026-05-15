@@ -60,6 +60,7 @@
                 <option value="year_desc">Сначала новые (по году)</option>
                 <option value="rating_desc">Сначала с высоким рейтингом</option>
             </select>
+            <button id="reset-btn" class="tab-btn" style="background-color: #555; border-radius: 10px; height: 42px;">❌ Очистить</button>
         </div>
     </div>
     <datalist id="genre-list"><option value="Боевик и Приключения"><option value="Война и Политика"><option value="Детский"><option value="НФ и Фэнтези"><option value="боевик"><option value="вестерн"><option value="военный"><option value="детектив"><option value="документальный"><option value="драма"><option value="история"><option value="комедия"><option value="криминал"><option value="мелодрама"><option value="музыка"><option value="мультфильм"><option value="приключения"><option value="семейный"><option value="телевизионный фильм"><option value="триллер"><option value="ужасы"><option value="фантастика"><option value="фэнтези"></datalist>
@@ -23167,23 +23168,22 @@
             }
         }
 
-        // --- КНОПКА СЛУЧАЙНОЙ СОРТИРОВКИ ---
+        // --- КНОПКА СБРОСА ФИЛЬТРОВ ---
+        document.getElementById('reset-btn').addEventListener('click', function() {
+            filters.search.value = '';
+            filters.genre.value = '';
+            filters.director.value = '';
+            filters.actor.value = '';
+            sortSelect.value = 'default';
+            applyFiltersAndSort();
+        });
+
+        // --- НЕУБИВАЕМАЯ РУЛЕТКА ---
         document.getElementById('random-btn').addEventListener('click', function() {
-            // 1. Берем только те карточки, которые сейчас на экране
-            let visibleCards = cards.filter(card => card.style.display !== 'none');
-            
-            // 2. Перемешиваем их
-            for (let i = visibleCards.length - 1; i > 0; i--) {
-                let j = Math.floor(Math.random() * (i + 1));
-                let temp = visibleCards[i];
-                visibleCards[i] = visibleCards[j];
-                visibleCards[j] = temp;
-            }
-            
-            // 3. ФИЗИЧЕСКИ перекладываем элементы (без удаления)
-            visibleCards.forEach(card => movieGrid.appendChild(card));
-            
-            // Сбрасываем селект сортировки
+            // Создаем копию карточек, перемешиваем и выкладываем обратно
+            let shuffled = [...cards].sort(() => Math.random() - 0.5);
+            shuffled.forEach(card => movieGrid.appendChild(card));
+            // Сбрасываем селект, чтобы не сбивать с толку
             sortSelect.value = 'default';
         });
     </script>
