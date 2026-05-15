@@ -334,3 +334,16 @@ To https://github.com/timtimohin/movies.git
  create mode 100644 covers/movie_77.jpg
 To https://github.com/timtimohin/movies.git
    789a820..4c1b172  main -> main
+[main b552322] Обновление базы через бота
+ 12 files changed, 528 insertions(+), 2 deletions(-)
+ create mode 100644 covers/movie_11087.jpg
+ create mode 100644 covers/movie_1149504.jpg
+ create mode 100644 covers/movie_1226578.jpg
+ create mode 100644 covers/movie_22538.jpg
+ create mode 100644 covers/movie_270303.jpg
+ create mode 100644 covers/movie_339403.jpg
+ create mode 100644 covers/movie_64682.jpg
+ create mode 100644 covers/movie_870518.jpg
+ create mode 100644 covers/tv_106454.jpg
+To https://github.com/timtimohin/movies.git
+   4c1b172..b552322  main -> main
