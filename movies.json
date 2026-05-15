@@ -31609,5 +31609,536 @@
             "Walt Disney Pictures",
             "Amblin Entertainment"
         ]
+    },
+    {
+        "id": 1592,
+        "type": "movie",
+        "title": "Первобытный страх",
+        "original_title": "Primal Fear",
+        "year": "1996",
+        "genres": [
+            "криминал",
+            "драма",
+            "детектив",
+            "триллер"
+        ],
+        "director": "Gregory Hoblit",
+        "cast": [
+            "Ричард Гир",
+            "Лора Линни",
+            "Эдвард Нортон",
+            "Фрэнсис Макдорманд",
+            "Мора Тирни",
+            "Стивен Бауэр",
+            "Терри О'Куинн",
+            "Элфри Вудард",
+            "Джон Седа",
+            "Андре Брауер"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_1592.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Paramount Pictures",
+            "Rysher Entertainment"
+        ]
+    },
+    {
+        "id": 1284120,
+        "type": "movie",
+        "title": "Гадкая сестра",
+        "original_title": "Den stygge stesøsteren",
+        "year": "2025",
+        "genres": [
+            "ужасы",
+            "комедия",
+            "драма"
+        ],
+        "director": "Emilie Blichfeldt",
+        "cast": [
+            "Lea Mathilde Skar-Myren",
+            "Ане Даль Торп",
+            "Теа Софи Лох Несс",
+            "Malte Gårdinger",
+            "Flo Fagerli",
+            "Agnieszka Żulewska",
+            "Isac Calmroth",
+            "Adam Lundgren",
+            "Philip Lenkowsky",
+            "Ralph Carlsson"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_1284120.jpg",
+        "original_language": "no",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Mer Film",
+            "Lava Films"
+        ]
+    },
+    {
+        "id": 245,
+        "type": "movie",
+        "title": "Мой мальчик",
+        "original_title": "About a Boy",
+        "year": "2002",
+        "genres": [
+            "драма",
+            "комедия",
+            "мелодрама"
+        ],
+        "director": "Крис Вайц",
+        "cast": [
+            "Хью Грант",
+            "Николас Холт",
+            "Тони Коллетт",
+            "Рэйчел Вайс",
+            "Крис Уэбстер",
+            "Наталия Тена",
+            "Sharon Small",
+            "Сюзанна Дойл",
+            "Victoria Smurfit",
+            "Augustus Prew"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_245.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Universal Pictures",
+            "Tribeca Productions"
+        ]
+    },
+    {
+        "id": 2493,
+        "type": "movie",
+        "title": "Принцесса-невеста",
+        "original_title": "The Princess Bride",
+        "year": "1987",
+        "genres": [
+            "приключения",
+            "комедия",
+            "семейный",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "director": "Роб Райнер",
+        "cast": [
+            "Кэри Элвис",
+            "Робин Райт",
+            "Мэнди Патинкин",
+            "Уоллес Шон",
+            "Питер Фальк",
+            "Билли Кристал",
+            "Chris Sarandon",
+            "Кэрол Кейн",
+            "Fred Savage",
+            "Кристофер Гест"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_2493.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "The Princess Bride",
+            "Buttercup Films"
+        ]
+    },
+    {
+        "id": 379,
+        "type": "movie",
+        "title": "Перекресток Миллера",
+        "original_title": "Miller's Crossing",
+        "year": "1990",
+        "genres": [
+            "драма",
+            "триллер",
+            "криминал"
+        ],
+        "director": "Джоэл Коэн",
+        "cast": [
+            "Гэбриэл Бирн",
+            "Марсия Гей Харден",
+            "Джон Туртурро",
+            "Стив Бушеми",
+            "Майк Старр",
+            "Альберт Финни",
+            "Майкл Джитер",
+            "Джон Полито",
+            "Олек Крупа",
+            "Джон МакКоннелл"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_379.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Circle Films"
+        ]
+    },
+    {
+        "id": 429,
+        "type": "movie",
+        "title": "Хороший, плохой, злой",
+        "original_title": "Il buono, il brutto, il cattivo",
+        "year": "1966",
+        "genres": [
+            "вестерн"
+        ],
+        "director": "Sergio Leone",
+        "cast": [
+            "Клинт Иствуд",
+            "Елай Воллак",
+            "Lee Van Cleef",
+            "Луиджи Пистилли",
+            "Antonio Molino Rojo",
+            "Claudio Scarchilli",
+            "Aldo Sambrell",
+            "Альдо Джуффре",
+            "Rada Rassimov",
+            "Antonio Casale"
+        ],
+        "rating": 8.5,
+        "poster_path": "covers/movie_429.jpg",
+        "original_language": "it",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "United Artists",
+            "PEA"
+        ]
+    },
+    {
+        "id": 651,
+        "type": "movie",
+        "title": "Военно-полевой госпиталь М.Э.Ш.",
+        "original_title": "M*A*S*H",
+        "year": "1970",
+        "genres": [
+            "комедия",
+            "драма",
+            "военный"
+        ],
+        "director": "Роберт Олтмен",
+        "cast": [
+            "Дональд Сазерленд",
+            "Эллиотт Гулд",
+            "Том Скеррит",
+            "Роберт Дюваль",
+            "Рене Обержонуа",
+            "Бад Корт",
+            "Фред Уильямсон",
+            "Carl Gottlieb",
+            "Sally Kellerman",
+            "Майкл Мерфи"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_651.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Ingo Preminger Productions",
+            "20th Century Fox"
+        ]
+    },
+    {
+        "id": 398818,
+        "type": "movie",
+        "title": "Назови меня своим именем",
+        "original_title": "Call Me by Your Name",
+        "year": "2017",
+        "genres": [
+            "мелодрама",
+            "драма"
+        ],
+        "director": "Лука Гуаданьино",
+        "cast": [
+            "Арми Хаммер",
+            "Тимоти Шаламе",
+            "Майкл Стулбарг",
+            "Амира Казар",
+            "Peter Spears",
+            "Виктуар Дю Буа",
+            "Эстер Гаррель",
+            "Ванда Каприоло",
+            "Антонио Римольди",
+            "Елена Буччи"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/movie_398818.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "La Cinéfacture",
+            "Frenesy Film"
+        ]
+    },
+    {
+        "id": 258480,
+        "type": "movie",
+        "title": "Кэрол",
+        "original_title": "Carol",
+        "year": "2015",
+        "genres": [
+            "мелодрама",
+            "драма"
+        ],
+        "director": "Тодд Хейнс",
+        "cast": [
+            "Кейт Бланшетт",
+            "Руни Мара",
+            "Кайл Чендлер",
+            "Сара Полсон",
+            "Джейк Лэси",
+            "Джон Магаро",
+            "Cory Michael Smith",
+            "Кэрри Браунстин",
+            "Kevin Crowley",
+            "Кен Штрунк"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_258480.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Killer Films",
+            "Number 9 Films"
+        ]
+    },
+    {
+        "id": 3090,
+        "type": "movie",
+        "title": "Сокровища Сьерра Мадре",
+        "original_title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "genres": [
+            "приключения",
+            "драма",
+            "вестерн"
+        ],
+        "director": "Джон Хьюстон",
+        "cast": [
+            "Хамфри Богарт",
+            "Уолтер Хьюстон",
+            "Тим Холт",
+            "Джон Хьюстон",
+            "Роберт Блейк",
+            "Бартон МакЛэйн",
+            "Jay Silverheels",
+            "Джек Холт",
+            "Manuel Dondé",
+            "Arturo Soto Rangel"
+        ],
+        "rating": 8.0,
+        "poster_path": "covers/movie_3090.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Warner Bros. Pictures"
+        ]
+    },
+    {
+        "id": 146,
+        "type": "movie",
+        "title": "Крадущийся тигр, затаившийся дракон",
+        "original_title": "卧虎藏龍",
+        "year": "2000",
+        "genres": [
+            "приключения",
+            "драма",
+            "боевик",
+            "мелодрама"
+        ],
+        "director": "李安",
+        "cast": [
+            "Чоу Юнь-Фат",
+            "Мишель Йео",
+            "Чжан Цзыи",
+            "Чан Чэнь",
+            "鄭佩佩",
+            "郎雄",
+            "杨蕊",
+            "李黎",
+            "Ма Чжун Сюань",
+            "高西安"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_146.jpg",
+        "original_language": "zh",
+        "status": "planned",
+        "collection": "Крадущийся тигр, затаившийся дракон (Коллекция)",
+        "studios": [
+            "Sony Pictures Classics",
+            "Columbia Pictures Film Production Asia"
+        ]
+    },
+    {
+        "id": 77,
+        "type": "movie",
+        "title": "Мементо",
+        "original_title": "Memento",
+        "year": "2000",
+        "genres": [
+            "детектив",
+            "триллер"
+        ],
+        "director": "Кристофер Нолан",
+        "cast": [
+            "Гай Пирс",
+            "Кэрри-Энн Мосс",
+            "Джо Пантолиано",
+            "Стивен Тоболовски",
+            "Jorja Fox",
+            "Томас Леннон",
+            "Марк Бун мл.",
+            "Каллум Кит Ренни",
+            "Харриет Сэнсом Харрис",
+            "Марианн Мюллерлейл"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/movie_77.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Newmarket Films",
+            "Summit Entertainment"
+        ]
+    },
+    {
+        "id": 5544,
+        "type": "movie",
+        "title": "Хиросима, любовь моя",
+        "original_title": "Hiroshima mon amour",
+        "year": "1959",
+        "genres": [
+            "драма",
+            "история",
+            "мелодрама"
+        ],
+        "director": "Alain Resnais",
+        "cast": [
+            "Emmanuelle Riva",
+            "岡田英次",
+            "Stella Dassas",
+            "Bernard Fresson",
+            "Pierre Barbaud"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_5544.jpg",
+        "original_language": "fr",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Argos films",
+            "Como Films"
+        ]
+    },
+    {
+        "id": 10158,
+        "type": "movie",
+        "title": "Белые люди не умеют прыгать",
+        "original_title": "White Men Can't Jump",
+        "year": "1992",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Рон Шелтон",
+        "cast": [
+            "Вуди Харрельсон",
+            "Уэсли Снайпс",
+            "Рози Перес",
+            "Кадим Хардисон",
+            "Джон Маршалл Джонс",
+            "Дуэйн Мартин",
+            "Alex Trebek",
+            "Eloy Casados",
+            "Cylk Cozart",
+            "Tyra Ferrell"
+        ],
+        "rating": 6.6,
+        "poster_path": "covers/movie_10158.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "20th Century Fox"
+        ]
+    },
+    {
+        "id": 678,
+        "type": "movie",
+        "title": "Из прошлого",
+        "original_title": "Out of the Past",
+        "year": "1947",
+        "genres": [
+            "криминал",
+            "триллер"
+        ],
+        "director": "Jacques Tourneur",
+        "cast": [
+            "Роберт Митчем",
+            "Jane Greer",
+            "Кирк Дуглас",
+            "Rhonda Fleming",
+            "Steve Brodie",
+            "Richard Webb",
+            "Майк Лалли",
+            "Frank Wilcox",
+            "John Kellogg",
+            "Harry Hayden"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_678.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "RKO Radio Pictures"
+        ]
+    },
+    {
+        "id": 18395,
+        "type": "movie",
+        "title": "Выход к Раю",
+        "original_title": "Exit to Eden",
+        "year": "1994",
+        "genres": [
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "director": "Garry Marshall",
+        "cast": [
+            "Дана Дилейни",
+            "Paul Mercurio",
+            "Rosie O'Donnell",
+            "Гектор Элизондо",
+            "Дэн Эйкройд",
+            "Laura Harring",
+            "Stephanie Niznik",
+            "Stuart Wilson",
+            "Шон О'Брайан",
+            "Sandra Taylor"
+        ],
+        "rating": 4.2,
+        "poster_path": "covers/movie_18395.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Savoy Pictures"
+        ]
     }
 ]
