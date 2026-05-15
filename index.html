@@ -28,8 +28,14 @@
         .badge.tv { background-color: #4a90e2; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.6em; vertical-align: middle; margin-left: 5px; }
         .clickable-tag { cursor: pointer; transition: 0.2s; }
         .clickable-tag:hover { color: #fff; text-decoration: underline; }
-        input[type="search"] { -webkit-appearance: searchfield; appearance: searchfield; box-sizing: border-box; }
-        input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: searchfield-cancel-button; filter: invert(1); cursor: pointer; }
+        input[type="search"]::-webkit-search-cancel-button {
+            -webkit-appearance: none;
+            display: block;
+            width: 15px;
+            height: 15px;
+            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>') center/contain no-repeat;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
@@ -23096,12 +23102,14 @@
                     card.style.display = (matchesTabAndStatus && matchesSearch && matchesGenre && matchesDirector && matchesActor) ? 'block' : 'none';
                 });
 
-                // 2. Сортировка
-                let visibleCards = cards.filter(card => card.style.display === 'block');
-                let hiddenCards = cards.filter(card => card.style.display === 'none');
+                // 2. Сортировка (безопасная, через CSS order)
                 const sortValue = sortSelect.value;
 
-                if (sortValue !== 'default') {
+                if (sortValue === 'default') {
+                    // Сбрасываем порядок на изначальный (по дате добавления)
+                    cards.forEach(card => card.style.order = '');
+                } else {
+                    let visibleCards = cards.filter(card => card.style.display === 'block');
                     visibleCards.sort((a, b) => {
                         if (sortValue === 'title_asc') {
                             return (a.getAttribute('data-title') || '').localeCompare(b.getAttribute('data-title') || '');
@@ -23116,17 +23124,12 @@
                         }
                         return 0;
                     });
+                    
+                    // Раздаем порядковые номера (browser сам всё переставит)
+                    visibleCards.forEach((card, index) => {
+                        card.style.order = index + 1;
+                    });
                 }
-
-                // 3. Отрисовка
-                movieGrid.innerHTML = '';
-                visibleCards.forEach(card => movieGrid.appendChild(card));
-                hiddenCards.forEach(card => movieGrid.appendChild(card));
-                
-            } catch (error) {
-                console.error("Ошибка при фильтрации:", error);
-            }
-        }
 
         tabBtns.forEach(btn => {
             btn.addEventListener('click', () => {
@@ -23164,22 +23167,9 @@
 
         // --- КНОПКА СЛУЧАЙНОЙ СОРТИРОВКИ ---
         document.getElementById('random-btn').addEventListener('click', function() {
-            let currentCards = Array.from(movieGrid.children);
-            let visibleCards = currentCards.filter(card => card.style.display !== 'none');
-            let hiddenCards = currentCards.filter(card => card.style.display === 'none');
-            
-            for (let i = visibleCards.length - 1; i > 0; i--) {
-                let j = Math.floor(Math.random() * (i + 1));
-                let temp = visibleCards[i];
-                visibleCards[i] = visibleCards[j];
-                visibleCards[j] = temp;
-            }
-            
-            movieGrid.innerHTML = '';
-            visibleCards.forEach(card => movieGrid.appendChild(card));
-            hiddenCards.forEach(card => movieGrid.appendChild(card));
-            
-            // Сбрасываем фильтр, чтобы было понятно, что порядок теперь ручной
+            cards.forEach(card => {
+                card.style.order = Math.floor(Math.random() * 10000) + 1;
+            });
             sortSelect.value = 'default';
         });
     </script>
