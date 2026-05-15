@@ -23136,6 +23136,9 @@
 
         tabBtns.forEach(btn => {
             btn.addEventListener('click', () => {
+                // ЩИТ: Если у кнопки нет атрибута data-type, значит это Очистить или Случайно - игнорируем!
+                if (!btn.getAttribute('data-type')) return; 
+
                 tabBtns.forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
                 activeTab = btn.getAttribute('data-type');
