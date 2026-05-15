@@ -31542,5 +31542,39 @@
         "studios": [
             "Orion Pictures"
         ]
+    },
+    {
+        "id": 81,
+        "type": "movie",
+        "title": "Навсикая из Долины Ветров",
+        "original_title": "風の谷のナウシカ",
+        "year": "1984",
+        "genres": [
+            "приключения",
+            "мультфильм",
+            "фэнтези"
+        ],
+        "director": "Хаяо Миядзаки",
+        "cast": [
+            "Суми Симамото",
+            "Ичиро Нагай",
+            "Горо Ная",
+            "Мугихито",
+            "Ёсико Сакакибара",
+            "Мина Томинага",
+            "Рихоко Йосида",
+            "Дзёдзи Янами",
+            "Иэймаса Каюми",
+            "Бин Шимада"
+        ],
+        "rating": 8.0,
+        "poster_path": "covers/movie_81.jpg",
+        "original_language": "ja",
+        "status": "favorite",
+        "collection": "Miyazaki Movies Collection",
+        "studios": [
+            "Topcraft",
+            "Tokuma Shoten"
+        ]
     }
 ]
