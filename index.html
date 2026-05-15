@@ -23043,6 +23043,11 @@
                 const cDirector = card.getAttribute('data-director');
                 const cGenres = JSON.parse(card.getAttribute('data-genres')).map(g => g.toLowerCase());
                 const cActors = JSON.parse(card.getAttribute('data-actors')).map(a => a.toLowerCase());
+                
+                // --- НОВОЕ: СЧИТЫВАЕМ СТУДИИ И КОЛЛЕКЦИИ ---
+                const cCollection = (card.getAttribute('data-collection') || '').toLowerCase();
+                const cStudios = (card.getAttribute('data-studios') || '').toLowerCase();
+                // -------------------------------------------
 
                 let matchesTabAndStatus = false;
                 if (activeTab === 'planned') {
@@ -23051,7 +23056,12 @@
                     matchesTabAndStatus = (status === 'favorite') && (activeTab === 'all' || activeTab === subtype);
                 }
 
-                const matchesSearch = title.includes(fVal.search);
+                // --- НОВОЕ: ИЩЕМ НЕ ТОЛЬКО ПО НАЗВАНИЮ, НО И ПО СТУДИЯМ/МЕТКАМ ---
+                const matchesSearch = title.includes(fVal.search) || 
+                                    cCollection.includes(fVal.search) || 
+                                    cStudios.includes(fVal.search);
+                // -----------------------------------------------------------------
+
                 const matchesGenre = !fVal.genre || cGenres.some(g => g.includes(fVal.genre));
                 const matchesDirector = !fVal.director || cDirector.includes(fVal.director);
                 const matchesActor = !fVal.actor || cActors.some(a => a.includes(fVal.actor));
