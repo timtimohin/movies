@@ -32140,5 +32140,304 @@
         "studios": [
             "Savoy Pictures"
         ]
+    },
+    {
+        "id": 106454,
+        "type": "tv",
+        "title": "Вечеринка",
+        "original_title": "The Afterparty",
+        "year": "2022",
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "director": "Крис Миллер",
+        "cast": [
+            "Тиффани Хэддиш",
+            "Сэм Ричардсон",
+            "Зои Чао",
+            "Элизабет Перкинс",
+            "Джон Чо",
+            "Кен Джонг",
+            "Пол Уолтер Хаузер",
+            "邬君梅",
+            "Джек Уайтхолл",
+            "Зак Вудс"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/tv_106454.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Lord Miller",
+            "TriStar Television"
+        ],
+        "seasons": 2
+    },
+    {
+        "id": 22538,
+        "type": "movie",
+        "title": "Скотт Пилигрим против всех",
+        "original_title": "Scott Pilgrim vs. the World",
+        "year": "2010",
+        "genres": [
+            "боевик",
+            "комедия",
+            "мелодрама"
+        ],
+        "director": "Эдгар Райт",
+        "cast": [
+            "Майкл Сера",
+            "Мэри Элизабет Уинстэд",
+            "Эллен Вонг",
+            "Крис Эванс",
+            "Обри Плаза",
+            "Бри Ларсон",
+            "Анна Кендрик",
+            "Мэй Уитман",
+            "Джейсон Шварцман",
+            "Киран Калкин"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_22538.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Marc Platt Productions",
+            "Big Talk Studios"
+        ]
+    },
+    {
+        "id": 1149504,
+        "type": "movie",
+        "title": "Хани, не надо!",
+        "original_title": "Honey Don't!",
+        "year": "2025",
+        "genres": [
+            "комедия",
+            "криминал",
+            "детектив",
+            "триллер"
+        ],
+        "director": "Итан Коэн",
+        "cast": [
+            "Маргарет Куолли",
+            "Обри Плаза",
+            "Крис Эванс",
+            "Лера Абова",
+            "Чарли Дэй",
+            "Кристен Коннолли",
+            "Don Swayze",
+            "Талия Райдер",
+            "Билли Айкнер",
+            "Лена Холл"
+        ],
+        "rating": 5.6,
+        "poster_path": "covers/movie_1149504.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Focus Features",
+            "Working Title Films"
+        ]
+    },
+    {
+        "id": 870518,
+        "type": "movie",
+        "title": "Стоп-слово",
+        "original_title": "Sanctuary",
+        "year": "2023",
+        "genres": [
+            "драма",
+            "триллер"
+        ],
+        "director": "Zachary Wigon",
+        "cast": [
+            "Маргарет Куолли",
+            "Кристофер Эбботт",
+            "Danita Battle",
+            "Dominick Defilips",
+            "Christian Casatelli",
+            "Rene Calvo"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_870518.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Rumble Films",
+            "Charades"
+        ]
+    },
+    {
+        "id": 270303,
+        "type": "movie",
+        "title": "Оно приходит за тобой",
+        "original_title": "It Follows",
+        "year": "2015",
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "director": "Дэвид Роберт Митчелл",
+        "cast": [
+            "Майка Монро",
+            "Кейр Гилкрист",
+            "Daniel Zovatto",
+            "Джейк Вири",
+            "Olivia Luccardi",
+            "Lili Sepe",
+            "Ele Bardha",
+            "Bailey Spry",
+            "Linda Boston",
+            "Loren Bass"
+        ],
+        "rating": 6.6,
+        "poster_path": "covers/movie_270303.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Оно приходит за тобой (Коллекция)",
+        "studios": [
+            "Two Flints",
+            "Northern Lights Films"
+        ]
+    },
+    {
+        "id": 339403,
+        "type": "movie",
+        "title": "Малыш на драйве",
+        "original_title": "Baby Driver",
+        "year": "2017",
+        "genres": [
+            "боевик",
+            "криминал"
+        ],
+        "director": "Эдгар Райт",
+        "cast": [
+            "Энсел Элгорт",
+            "Кевин Спейси",
+            "Лили Джеймс",
+            "Джон Бернтал",
+            "Эйса Гонсалес",
+            "Джон Хэмм",
+            "Джейми Фокс",
+            "Фли",
+            "Бриджитт Кали",
+            "Patrick Walker"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_339403.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Big Talk Studios",
+            "Working Title Films"
+        ]
+    },
+    {
+        "id": 1226578,
+        "type": "movie",
+        "title": "Собиратель душ",
+        "original_title": "Longlegs",
+        "year": "2024",
+        "genres": [
+            "криминал",
+            "ужасы",
+            "детектив"
+        ],
+        "director": "Оз Перкинс",
+        "cast": [
+            "Майка Монро",
+            "Николас Кейдж",
+            "Blair Underwood",
+            "Кирнан Шипка",
+            "Алисия Уитт",
+            "Питер Брайант",
+            "Лиза Чэндлер",
+            "Carmel Amit",
+            "Джейсон Дэй",
+            "Beatrix Perkins"
+        ],
+        "rating": 6.5,
+        "poster_path": "covers/movie_1226578.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Longlegs Collection",
+        "studios": [
+            "C2 Motion Picture Group",
+            "Saturn Films"
+        ]
+    },
+    {
+        "id": 11087,
+        "type": "movie",
+        "title": "Рука, качающая колыбель",
+        "original_title": "The Hand That Rocks the Cradle",
+        "year": "1992",
+        "genres": [
+            "драма",
+            "триллер"
+        ],
+        "director": "Curtis Hanson",
+        "cast": [
+            "Аннабелла Шиорра",
+            "Ребекка Де Морнэй",
+            "Мэтт МакКой",
+            "Джулианна Мур",
+            "Мэделин Зима",
+            "Эрни Хадсон",
+            "Джон де Ланси",
+            "Mitchell Laurance",
+            "Brian T. Finney",
+            "Kevin Skousen"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_11087.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Hollywood Pictures",
+            "Interscope Communications"
+        ]
+    },
+    {
+        "id": 64682,
+        "type": "movie",
+        "title": "Великий Гэтсби",
+        "original_title": "The Great Gatsby",
+        "year": "2013",
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Баз Лурман",
+        "cast": [
+            "Леонардо ДиКаприо",
+            "Тоби Магуайр",
+            "Кэри Маллиган",
+            "Айла Фишер",
+            "Амитабх Баччан",
+            "Джоэл Эдгертон",
+            "Джейсон Кларк",
+            "Элизабет Дебики",
+            "Эделейд Клеменс",
+            "Джек Томпсон"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_64682.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Warner Bros. Pictures",
+            "Village Roadshow Pictures"
+        ]
     }
 ]
