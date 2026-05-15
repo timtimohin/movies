@@ -29,11 +29,9 @@
         .clickable-tag { cursor: pointer; transition: 0.2s; }
         .clickable-tag:hover { color: #fff; text-decoration: underline; }
         input[type="search"]::-webkit-search-cancel-button {
-            -webkit-appearance: none;
-            display: block;
-            width: 15px;
-            height: 15px;
-            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>') center/contain no-repeat;
+            -webkit-appearance: searchfield-cancel-button !important;
+            appearance: searchfield-cancel-button !important;
+            filter: invert(1) brightness(2) !important;
             cursor: pointer;
         }
     </style>
@@ -23171,9 +23169,21 @@
 
         // --- КНОПКА СЛУЧАЙНОЙ СОРТИРОВКИ ---
         document.getElementById('random-btn').addEventListener('click', function() {
-            cards.forEach(card => {
-                card.style.order = Math.floor(Math.random() * 10000) + 1;
-            });
+            // 1. Берем только те карточки, которые сейчас на экране
+            let visibleCards = cards.filter(card => card.style.display !== 'none');
+            
+            // 2. Перемешиваем их
+            for (let i = visibleCards.length - 1; i > 0; i--) {
+                let j = Math.floor(Math.random() * (i + 1));
+                let temp = visibleCards[i];
+                visibleCards[i] = visibleCards[j];
+                visibleCards[j] = temp;
+            }
+            
+            // 3. ФИЗИЧЕСКИ перекладываем элементы (без удаления)
+            visibleCards.forEach(card => movieGrid.appendChild(card));
+            
+            // Сбрасываем селект сортировки
             sortSelect.value = 'default';
         });
     </script>
