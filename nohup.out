@@ -369,3 +369,10 @@ To https://github.com/timtimohin/movies.git
  rewrite covers/movie_1892.jpg (97%)
 To https://github.com/timtimohin/movies.git
    c4c87ab..a04fa4d  main -> main
+[main 87786ee] Обновление базы через бота
+ 6 files changed, 203 insertions(+), 36 deletions(-)
+ create mode 100644 covers/movie_522402.jpg
+ create mode 100644 covers/movie_9615.jpg
+ create mode 100644 covers/tv_2316.jpg
+To https://github.com/timtimohin/movies.git
+   a04fa4d..87786ee  main -> main

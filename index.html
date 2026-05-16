@@ -18,13 +18,13 @@
         input, select { background-color: #333; color: white; border: 1px solid #444; padding: 12px; border-radius: 10px; outline: none; width: 100%; box-sizing: border-box; font-family: inherit; }
         input:focus, select:focus { border-color: #e50914; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }
-        .card { background-color: #222; border-radius: 10px; overflow: hidden; transition: 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.5); }
+        .card { background-color: #222; border-radius: 10px; overflow: hidden; transition: 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.5); display: flex; flex-direction: column; }
         .card img { width: 100%; height: auto; display: block; min-height: 330px; background-color: #333; }
-        .info { padding: 15px; }
+        .info { padding: 15px; display: flex; flex-direction: column; flex-grow: 1; }
         .info h3 { margin: 0 0 10px 0; font-size: 1.1em; color: #fff; line-height: 1.2; }
         .genres { color: #e50914; font-size: 0.75em; font-weight: bold; text-transform: uppercase; margin-bottom: 8px; }
         .info p { font-size: 0.85em; color: #bbb; margin: 4px 0; }
-        .meta-small { font-size: 0.75em; color: #666; margin-top: 10px; border-top: 1px solid #333; padding-top: 5px; }
+        .meta-small { font-size: 0.75em; color: #666; margin-top: auto; border-top: 1px solid #333; padding-top: 5px; }
         .badge.tv { background-color: #4a90e2; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.6em; vertical-align: middle; margin-left: 5px; }
         .clickable-tag { cursor: pointer; transition: 0.2s; }
         .clickable-tag:hover { color: #fff; text-decoration: underline; }
@@ -23850,6 +23850,8 @@
             } else if (type === 'collection') {
                 value = value.replace('📚', '').trim();
                 input = document.querySelector('input[placeholder="Поиск по названию..."]');
+            } else if (type === 'director') {
+                input = document.querySelector('input[placeholder="Режиссер..."]');
             }
 
             if (input) {
