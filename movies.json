@@ -32489,5 +32489,97 @@
             "Lucasfilm Ltd.",
             "Bad Robot"
         ]
+    },
+    {
+        "id": 9615,
+        "type": "movie",
+        "title": "Тройной форсаж: Токийский Дрифт",
+        "original_title": "The Fast and the Furious: Tokyo Drift",
+        "year": "2006",
+        "genres": [
+            "боевик",
+            "криминал",
+            "драма",
+            "триллер"
+        ],
+        "director": "Джастин Лин",
+        "cast": [
+            "Лукас Блэк",
+            "Натали Келли",
+            "Сон Кан",
+            "Кэйко Китагава",
+            "Шэд Мосс",
+            "Йоко Маки",
+            "Сонни Чиба",
+            "Брайан Ти",
+            "Дэниэл Буко",
+            "Эмбер Стивенс Уэст"
+        ],
+        "rating": 6.5,
+        "poster_path": "covers/movie_9615.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Форсаж (Коллекция)",
+        "studios": [
+            "MP Munich Pape Filmproductions",
+            "Original Film"
+        ]
+    },
+    {
+        "id": 522402,
+        "type": "movie",
+        "title": "Финч",
+        "original_title": "Finch",
+        "year": "2021",
+        "genres": [
+            "фантастика",
+            "драма",
+            "приключения"
+        ],
+        "director": "Miguel Sapochnik",
+        "cast": [
+            "Том Хэнкс",
+            "Калеб Лэндри Джонс",
+            "Oscar Avila",
+            "Лора Мартинес-Каннингем",
+            "Marie Wagenman",
+            "Emily Jones"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_522402.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Amblin Entertainment",
+            "ImageMovers"
+        ]
+    },
+    {
+        "id": 2316,
+        "type": "tv",
+        "title": "Офис",
+        "original_title": "The Office",
+        "year": "2005",
+        "genres": [
+            "комедия"
+        ],
+        "director": "Грег Дэниелс",
+        "cast": [
+            "Рэйн Уилсон",
+            "Джон Красински",
+            "Дженна Фишер",
+            "Эд Хелмс"
+        ],
+        "rating": 8.6,
+        "poster_path": "covers/tv_2316.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Universal Television",
+            "Deedle-Dee Productions"
+        ],
+        "seasons": 9
     }
 ]

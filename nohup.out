@@ -364,3 +364,8 @@ To https://github.com/timtimohin/movies.git
  3 files changed, 15 insertions(+), 884 deletions(-)
 To https://github.com/timtimohin/movies.git
    65b9930..c4c87ab  main -> main
+[main a04fa4d] Обновление базы через бота
+ 4 files changed, 460 insertions(+), 7 deletions(-)
+ rewrite covers/movie_1892.jpg (97%)
+To https://github.com/timtimohin/movies.git
+   c4c87ab..a04fa4d  main -> main
