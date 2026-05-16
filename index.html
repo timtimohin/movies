@@ -18,9 +18,9 @@
         input, select { background-color: #333; color: white; border: 1px solid #444; padding: 12px; border-radius: 10px; outline: none; width: 100%; box-sizing: border-box; font-family: inherit; }
         input:focus, select:focus { border-color: #e50914; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }
-        .card { background-color: #222; border-radius: 10px; overflow: hidden; transition: 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.5); display: flex; flex-direction: column; height: 100%; }
+        .card { background-color: #222; border-radius: 10px; overflow: hidden; transition: 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.5); display: grid; grid-template-rows: auto 1fr; height: 100%; }
         .card img { width: 100%; height: auto; display: block; min-height: 330px; background-color: #333; }
-        .info { padding: 15px; display: flex; flex-direction: column; flex-grow: 1; }
+        .info { padding: 15px; display: flex; flex-direction: column; }
         .info h3 { margin: 0 0 10px 0; font-size: 1.1em; color: #fff; line-height: 1.2; }
         .genres { color: #e50914; font-size: 0.75em; font-weight: bold; text-transform: uppercase; margin-bottom: 8px; }
         .info p { font-size: 0.85em; color: #bbb; margin: 4px 0; }
