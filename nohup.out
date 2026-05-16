@@ -380,3 +380,8 @@ To https://github.com/timtimohin/movies.git
  2 files changed, 12 insertions(+), 3 deletions(-)
 To https://github.com/timtimohin/movies.git
    87786ee..a97ffd4  main -> main
+[main 5edc789] Обновление базы через бота
+ 4 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 covers/movie_156022.jpg
+To https://github.com/timtimohin/movies.git
+   a97ffd4..5edc789  main -> main
