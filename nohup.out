@@ -376,3 +376,7 @@ To https://github.com/timtimohin/movies.git
  create mode 100644 covers/tv_2316.jpg
 To https://github.com/timtimohin/movies.git
    a04fa4d..87786ee  main -> main
+[main a97ffd4] Обновление базы через бота
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+To https://github.com/timtimohin/movies.git
+   87786ee..a97ffd4  main -> main

@@ -32581,5 +32581,39 @@
             "Deedle-Dee Productions"
         ],
         "seasons": 9
+    },
+    {
+        "id": 156022,
+        "type": "movie",
+        "title": "Великий уравнитель",
+        "original_title": "The Equalizer",
+        "year": "2014",
+        "genres": [
+            "триллер",
+            "боевик",
+            "криминал"
+        ],
+        "director": "Антуан Фукуа",
+        "cast": [
+            "Дензел Вашингтон",
+            "Мартон Чокаш",
+            "Хлоя Грейс Морец",
+            "Дэвид Харбор",
+            "Билл Пуллман",
+            "Хейли Беннетт",
+            "Мелисса Лео",
+            "Дэвид Мюнье",
+            "Аллен Мальдонадо",
+            "Алекс Видов"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_156022.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Великий уравнитель (Коллекция)",
+        "studios": [
+            "Lonetree Entertainment",
+            "Columbia Pictures"
+        ]
     }
 ]
