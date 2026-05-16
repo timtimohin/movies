@@ -24839,7 +24839,7 @@
                     const matchesDirector = !fVal.director || cDirector.includes(fVal.director);
                     const matchesActor = !fVal.actor || cActors.some(a => a.includes(fVal.actor));
 
-                    card.style.display = (matchesTabAndStatus && matchesSearch && matchesGenre && matchesDirector && matchesActor) ? 'block' : 'none';
+                    card.style.display = (matchesTabAndStatus && matchesSearch && matchesGenre && matchesDirector && matchesActor) ? 'grid' : 'none';
                 });
 
                 // 2. Сортировка (безопасная, через CSS order)
@@ -24849,7 +24849,7 @@
                     // Сбрасываем порядок на изначальный
                     cards.forEach(card => card.style.order = '');
                 } else {
-                    let visibleCards = cards.filter(card => card.style.display === 'block');
+                    let visibleCards = cards.filter(card => card.style.display !== 'none');
                     visibleCards.sort((a, b) => {
                         if (sortValue === 'title_asc') {
                             return (a.getAttribute('data-title') || '').localeCompare(b.getAttribute('data-title') || '');
