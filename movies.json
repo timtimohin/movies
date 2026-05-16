@@ -32615,5 +32615,377 @@
             "Lonetree Entertainment",
             "Columbia Pictures"
         ]
+    },
+    {
+        "id": 328425,
+        "type": "movie",
+        "title": "Подарок",
+        "original_title": "The Gift",
+        "year": "2015",
+        "genres": [
+            "триллер",
+            "детектив",
+            "драма"
+        ],
+        "director": "Джоэл Эдгертон",
+        "cast": [
+            "Джоэл Эдгертон",
+            "Ребекка Холл",
+            "Джейсон Бейтман",
+            "Уэнделл Пирс",
+            "Дэвид Денман",
+            "Пи Джей Бирн",
+            "Busy Philipps",
+            "Бо Напп",
+            "Эллисон Толман",
+            "Кэтрин Аселтон"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_328425.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Blumhouse Productions",
+            "Blue-Tongue Films"
+        ]
+    },
+    {
+        "id": 456740,
+        "type": "movie",
+        "title": "Хеллбой",
+        "original_title": "Hellboy",
+        "year": "2019",
+        "genres": [
+            "фэнтези",
+            "ужасы",
+            "боевик",
+            "приключения"
+        ],
+        "director": "Нил Маршалл",
+        "cast": [
+            "Дэвид Харбор",
+            "Милла Йовович",
+            "Иэн МакШейн",
+            "Стивен Грэм",
+            "Дэниел Дэ Ким",
+            "Софи Оконедо",
+            "Томас Хейден Чёрч",
+            "Атанас Сребрев",
+            "Саша Лейн",
+            "Алистер Петри"
+        ],
+        "rating": 5.6,
+        "poster_path": "covers/movie_456740.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Campbell Grobman Films",
+            "Dark Horse Entertainment"
+        ]
+    },
+    {
+        "id": 6978,
+        "type": "movie",
+        "title": "Большой переполох в маленьком Китае",
+        "original_title": "Big Trouble in Little China",
+        "year": "1986",
+        "genres": [
+            "боевик",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "director": "Джон Карпентер",
+        "cast": [
+            "Курт Рассел",
+            "Ким Кэттролл",
+            "Деннис Дунь",
+            "Джеймс Хонг",
+            "Джефф Имада",
+            "Кейт Бёртон",
+            "Виктор Вон",
+            "Джеймс Лью",
+            "Джерри Хардин",
+            "Джордж Чунг"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_6978.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Taft Entertainment Pictures",
+            "20th Century Fox"
+        ]
+    },
+    {
+        "id": 392044,
+        "type": "movie",
+        "title": "Убийство в «Восточном экспрессе»",
+        "original_title": "Murder on the Orient Express",
+        "year": "2017",
+        "genres": [
+            "детектив",
+            "драма",
+            "криминал"
+        ],
+        "director": "Кеннет Брана",
+        "cast": [
+            "Кеннет Брана",
+            "Том Бейтман",
+            "Мишель Пфайффер",
+            "Джонни Депп",
+            "Джуди Денч",
+            "Уиллем Дефо",
+            "Пенелопа Крус",
+            "Оливия Колман",
+            "Мануэль Гарсия-Рульфо",
+            "Дейзи Ридли"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_392044.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Эркюль Пуаро (Кеннет Брана) (Коллекция)",
+        "studios": [
+            "The Mark Gordon Company",
+            "Genre Films"
+        ]
+    },
+    {
+        "id": 46639,
+        "type": "tv",
+        "title": "Американские боги",
+        "original_title": "American Gods",
+        "year": "2017",
+        "genres": [
+            "драма",
+            "детектив",
+            "НФ и Фэнтези"
+        ],
+        "director": "Bryan Fuller",
+        "cast": [
+            "Рики Уиттл",
+            "Иэн МакШейн",
+            "Эмили Браунинг",
+            "Yetide Badaki",
+            "Bruce Langley"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/tv_46639.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "FremantleMedia North America"
+        ],
+        "seasons": 3
+    },
+    {
+        "id": 1413,
+        "type": "tv",
+        "title": "Американская история ужасов",
+        "original_title": "American Horror Story",
+        "year": "2011",
+        "genres": [
+            "драма",
+            "детектив",
+            "НФ и Фэнтези"
+        ],
+        "director": "Райан Мёрфи",
+        "cast": [
+            "Эмма Робертс",
+            "Matt Czuchry",
+            "Ким Кардашьян",
+            "Кара Делевинь",
+            "Дэнис О’Хэр",
+            "Джули Уайт",
+            "Maaz Ali",
+            "Эмджей Родригес",
+            "Аннабель Декстер-Джонс"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/tv_1413.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Ryan Murphy Television",
+            "Brad Falchuk Teley-vision"
+        ],
+        "seasons": 12
+    },
+    {
+        "id": 297762,
+        "type": "movie",
+        "title": "Чудо-женщина",
+        "original_title": "Wonder Woman",
+        "year": "2017",
+        "genres": [
+            "боевик",
+            "приключения",
+            "фэнтези"
+        ],
+        "director": "Пэтти Дженкинс",
+        "cast": [
+            "Галь Гадот",
+            "Крис Пайн",
+            "Конни Нильсен",
+            "Дэвид Тьюлис",
+            "Робин Райт",
+            "Дэнни Хьюстон",
+            "Джеймс Космо",
+            "Юэн Бремнер",
+            "Елена Анайя",
+            "Саид Тагмауи"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_297762.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Чудо-женщина (Коллекция)",
+        "studios": [
+            "Atlas Entertainment",
+            "Cruel & Unusual Films"
+        ]
+    },
+    {
+        "id": 11774,
+        "type": "movie",
+        "title": "Лемони Сникет: 33 несчастья",
+        "original_title": "Lemony Snicket's A Series of Unfortunate Events",
+        "year": "2004",
+        "genres": [
+            "приключения",
+            "комедия",
+            "семейный"
+        ],
+        "director": "Brad Silberling",
+        "cast": [
+            "Эмили Браунинг",
+            "Liam Aiken",
+            "Kara Hoffman",
+            "Джим Керри",
+            "Мэрил Стрип",
+            "Джуд Лоу",
+            "Дженнифер Кулидж",
+            "Кэтрин О’Хара",
+            "Хелена Бонем Картер",
+            "Луис Гусман"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_11774.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Paramount Pictures",
+            "DreamWorks Pictures"
+        ]
+    },
+    {
+        "id": 980431,
+        "type": "movie",
+        "title": "Легенда об Аанге: Последний маг воздуха",
+        "original_title": "Avatar Aang: The Last Airbender",
+        "year": "2026",
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "приключения",
+            "фэнтези"
+        ],
+        "director": "Лорен Монтгомери",
+        "cast": [
+            "Эрик Нам",
+            "Дейв Батиста",
+            "Джессика Маттен",
+            "Тайка Вайтити",
+            "Стивен Ян",
+            "Ке Хюи Куан",
+            "Кен Джонг",
+            "Фрида Пинто",
+            "Ди Брэдли Бейкер",
+            "Ронни Чин"
+        ],
+        "rating": 0.0,
+        "poster_path": "covers/movie_980431.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Avatar: The Last Airbender - Collection",
+        "studios": [
+            "Nickelodeon Movies",
+            "Paramount Pictures"
+        ]
+    },
+    {
+        "id": 23629,
+        "type": "movie",
+        "title": "Запрещенный прием",
+        "original_title": "Sucker Punch",
+        "year": "2011",
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "триллер"
+        ],
+        "director": "Зак Снайдер",
+        "cast": [
+            "Эмили Браунинг",
+            "Эбби Корниш",
+            "Джена Мэлоун",
+            "Джон Хэмм",
+            "Оскар Айзек",
+            "Скотт Гленн",
+            "Карла Гуджино",
+            "Джейми Чон",
+            "Ванесса Хадженс",
+            "Патрик Сабонгуй"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_23629.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Legendary Pictures",
+            "Lennox House Films"
+        ]
+    },
+    {
+        "id": 4823,
+        "type": "movie",
+        "title": "Окончательный анализ",
+        "original_title": "Final Analysis",
+        "year": "1992",
+        "genres": [
+            "драма",
+            "триллер",
+            "мелодрама"
+        ],
+        "director": "Phil Joanou",
+        "cast": [
+            "Ричард Гир",
+            "Ким Бейсингер",
+            "Ума Турман",
+            "Эрик Робертс",
+            "Кит Дэвид",
+            "Paul Guilfoyle",
+            "George Murdock",
+            "Robert Harper",
+            "Jack Shearer",
+            "Shirley Prestia"
+        ],
+        "rating": 5.7,
+        "poster_path": "covers/movie_4823.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Warner Bros. Pictures",
+            "Witt/Thomas Productions"
+        ]
     }
 ]
