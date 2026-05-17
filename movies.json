@@ -33415,72 +33415,6 @@
         ]
     },
     {
-        "id": 28211,
-        "type": "movie",
-        "title": "Хлоя",
-        "original_title": "Chloe",
-        "year": "2010",
-        "genres": [
-            "драма",
-            "триллер",
-            "детектив"
-        ],
-        "director": "Atom Egoyan",
-        "cast": [
-            "Аманда Сайфред",
-            "Джулианна Мур",
-            "Лиам Нисон",
-            "Нина Добрев",
-            "Макс Тириот",
-            "Милтон Барнс",
-            "Меган Хефферн",
-            "Поль Эссьембре",
-            "Laura de Carteret",
-            "Роберт Холмс Томсон"
-        ],
-        "rating": 6.1,
-        "poster_path": "covers/movie_28211.jpg",
-        "original_language": "en",
-        "status": "favorite",
-        "collection": "",
-        "studios": [
-            "StudioCanal",
-            "The Montecito Picture Company"
-        ]
-    },
-    {
-        "id": 38376,
-        "type": "movie",
-        "title": "Натали",
-        "original_title": "Nathalie...",
-        "year": "2003",
-        "genres": [
-            "драма"
-        ],
-        "director": "Anne Fontaine",
-        "cast": [
-            "Фанни Ардан",
-            "Эммануэль Беар",
-            "Жерар Депардье",
-            "Rodolphe Pauly",
-            "Évelyne Dandry",
-            "Judith Magre",
-            "Serge Onteniente",
-            "Aurore Auteuil",
-            "Кристиан Аарон Булонье",
-            "Владимир Йорданов"
-        ],
-        "rating": 5.8,
-        "poster_path": "covers/movie_38376.jpg",
-        "original_language": "fr",
-        "status": "favorite",
-        "collection": "",
-        "studios": [
-            "StudioCanal",
-            "Les Films Alain Sarde"
-        ]
-    },
-    {
         "id": 435129,
         "type": "movie",
         "title": "Добытчица",
@@ -33546,6 +33480,72 @@
         "collection": "",
         "studios": [
             "Marvel Studios"
+        ]
+    },
+    {
+        "id": "28211",
+        "type": "movie",
+        "title": "Хлоя",
+        "original_title": "Chloe",
+        "year": "2010",
+        "genres": [
+            "драма",
+            "триллер",
+            "детектив"
+        ],
+        "director": "Atom Egoyan",
+        "cast": [
+            "Аманда Сайфред",
+            "Джулианна Мур",
+            "Лиам Нисон",
+            "Нина Добрев",
+            "Макс Тириот",
+            "Милтон Барнс",
+            "Меган Хефферн",
+            "Laura de Carteret",
+            "Роберт Холмс Томсон",
+            "Дэвид Реале"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_28211.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "StudioCanal",
+            "The Montecito Picture Company"
+        ]
+    },
+    {
+        "id": "38376",
+        "type": "movie",
+        "title": "Натали",
+        "original_title": "Nathalie...",
+        "year": "2003",
+        "genres": [
+            "драма"
+        ],
+        "director": "Anne Fontaine",
+        "cast": [
+            "Фанни Ардан",
+            "Эммануэль Беар",
+            "Жерар Депардье",
+            "Rodolphe Pauly",
+            "Évelyne Dandry",
+            "Judith Magre",
+            "Serge Onteniente",
+            "Aurore Auteuil",
+            "Кристиан Аарон Булонье",
+            "Владимир Йорданов"
+        ],
+        "rating": 5.8,
+        "poster_path": "covers/movie_38376.jpg",
+        "original_language": "fr",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "StudioCanal",
+            "Les Films Alain Sarde"
         ]
     }
 ]

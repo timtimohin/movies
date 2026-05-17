@@ -512,3 +512,8 @@ Traceback (most recent call last):
   File "/usr/lib/python3/dist-packages/requests/adapters.py", line 529, in send
     raise ReadTimeout(e, request=request)
 requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+[main 06c9f69] Обновление базы через бота
+ 4 files changed, 1193 insertions(+), 1059 deletions(-)
+ rewrite covers/movie_497698.jpg (98%)
+To https://github.com/timtimohin/movies.git
+   9f4773b..06c9f69  main -> main
