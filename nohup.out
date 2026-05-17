@@ -681,3 +681,15 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', po
  3 files changed, 135 insertions(+), 56 deletions(-)
 To https://github.com/timtimohin/movies.git
    8cc2e2e..4407237  main -> main
+[main 0946985] Обновление базы через бота
+ 11 files changed, 461 insertions(+), 2 deletions(-)
+ create mode 100644 covers/movie_11313.jpg
+ create mode 100644 covers/movie_11852.jpg
+ create mode 100644 covers/movie_1700.jpg
+ create mode 100644 covers/movie_235.jpg
+ create mode 100644 covers/movie_555285.jpg
+ create mode 100644 covers/movie_5876.jpg
+ create mode 100644 covers/movie_59436.jpg
+ create mode 100644 covers/movie_8769.jpg
+To https://github.com/timtimohin/movies.git
+   4407237..0946985  main -> main
