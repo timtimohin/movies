@@ -33782,5 +33782,268 @@
             "Clinica Estetico",
             "Clavius Base"
         ]
+    },
+    {
+        "id": "11852",
+        "type": "movie",
+        "title": "Цыпочка",
+        "original_title": "The Hot Chick",
+        "year": "2002",
+        "genres": [
+            "комедия",
+            "фэнтези"
+        ],
+        "director": "Tom Brady",
+        "cast": [
+            "Роб Шнайдер",
+            "Анна Фэрис",
+            "Мэттью Лоуренс",
+            "Рэйчел МакАдамс",
+            "Мелора Хардин",
+            "Роберт Дави",
+            "Майкл О'Киф",
+            "Eric Christian Olsen",
+            "Lee Garlington",
+            "Alexandra Holden"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_11852.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Touchstone Pictures",
+            "Happy Madison Productions"
+        ]
+    },
+    {
+        "id": "59436",
+        "type": "movie",
+        "title": "Полночь в Париже",
+        "original_title": "Midnight in Paris",
+        "year": "2011",
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "мелодрама"
+        ],
+        "director": "Вуди Аллен",
+        "cast": [
+            "Оуэн Уилсон",
+            "Рэйчел МакАдамс",
+            "Кэти Бэйтс",
+            "Марион Котийяр",
+            "Том Хиддлстон",
+            "Леа Сейду",
+            "Эдриен Броуди",
+            "Майкл Шийн",
+            "Кори Столл",
+            "Одри Флёро"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_59436.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Mediapro",
+            "Versátil Cinema"
+        ]
+    },
+    {
+        "id": "555285",
+        "type": "movie",
+        "title": "Ты здесь, Бог? Это я, Маргарет",
+        "original_title": "Are You There God? It's Me, Margaret.",
+        "year": "2023",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Келли Фримон Крейг",
+        "cast": [
+            "Эбби Райдер Фортсон",
+            "Рэйчел МакАдамс",
+            "Кэти Бэйтс",
+            "Бенни Сафди",
+            "Эль Грэм",
+            "Вилбур Фицджералд",
+            "Gary Houston",
+            "Echo Kellum",
+            "Isol Young",
+            "Джекоби Суэйн"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_555285.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Gracie Films",
+            "Lionsgate"
+        ]
+    },
+    {
+        "id": "1700",
+        "type": "movie",
+        "title": "Мизери",
+        "original_title": "Misery",
+        "year": "1990",
+        "genres": [
+            "драма",
+            "триллер"
+        ],
+        "director": "Роб Райнер",
+        "cast": [
+            "Кэти Бэйтс",
+            "Джеймс Каан",
+            "Ричард Фарнсуорт",
+            "Роб Райнер",
+            "Лорен Бэколл",
+            "Фрэнсис Стернхаген",
+            "Дж.Т. Уолш",
+            "Грэм Джарвис",
+            "Julie Payne",
+            "Джун Кристофер"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_1700.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Castle Rock Entertainment",
+            "Nelson Entertainment"
+        ]
+    },
+    {
+        "id": "8769",
+        "type": "movie",
+        "title": "Кристина",
+        "original_title": "Christine",
+        "year": "1983",
+        "genres": [
+            "ужасы"
+        ],
+        "director": "Джон Карпентер",
+        "cast": [
+            "Кит Гордон",
+            "Джон Стокуэлл",
+            "Александра Пол",
+            "Гарри Дин Стэнтон",
+            "Келли Престон",
+            "Роберт Проски",
+            "Кристин Белфорд",
+            "Робертс Блоссом",
+            "Jan Burrell",
+            "Арт Эванс"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_8769.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Columbia Pictures",
+            "Polar Film"
+        ]
+    },
+    {
+        "id": "235",
+        "type": "movie",
+        "title": "Останься со мной",
+        "original_title": "Stand by Me",
+        "year": "1986",
+        "genres": [
+            "криминал",
+            "драма"
+        ],
+        "director": "Роб Райнер",
+        "cast": [
+            "Уил Уитон",
+            "Ривер Феникс",
+            "Кори Фельдман",
+            "Кифер Сазерленд",
+            "Джон Кьюсак",
+            "Джерри О'Коннелл",
+            "Ричард Дрейфус",
+            "Marshall Bell",
+            "Кэйси Семашко",
+            "Брэдли Грегг"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_235.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Act III Productions"
+        ]
+    },
+    {
+        "id": "11313",
+        "type": "movie",
+        "title": "Сердца в Атлантиде",
+        "original_title": "Hearts in Atlantis",
+        "year": "2001",
+        "genres": [
+            "драма"
+        ],
+        "director": "Скотт Хикс",
+        "cast": [
+            "Энтони Хопкинс",
+            "Антон Ельчин",
+            "Хоуп Дэвис",
+            "Алан Тьюдик",
+            "Дэвид Морс",
+            "Том Бауэр",
+            "Дирдри О'Коннелл",
+            "Селия Уэстон",
+            "Мика Бурем",
+            "Уилл Ротхаар"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_11313.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Castle Rock Entertainment",
+            "Village Roadshow Pictures"
+        ]
+    },
+    {
+        "id": "5876",
+        "type": "movie",
+        "title": "Мгла",
+        "original_title": "The Mist",
+        "year": "2007",
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "триллер"
+        ],
+        "director": "Фрэнк Дарабонт",
+        "cast": [
+            "Томас Джейн",
+            "Лори Холден",
+            "Тоби Джонс",
+            "Уильям Сэдлер",
+            "Алекса Давалос",
+            "Сэм Уитвер",
+            "Джеффри ДеМанн",
+            "Марсия Гей Харден",
+            "Андре Брауер",
+            "Мелисса МакБрайд"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_5876.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Darkwoods Productions",
+            "Dimension Films"
+        ]
     }
 ]
