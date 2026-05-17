@@ -29853,41 +29853,6 @@
         ]
     },
     {
-        "id": 435129,
-        "type": "movie",
-        "title": "Добытчица",
-        "original_title": "The Breadwinner",
-        "year": "2017",
-        "genres": [
-            "мультфильм",
-            "военный",
-            "драма",
-            "семейный"
-        ],
-        "director": "Nora Twomey",
-        "cast": [
-            "Saara Chaudry",
-            "Soma Bhatia",
-            "Noorin Gulamgaus",
-            "Laara Sadiq",
-            "Ali Hassan",
-            "Али Бадшах",
-            "Ali Kazmi",
-            "Ezra Sholeh",
-            "Shaista Latif",
-            "Kanza Feris"
-        ],
-        "rating": 7.8,
-        "poster_path": "covers/movie_435129.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Aircraft Pictures",
-            "Cartoon Saloon"
-        ]
-    },
-    {
         "id": 441130,
         "type": "movie",
         "title": "Легенда о волках",
@@ -30182,7 +30147,7 @@
         "rating": 6.8,
         "poster_path": "covers/movie_956842.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "These Pictures",
@@ -33413,5 +33378,141 @@
             "Berlanti Productions"
         ],
         "seasons": 2
+    },
+    {
+        "id": 396806,
+        "type": "movie",
+        "title": "Анон",
+        "original_title": "Anon",
+        "year": "2018",
+        "genres": [
+            "фантастика",
+            "криминал",
+            "детектив",
+            "триллер"
+        ],
+        "director": "Эндрю Никкол",
+        "cast": [
+            "Клайв Оуэн",
+            "Аманда Сайфред",
+            "Колм Фиори",
+            "Марк О'Брайен",
+            "Соня Уолгер",
+            "Мэйко Нгуен",
+            "Иддо Голдберг",
+            "Рэйчел Робертс",
+            "Джонатан Поттс",
+            "Конрад Коутс"
+        ],
+        "rating": 6.0,
+        "poster_path": "covers/movie_396806.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "K5 Film",
+            "K5 International"
+        ]
+    },
+    {
+        "id": 28211,
+        "type": "movie",
+        "title": "Хлоя",
+        "original_title": "Chloe",
+        "year": "2010",
+        "genres": [
+            "драма",
+            "триллер",
+            "детектив"
+        ],
+        "director": "Atom Egoyan",
+        "cast": [
+            "Аманда Сайфред",
+            "Джулианна Мур",
+            "Лиам Нисон",
+            "Нина Добрев",
+            "Макс Тириот",
+            "Милтон Барнс",
+            "Меган Хефферн",
+            "Поль Эссьембре",
+            "Laura de Carteret",
+            "Роберт Холмс Томсон"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_28211.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "StudioCanal",
+            "The Montecito Picture Company"
+        ]
+    },
+    {
+        "id": 38376,
+        "type": "movie",
+        "title": "Натали",
+        "original_title": "Nathalie...",
+        "year": "2003",
+        "genres": [
+            "драма"
+        ],
+        "director": "Anne Fontaine",
+        "cast": [
+            "Фанни Ардан",
+            "Эммануэль Беар",
+            "Жерар Депардье",
+            "Rodolphe Pauly",
+            "Évelyne Dandry",
+            "Judith Magre",
+            "Serge Onteniente",
+            "Aurore Auteuil",
+            "Кристиан Аарон Булонье",
+            "Владимир Йорданов"
+        ],
+        "rating": 5.8,
+        "poster_path": "covers/movie_38376.jpg",
+        "original_language": "fr",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "StudioCanal",
+            "Les Films Alain Sarde"
+        ]
+    },
+    {
+        "id": 435129,
+        "type": "movie",
+        "title": "Добытчица",
+        "original_title": "The Breadwinner",
+        "year": "2017",
+        "genres": [
+            "мультфильм",
+            "военный",
+            "драма",
+            "семейный"
+        ],
+        "director": "Nora Twomey",
+        "cast": [
+            "Saara Chaudry",
+            "Soma Bhatia",
+            "Noorin Gulamgaus",
+            "Laara Sadiq",
+            "Ali Hassan",
+            "Али Бадшах",
+            "Ali Kazmi",
+            "Ezra Sholeh",
+            "Shaista Latif",
+            "Kanza Feris"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_435129.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Aircraft Pictures",
+            "Cartoon Saloon"
+        ]
     }
 ]
