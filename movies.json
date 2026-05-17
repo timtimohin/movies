@@ -33514,5 +33514,38 @@
             "Aircraft Pictures",
             "Cartoon Saloon"
         ]
+    },
+    {
+        "id": 497698,
+        "type": "movie",
+        "title": "Чёрная вдова",
+        "original_title": "Black Widow",
+        "year": "2021",
+        "genres": [
+            "боевик",
+            "приключения",
+            "фантастика"
+        ],
+        "director": "Кейт Шортланд",
+        "cast": [
+            "Скарлетт Йоханссон",
+            "Флоренс Пью",
+            "Рэйчел Вайс",
+            "Дэвид Харбор",
+            "Уильям Хёрт",
+            "Ольга Куриленко",
+            "Вайолет МакГроу",
+            "Рэй Уинстон",
+            "Евер Андерсон",
+            "Райан Кира Армстронг"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_497698.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Marvel Studios"
+        ]
     }
 ]
