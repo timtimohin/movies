@@ -32987,5 +32987,360 @@
             "Warner Bros. Pictures",
             "Witt/Thomas Productions"
         ]
+    },
+    {
+        "id": 3902,
+        "type": "tv",
+        "title": "Барашек Шон",
+        "original_title": "Shaun the Sheep",
+        "year": "2007",
+        "genres": [
+            "Детский",
+            "мультфильм",
+            "семейный",
+            "комедия"
+        ],
+        "director": "Richard Starzak",
+        "cast": [],
+        "rating": 7.6,
+        "poster_path": "covers/tv_3902.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Aardman"
+        ],
+        "seasons": 6
+    },
+    {
+        "id": 508965,
+        "type": "movie",
+        "title": "Клаус",
+        "original_title": "Klaus",
+        "year": "2019",
+        "genres": [
+            "мультфильм",
+            "семейный",
+            "комедия"
+        ],
+        "director": "Серджо Паблос",
+        "cast": [
+            "Джейсон Шварцман",
+            "Джей Кей Симмонс",
+            "Рашида Джонс",
+            "Джоан Кьюсак",
+            "Уилл Сассо",
+            "Норм МакДональд",
+            "Finn Carr",
+            "Emma Shannon",
+            "Люсиан Перес",
+            "Evan Agos"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/movie_508965.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Atresmedia",
+            "The SPA Studios"
+        ]
+    },
+    {
+        "id": 474350,
+        "type": "movie",
+        "title": "Оно 2",
+        "original_title": "It Chapter Two",
+        "year": "2019",
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "director": "Энди Мускетти",
+        "cast": [
+            "Джессика Честейн",
+            "Джеймс МакЭвой",
+            "Билл Хейдер",
+            "София Лиллис",
+            "Билл Скарсгард",
+            "Финн Вулфхард",
+            "Стивен Кинг",
+            "Джейден Мартелл",
+            "Джеймс Рэнсон",
+            "Джек Дилан Грейзер"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_474350.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Оно (Коллекция)",
+        "studios": [
+            "Vertigo Entertainment",
+            "Double Dream"
+        ]
+    },
+    {
+        "id": 399174,
+        "type": "movie",
+        "title": "Остров собак",
+        "original_title": "Isle of Dogs",
+        "year": "2018",
+        "genres": [
+            "приключения",
+            "комедия",
+            "мультфильм"
+        ],
+        "director": "Уэс Андерсон",
+        "cast": [
+            "Брайан Крэнстон",
+            "Кою Ранкин",
+            "Боб Балабан",
+            "Скарлетт Йоханссон",
+            "Эдвард Нортон",
+            "Харви Кейтель",
+            "Тильда Суинтон",
+            "Джефф Голдблюм",
+            "Лев Шрайбер",
+            "Фрэнсис Макдорманд"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_399174.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Studio Babelsberg",
+            "American Empirical Pictures"
+        ]
+    },
+    {
+        "id": 57778,
+        "type": "movie",
+        "title": "Невероятные приключения итальянцев в России",
+        "original_title": "Невероятные приключения итальянцев в России",
+        "year": "1974",
+        "genres": [
+            "комедия",
+            "приключения"
+        ],
+        "director": "Эльдар Рязанов",
+        "cast": [
+            "Андрей Миронов",
+            "Нинетто Даволи",
+            "Антония Сантилли",
+            "Тано Чимароза",
+            "Евгений Евстигнеев",
+            "Ольга Аросева",
+            "Антонина Максимова",
+            "Джиджи Баллиста",
+            "Rossana Di Lorenzo",
+            "Борис Рунге"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_57778.jpg",
+        "original_language": "ru",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "DDL Cinematografica",
+            "Mosfilm"
+        ]
+    },
+    {
+        "id": 20873,
+        "type": "movie",
+        "title": "Бриллиантовая рука",
+        "original_title": "Бриллиантовая рука",
+        "year": "1969",
+        "genres": [
+            "приключения",
+            "комедия",
+            "криминал"
+        ],
+        "director": "Леонид Гайдай",
+        "cast": [
+            "Юрий Никулин",
+            "Нина Гребешкова",
+            "Нонна Мордюкова",
+            "Анатолий Папанов",
+            "Андрей Миронов",
+            "Игорь Ясулович",
+            "Роман Филиппов",
+            "Григорий Шпигель",
+            "Светлана Светличная",
+            "Герман Качин"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_20873.jpg",
+        "original_language": "ru",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Mosfilm"
+        ]
+    },
+    {
+        "id": 63304,
+        "type": "movie",
+        "title": "Гусарская баллада",
+        "original_title": "Гусарская баллада",
+        "year": "1963",
+        "genres": [
+            "комедия",
+            "военный"
+        ],
+        "director": "Эльдар Рязанов",
+        "cast": [
+            "Лариса Голубкина",
+            "Юрий Яковлев",
+            "Игорь Ильинский",
+            "Юрий Белов",
+            "Борис Иванов",
+            "Николай Крючков",
+            "Владимир Гусев",
+            "Феликс Яворский",
+            "Валентин Брылеев",
+            "Лев Поляков"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_63304.jpg",
+        "original_language": "ru",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Mosfilm"
+        ]
+    },
+    {
+        "id": 56547,
+        "type": "movie",
+        "title": "Гараж",
+        "original_title": "Гараж",
+        "year": "1979",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Эльдар Рязанов",
+        "cast": [
+            "Лия Ахеджакова",
+            "Ия Саввина",
+            "Валентин Гафт",
+            "Андрей Мягков",
+            "Эльдар Рязанов",
+            "Светлана Немоляева",
+            "Мария Виноградова",
+            "Борислав Брондуков",
+            "Александр Пятков",
+            "Семён Фарада"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_56547.jpg",
+        "original_language": "ru",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Mosfilm"
+        ]
+    },
+    {
+        "id": 46010,
+        "type": "movie",
+        "title": "Старики-разбойники",
+        "original_title": "Старики-разбойники",
+        "year": "1972",
+        "genres": [
+            "драма",
+            "комедия",
+            "криминал"
+        ],
+        "director": "Эльдар Рязанов",
+        "cast": [
+            "Юрий Никулин",
+            "Евгений Евстигнеев",
+            "Ольга Аросева",
+            "Юрий Белов",
+            "Юрий Яковлев",
+            "Лев Дуров",
+            "Андрей Миронов",
+            "Роман Филиппов",
+            "Александр Ширвиндт",
+            "Георгий Бурков"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_46010.jpg",
+        "original_language": "ru",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Mosfilm"
+        ]
+    },
+    {
+        "id": 867,
+        "type": "movie",
+        "title": "Щепка",
+        "original_title": "Sliver",
+        "year": "1993",
+        "genres": [
+            "драма",
+            "триллер"
+        ],
+        "director": "Phillip Noyce",
+        "cast": [
+            "Шэрон Стоун",
+            "Уильям Болдуин",
+            "Том Беренджер",
+            "Colleen Camp",
+            "Си Си Эйч Паундер",
+            "Полли Уокер",
+            "Джим Бивер",
+            "Мартин Ландау",
+            "Николас Прайор",
+            "Нина Фош"
+        ],
+        "rating": 5.6,
+        "poster_path": "covers/movie_867.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Robert Evans Productions",
+            "Paramount Pictures"
+        ]
+    },
+    {
+        "id": 2636,
+        "type": "movie",
+        "title": "Специалист",
+        "original_title": "The Specialist",
+        "year": "1994",
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "director": "Luis Llosa",
+        "cast": [
+            "Сильвестр Сталлоне",
+            "Шэрон Стоун",
+            "Джеймс Вудс",
+            "Эрик Робертс",
+            "Rod Steiger",
+            "Allan Graf",
+            "Брент Секстон",
+            "Rex Reddick",
+            "Тони Мунафо",
+            "Yeniffer Behrens"
+        ],
+        "rating": 5.9,
+        "poster_path": "covers/movie_2636.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Jerry Weintraub Productions",
+            "Iguana Producciones"
+        ]
     }
 ]
