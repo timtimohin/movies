@@ -33649,5 +33649,138 @@
             "Regency Enterprises",
             "Indian Paintbrush"
         ]
+    },
+    {
+        "id": "766475",
+        "type": "movie",
+        "title": "Смотрите, как они бегут",
+        "original_title": "See How They Run",
+        "year": "2022",
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "director": "Том Джордж",
+        "cast": [
+            "Сэм Рокуэлл",
+            "Сирша Ронан",
+            "Эдриен Броуди",
+            "Гаррис Дикинсон",
+            "Ширли Хендерсон",
+            "Рис Шерсмит",
+            "Рут Уилсон",
+            "Дэвид Ойелоуо",
+            "Джейкоб Форчун-Ллойд",
+            "Тим Ки"
+        ],
+        "rating": 6.3,
+        "poster_path": "covers/movie_766475.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Searchlight Pictures",
+            "DJ Films"
+        ]
+    },
+    {
+        "id": "313297",
+        "type": "movie",
+        "title": "Кубо. Легенда о самурае",
+        "original_title": "Kubo and the Two Strings",
+        "year": "2016",
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "director": "Трэвис Найт",
+        "cast": [
+            "Art Parkinson",
+            "Шарлиз Терон",
+            "Бренда Ваккаро",
+            "Мэттью Макконахи",
+            "Рэйф Файнс",
+            "Руни Мара",
+            "Джордж Такеи",
+            "Кэри-Хироюки Тагава",
+            "Meyrick Murphy",
+            "Кен Такэмото"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/movie_313297.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "LAIKA"
+        ]
+    },
+    {
+        "id": "9591",
+        "type": "movie",
+        "title": "То, что ты делаешь",
+        "original_title": "That Thing You Do!",
+        "year": "1996",
+        "genres": [
+            "комедия",
+            "драма",
+            "мелодрама",
+            "музыка"
+        ],
+        "director": "Том Хэнкс",
+        "cast": [
+            "Том Хэнкс",
+            "Том Эверетт Скотт",
+            "Лив Тайлер",
+            "Шарлиз Терон",
+            "Стив Зан",
+            "Джованни Рибизи",
+            "Рита Уилсон",
+            "Итан Эмбри",
+            "Кевин Поллак",
+            "Билл Коббс"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_9591.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Clinica Estetico",
+            "Clavius Base"
+        ]
+    },
+    {
+        "id": "11978",
+        "type": "movie",
+        "title": "Военный ныряльщик",
+        "original_title": "Men of Honor",
+        "year": "2000",
+        "genres": [
+            "драма"
+        ],
+        "director": "George Tillman Jr.",
+        "cast": [
+            "Роберт Де Ниро",
+            "Кьюба Гудинг мл.",
+            "Шарлиз Терон",
+            "Холт Маккэллани",
+            "Michael Rapaport",
+            "Tyler Posey",
+            "Пауэрс Бут",
+            "Хэл Холбрук",
+            "Дэвид Кит",
+            "Карл Ламбли"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_11978.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Fox 2000 Pictures"
+        ]
     }
 ]
