@@ -33718,41 +33718,6 @@
         ]
     },
     {
-        "id": "9591",
-        "type": "movie",
-        "title": "То, что ты делаешь",
-        "original_title": "That Thing You Do!",
-        "year": "1996",
-        "genres": [
-            "комедия",
-            "драма",
-            "мелодрама",
-            "музыка"
-        ],
-        "director": "Том Хэнкс",
-        "cast": [
-            "Том Хэнкс",
-            "Том Эверетт Скотт",
-            "Лив Тайлер",
-            "Шарлиз Терон",
-            "Стив Зан",
-            "Джованни Рибизи",
-            "Рита Уилсон",
-            "Итан Эмбри",
-            "Кевин Поллак",
-            "Билл Коббс"
-        ],
-        "rating": 6.9,
-        "poster_path": "covers/movie_9591.jpg",
-        "original_language": "en",
-        "status": "favorite",
-        "collection": "",
-        "studios": [
-            "Clinica Estetico",
-            "Clavius Base"
-        ]
-    },
-    {
         "id": "11978",
         "type": "movie",
         "title": "Военный ныряльщик",
@@ -33781,6 +33746,41 @@
         "collection": "",
         "studios": [
             "Fox 2000 Pictures"
+        ]
+    },
+    {
+        "id": "9591",
+        "type": "movie",
+        "title": "То, что ты делаешь",
+        "original_title": "That Thing You Do!",
+        "year": "1996",
+        "genres": [
+            "комедия",
+            "драма",
+            "мелодрама",
+            "музыка"
+        ],
+        "director": "Том Хэнкс",
+        "cast": [
+            "Том Хэнкс",
+            "Том Эверетт Скотт",
+            "Лив Тайлер",
+            "Шарлиз Терон",
+            "Стив Зан",
+            "Джованни Рибизи",
+            "Рита Уилсон",
+            "Итан Эмбри",
+            "Кевин Поллак",
+            "Билл Коббс"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_9591.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Clinica Estetico",
+            "Clavius Base"
         ]
     }
 ]
