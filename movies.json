@@ -33547,5 +33547,107 @@
             "StudioCanal",
             "Les Films Alain Sarde"
         ]
+    },
+    {
+        "id": "120467",
+        "type": "movie",
+        "title": "Отель «Гранд Будапешт»",
+        "original_title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Уэс Андерсон",
+        "cast": [
+            "Рэйф Файнс",
+            "Ф. Мюррей Абрахам",
+            "Матьё Амальрик",
+            "Эдвард Нортон",
+            "Оуэн Уилсон",
+            "Джуд Лоу",
+            "Харви Кейтель",
+            "Леа Сейду",
+            "Эдриен Броуди",
+            "Джефф Голдблюм"
+        ],
+        "rating": 8.0,
+        "poster_path": "covers/movie_120467.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Fox Searchlight Pictures",
+            "Studio Babelsberg"
+        ]
+    },
+    {
+        "id": "83666",
+        "type": "movie",
+        "title": "Королевство полной луны",
+        "original_title": "Moonrise Kingdom",
+        "year": "2012",
+        "genres": [
+            "комедия",
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Уэс Андерсон",
+        "cast": [
+            "Jared Gilman",
+            "Kara Hayward",
+            "Брюс Уиллис",
+            "Эдвард Нортон",
+            "Харви Кейтель",
+            "Тильда Суинтон",
+            "Фрэнсис Макдорманд",
+            "Джейсон Шварцман",
+            "Билл Мюррей",
+            "Боб Балабан"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_83666.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Indian Paintbrush",
+            "American Empirical Pictures"
+        ]
+    },
+    {
+        "id": "10315",
+        "type": "movie",
+        "title": "Бесподобный мистер Фокс",
+        "original_title": "Fantastic Mr. Fox",
+        "year": "2009",
+        "genres": [
+            "приключения",
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "director": "Уэс Андерсон",
+        "cast": [
+            "Джордж Клуни",
+            "Робин Хёрлстоун",
+            "Мэрил Стрип",
+            "Оуэн Уилсон",
+            "Уиллем Дефо",
+            "Брайан Кокс",
+            "Уэс Андерсон",
+            "Джейсон Шварцман",
+            "Майкл Гэмбон",
+            "Билл Мюррей"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_10315.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Regency Enterprises",
+            "Indian Paintbrush"
+        ]
     }
 ]
