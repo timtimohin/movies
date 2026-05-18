@@ -34181,5 +34181,66 @@
             "New Line Cinema",
             "Threshold Entertainment"
         ]
+    },
+    {
+        "id": "1215",
+        "type": "tv",
+        "title": "Блудливая Калифорния",
+        "original_title": "Californication",
+        "year": "2007",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Tom Kapinos",
+        "cast": [
+            "Дэвид Духовны",
+            "Наташа Макэлхоун",
+            "Эван Хэндлер",
+            "Памела Эдлон"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/tv_1215.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Aggressive Mediocrity",
+            "Showtime Networks"
+        ],
+        "seasons": 7
+    },
+    {
+        "id": "341013",
+        "type": "movie",
+        "title": "Взрывная блондинка",
+        "original_title": "Atomic Blonde",
+        "year": "2017",
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "director": "Дэвид Литч",
+        "cast": [
+            "Шарлиз Терон",
+            "Джеймс МакЭвой",
+            "Эдди Марсан",
+            "Билл Скарсгард",
+            "Тоби Джонс",
+            "Тиль Швайгер",
+            "Джон Гудман",
+            "София Бутелла",
+            "Дэниел Бернхардт",
+            "Йоуханнес Хёйкюр Йоуханнессон"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_341013.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Focus Features",
+            "Denver & Delilah Productions"
+        ]
     }
 ]
