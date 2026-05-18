@@ -34045,5 +34045,141 @@
             "Darkwoods Productions",
             "Dimension Films"
         ]
+    },
+    {
+        "id": "11815",
+        "type": "movie",
+        "title": "Муха",
+        "original_title": "The Fly",
+        "year": "1958",
+        "genres": [
+            "фантастика",
+            "ужасы",
+            "драма"
+        ],
+        "director": "Kurt Neumann",
+        "cast": [
+            "Дэвид Хедисон",
+            "Patricia Owens",
+            "Винсент Прайс",
+            "Кэтлин Фримен",
+            "Бесс Флауэрс",
+            "Herschel Graham",
+            "Herbert Marshall",
+            "Betty Lou Gerson",
+            "Charles Herbert",
+            "George Nardelli"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_11815.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Муха (1958)",
+        "studios": [
+            "20th Century Fox",
+            "Regal Films"
+        ]
+    },
+    {
+        "id": "8698",
+        "type": "movie",
+        "title": "Лига выдающихся джентльменов",
+        "original_title": "The League of Extraordinary Gentlemen",
+        "year": "2003",
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "фантастика"
+        ],
+        "director": "Стивен Норрингтон",
+        "cast": [
+            "Шон Коннери",
+            "Naseeruddin Shah",
+            "Shane West",
+            "Джейсон Флеминг",
+            "Тони Карран",
+            "Ричард Роксбург",
+            "Том Гудман-Хилл",
+            "Peta Wilson",
+            "Дэвид Хеммингс",
+            "Стюарт Таунсенд"
+        ],
+        "rating": 6.0,
+        "poster_path": "covers/movie_8698.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "20th Century Fox",
+            "Don Murphy Productions"
+        ]
+    },
+    {
+        "id": "8009",
+        "type": "movie",
+        "title": "Горец",
+        "original_title": "Highlander",
+        "year": "1986",
+        "genres": [
+            "приключения",
+            "боевик",
+            "фэнтези"
+        ],
+        "director": "Рассел Малкэхи",
+        "cast": [
+            "Кристофер Ламберт",
+            "Roxanne Hart",
+            "Клэнси Браун",
+            "Шон Коннери",
+            "Селия Имри",
+            "Джеймс Космо",
+            "Хью Куарши",
+            "Джон Полито",
+            "Beatie Edney",
+            "Луис Гасс"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_8009.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Горец (Коллекция)",
+        "studios": [
+            "Davis-Panzer Productions",
+            "Thorn EMI Screen Entertainment"
+        ]
+    },
+    {
+        "id": "9312",
+        "type": "movie",
+        "title": "Смертельная битва",
+        "original_title": "Mortal Kombat",
+        "year": "1995",
+        "genres": [
+            "боевик",
+            "фэнтези"
+        ],
+        "director": "Пол У. С. Андерсон",
+        "cast": [
+            "Робин Шу",
+            "Кэри-Хироюки Тагава",
+            "Линден Эшби",
+            "Фрэнк Уэлкер",
+            "Кристофер Ламберт",
+            "Кевин Майкл Ричардсон",
+            "Бриджетт Уилсон",
+            "Питер Джейсон",
+            "Талиса Сото",
+            "Крис Касамасса"
+        ],
+        "rating": 5.9,
+        "poster_path": "covers/movie_9312.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Смертельная битва (Коллекция)",
+        "studios": [
+            "New Line Cinema",
+            "Threshold Entertainment"
+        ]
     }
 ]
