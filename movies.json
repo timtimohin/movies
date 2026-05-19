@@ -34207,5 +34207,237 @@
             "Focus Features",
             "Denver & Delilah Productions"
         ]
+    },
+    {
+        "id": "76331",
+        "type": "tv",
+        "title": "Наследники",
+        "original_title": "Succession",
+        "year": "2018",
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "director": "Джесси Армстронг",
+        "cast": [
+            "Джереми Стронг",
+            "Киран Калкин",
+            "Сара Снук",
+            "Брайан Кокс",
+            "Фишер Стивенс",
+            "Жюстин Люпе",
+            "Мэттью Макфэдьен",
+            "Алан Рак",
+            "Николас Браун",
+            "Дагмара Доминчик"
+        ],
+        "rating": 8.3,
+        "poster_path": "covers/tv_76331.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Gary Sanchez Productions",
+            "Hyperobject Industries"
+        ],
+        "seasons": 4
+    },
+    {
+        "id": "1266127",
+        "type": "movie",
+        "title": "Я иду искать 2",
+        "original_title": "Ready or Not: Here I Come",
+        "year": "2026",
+        "genres": [
+            "триллер",
+            "ужасы",
+            "комедия"
+        ],
+        "director": "Мэтт Беттинелли-Олпин",
+        "cast": [
+            "Самара Уивинг",
+            "Кэтрин Ньютон",
+            "Элайджа Вуд",
+            "Шон Хэтоси",
+            "Сара Мишель Геллар",
+            "Кевин Дюранд",
+            "Дэвид Кроненберг",
+            "Нестор Карбонелл",
+            "Simon Sinn",
+            "Оливия Ченг"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/movie_1266127.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Я иду искать (Коллекция)",
+        "studios": [
+            "Searchlight Pictures",
+            "Mythology Entertainment"
+        ]
+    },
+    {
+        "id": "567609",
+        "type": "movie",
+        "title": "Я иду искать",
+        "original_title": "Ready or Not",
+        "year": "2019",
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "director": "Тайлер Джиллетт",
+        "cast": [
+            "Самара Уивинг",
+            "Адам Броди",
+            "Марк О'Брайен",
+            "Энди МакДауэлл",
+            "Мелани Скрофано",
+            "Нат Факсон",
+            "Генри Черни",
+            "Etienne Kellici",
+            "Кристиан Бруун",
+            "Элиз Левек"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_567609.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Я иду искать (Коллекция)",
+        "studios": [
+            "Mythology Entertainment",
+            "Vinson Films"
+        ]
+    },
+    {
+        "id": "419479",
+        "type": "movie",
+        "title": "Няня",
+        "original_title": "The Babysitter",
+        "year": "2017",
+        "genres": [
+            "комедия",
+            "ужасы"
+        ],
+        "director": "МакДжи",
+        "cast": [
+            "Judah Lewis",
+            "Самара Уивинг",
+            "Робби Амелл",
+            "Лесли Бибб",
+            "Белла Торн",
+            "Эмили Элин Линд",
+            "Эмили Бробст",
+            "Ken Marino",
+            "Jimmy Warden",
+            "Эндрю Бэчелор"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_419479.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Няня (Колллекция)",
+        "studios": [
+            "Wonderland Sound and Vision",
+            "Boies/Schiller Film Group"
+        ]
+    },
+    {
+        "id": "49047",
+        "type": "movie",
+        "title": "Гравитация",
+        "original_title": "Gravity",
+        "year": "2013",
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "director": "Альфонсо Куарон",
+        "cast": [
+            "Сандра Буллок",
+            "Джордж Клуни",
+            "Эд Харрис",
+            "Фалдут Шарма",
+            "Эми Уоррен",
+            "Башер Сэвэдж",
+            "Орто Игнатиуссен"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_49047.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Esperanto Filmoj",
+            "Warner Bros. Pictures"
+        ]
+    },
+    {
+        "id": "9739",
+        "type": "movie",
+        "title": "Разрушитель",
+        "original_title": "Demolition Man",
+        "year": "1993",
+        "genres": [
+            "криминал",
+            "боевик",
+            "фантастика"
+        ],
+        "director": "Марко Брамбилла",
+        "cast": [
+            "Сильвестр Сталлоне",
+            "Уэсли Снайпс",
+            "Сандра Буллок",
+            "Денис Лири",
+            "Бенджамин Брэтт",
+            "Роб Шнайдер",
+            "Боб Гантон",
+            "Билл Коббс",
+            "Troy Evans",
+            "Стив Кэхэн"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_9739.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Silver Pictures",
+            "Warner Bros. Pictures"
+        ]
+    },
+    {
+        "id": "9821",
+        "type": "movie",
+        "title": "Великан",
+        "original_title": "The Mighty",
+        "year": "1998",
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "director": "Peter Chelsom",
+        "cast": [
+            "Шэрон Стоун",
+            "Элден Хенсон",
+            "Киран Калкин",
+            "Джиллиан Андерсон",
+            "Джеймс Гандольфини",
+            "Дженифер Льюис",
+            "Гарри Дин Стэнтон",
+            "Meat Loaf",
+            "Стинг",
+            "Джина Роулендс"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_9821.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Chaos Productions",
+            "Scholastic Productions"
+        ]
     }
 ]
