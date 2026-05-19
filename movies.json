@@ -26081,11 +26081,15 @@
         "director": "Эдди Городецки",
         "cast": [
             "Эллисон Дженни",
-            "Джейми Прессли",
             "Мими Кеннеди",
+            "Анна Фэрис",
+            "Джейми Прессли",
             "Уильям Фихтнер",
-            "Kristen Johnston",
-            "Beth Hall"
+            "Октавия Спенсер",
+            "Рэйн Уилсон",
+            "Эми Хилл",
+            "Уилл Сассо",
+            "Мэтт Джонс"
         ],
         "rating": 7.3,
         "poster_path": "covers/tv_49011.jpg",
@@ -33841,7 +33845,7 @@
         "rating": 7.1,
         "poster_path": "covers/movie_555285.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Gracie Films",
