@@ -34748,5 +34748,143 @@
             "Universal Pictures",
             "Amblin Entertainment"
         ]
+    },
+    {
+        "id": "15592",
+        "type": "movie",
+        "title": "На пляже",
+        "original_title": "Beaches",
+        "year": "1988",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Garry Marshall",
+        "cast": [
+            "Бетт Мидлер",
+            "Барбара Херши",
+            "Джон Хёрд",
+            "Маим Бялик",
+            "Lainie Kazan",
+            "James Read",
+            "Tracy Reiner",
+            "Фил Лидс",
+            "Allan Kent",
+            "Spalding Gray"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_15592.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Touchstone Pictures",
+            "All Girl Productions"
+        ]
+    },
+    {
+        "id": "786",
+        "type": "movie",
+        "title": "Почти знаменит",
+        "original_title": "Almost Famous",
+        "year": "2000",
+        "genres": [
+            "драма",
+            "музыка"
+        ],
+        "director": "Кэмерон Кроу",
+        "cast": [
+            "Билли Крудап",
+            "Фрэнсис Макдорманд",
+            "Кейт Хадсон",
+            "Эйон Бэйли",
+            "Зоуи Дешанель",
+            "Филип Сеймур Хоффман",
+            "Анна Пэкуин",
+            "Джейсон Ли",
+            "Рэйн Уилсон",
+            "Джимми Фэллон"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_786.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "DreamWorks Pictures",
+            "Columbia Pictures"
+        ]
+    },
+    {
+        "id": "1177767",
+        "type": "movie",
+        "title": "Mile End Kicks",
+        "original_title": "Mile End Kicks",
+        "year": "2026",
+        "genres": [
+            "комедия",
+            "мелодрама",
+            "музыка",
+            "драма"
+        ],
+        "director": "Chandler Levack",
+        "cast": [
+            "Барби Феррейра",
+            "Девон Бостик",
+            "Stanley Simons",
+            "Джей Барушель",
+            "Juliette Gariépy",
+            "Robert Naylor",
+            "Sabrina Jalees",
+            "Hasani Freeman",
+            "Isaiah Lehtinen",
+            "Emily Lê"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_1177767.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Zapruder Films",
+            "Banner House Productions"
+        ]
+    },
+    {
+        "id": "79788",
+        "type": "tv",
+        "title": "Хранители",
+        "original_title": "Watchmen",
+        "year": "2019",
+        "genres": [
+            "драма",
+            "криминал",
+            "НФ и Фэнтези",
+            "детектив",
+            "Боевик и Приключения"
+        ],
+        "director": "Деймон Лоренс Линделоф",
+        "cast": [
+            "Реджина Кинг",
+            "Яхья Абдул-Матин II",
+            "Джереми Айронс",
+            "Фрэнсис Фишер",
+            "Джин Смарт",
+            "Дон Джонсон",
+            "Хонг Чау",
+            "Тим Блейк Нельсон",
+            "Эндрю Говард",
+            "Джессика Камачо"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/tv_79788.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "White Rabbit",
+            "Warner Bros. Television"
+        ],
+        "seasons": 1
     }
 ]
