@@ -34545,5 +34545,208 @@
             "The Halcyon Company",
             "Moritz Borman Productions"
         ]
+    },
+    {
+        "id": "35791",
+        "type": "movie",
+        "title": "Обитель зла 4: Жизнь после смерти",
+        "original_title": "Resident Evil: Afterlife",
+        "year": "2010",
+        "genres": [
+            "боевик",
+            "приключения",
+            "ужасы",
+            "фантастика"
+        ],
+        "director": "Пол У. С. Андерсон",
+        "cast": [
+            "Милла Йовович",
+            "Уэнтуорт Миллер",
+            "Эли Лартер",
+            "Иэн Глен",
+            "Ким Коутс",
+            "Сиенна Гиллори",
+            "Борис Коджо",
+            "Спенсер Локк",
+            "Шон Робертс",
+            "Мика Накашима"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_35791.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Обитель зла (Коллекция)",
+        "studios": [
+            "Screen Gems",
+            "Constantin Film"
+        ]
+    },
+    {
+        "id": "173897",
+        "type": "movie",
+        "title": "Обитель зла: Последняя глава",
+        "original_title": "Resident Evil: The Final Chapter",
+        "year": "2016",
+        "genres": [
+            "боевик",
+            "ужасы",
+            "фантастика"
+        ],
+        "director": "Пол У. С. Андерсон",
+        "cast": [
+            "Милла Йовович",
+            "Иэн Глен",
+            "Эли Лартер",
+            "Руби Роуз",
+            "Эойн Маккен",
+            "Уильям Леви",
+            "Ли Чжун Ги",
+            "Евер Андерсон",
+            "Фрейзер Джеймс",
+            "Дуглас Чэпман"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_173897.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Обитель зла (Коллекция)",
+        "studios": [
+            "Screen Gems",
+            "Constantin Film"
+        ]
+    },
+    {
+        "id": "39253",
+        "type": "movie",
+        "title": "Выкрутасы",
+        "original_title": "Выкрутасы",
+        "year": "2011",
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "director": "Леван Габриадзе",
+        "cast": [
+            "Константин Хабенский",
+            "Милла Йовович",
+            "Иван Ургант",
+            "Сергей Гармаш",
+            "Александр Робак",
+            "Таисия Вилкова",
+            "Татьяна Лютаева",
+            "Роман Мадянов",
+            "Ольга Тумайкина",
+            "Галина Логинова"
+        ],
+        "rating": 5.9,
+        "poster_path": "covers/movie_39253.jpg",
+        "original_language": "ru",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Bazelevs"
+        ]
+    },
+    {
+        "id": "105",
+        "type": "movie",
+        "title": "Назад в будущее",
+        "original_title": "Back to the Future",
+        "year": "1985",
+        "genres": [
+            "приключения",
+            "комедия",
+            "фантастика"
+        ],
+        "director": "Роберт Земекис",
+        "cast": [
+            "Майкл Дж. Фокс",
+            "Кристофер Ллойд",
+            "Криспин Гловер",
+            "Билли Зейн",
+            "Джеймс Толкан",
+            "Лиа Томпсон",
+            "Томас Ф. Уилсон",
+            "Кэйси Семашко",
+            "Марк МакКлюр",
+            "Клаудия Уэллс"
+        ],
+        "rating": 8.3,
+        "poster_path": "covers/movie_105.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Назад в будущее (Коллекция)",
+        "studios": [
+            "Universal Pictures",
+            "Amblin Entertainment"
+        ]
+    },
+    {
+        "id": "165",
+        "type": "movie",
+        "title": "Назад в будущее 2",
+        "original_title": "Back to the Future Part II",
+        "year": "1989",
+        "genres": [
+            "приключения",
+            "комедия",
+            "фантастика"
+        ],
+        "director": "Роберт Земекис",
+        "cast": [
+            "Майкл Дж. Фокс",
+            "Кристофер Ллойд",
+            "Лиа Томпсон",
+            "Элизабет Шу",
+            "Элайджа Вуд",
+            "Джеймс Толкан",
+            "Билли Зейн",
+            "Томас Ф. Уилсон",
+            "Джейсон Скотт Ли",
+            "Фли"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_165.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Назад в будущее (Коллекция)",
+        "studios": [
+            "Universal Pictures",
+            "Amblin Entertainment"
+        ]
+    },
+    {
+        "id": "196",
+        "type": "movie",
+        "title": "Назад в будущее 3",
+        "original_title": "Back to the Future Part III",
+        "year": "1990",
+        "genres": [
+            "приключения",
+            "комедия",
+            "фантастика"
+        ],
+        "director": "Роберт Земекис",
+        "cast": [
+            "Майкл Дж. Фокс",
+            "Кристофер Ллойд",
+            "Мэри Стинбёрджен",
+            "Элизабет Шу",
+            "Джеймс Толкан",
+            "Лиа Томпсон",
+            "Томас Ф. Уилсон",
+            "Мэтт Кларк",
+            "Билл МакКинни",
+            "Фли"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_196.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Назад в будущее (Коллекция)",
+        "studios": [
+            "Universal Pictures",
+            "Amblin Entertainment"
+        ]
     }
 ]
