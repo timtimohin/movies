@@ -33620,41 +33620,6 @@
         ]
     },
     {
-        "id": "10315",
-        "type": "movie",
-        "title": "Бесподобный мистер Фокс",
-        "original_title": "Fantastic Mr. Fox",
-        "year": "2009",
-        "genres": [
-            "приключения",
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "director": "Уэс Андерсон",
-        "cast": [
-            "Джордж Клуни",
-            "Робин Хёрлстоун",
-            "Мэрил Стрип",
-            "Оуэн Уилсон",
-            "Уиллем Дефо",
-            "Брайан Кокс",
-            "Уэс Андерсон",
-            "Джейсон Шварцман",
-            "Майкл Гэмбон",
-            "Билл Мюррей"
-        ],
-        "rating": 7.8,
-        "poster_path": "covers/movie_10315.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Regency Enterprises",
-            "Indian Paintbrush"
-        ]
-    },
-    {
         "id": "766475",
         "type": "movie",
         "title": "Смотрите, как они бегут",
@@ -34412,39 +34377,6 @@
         ]
     },
     {
-        "id": "9821",
-        "type": "movie",
-        "title": "Великан",
-        "original_title": "The Mighty",
-        "year": "1998",
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "director": "Peter Chelsom",
-        "cast": [
-            "Шэрон Стоун",
-            "Элден Хенсон",
-            "Киран Калкин",
-            "Джиллиан Андерсон",
-            "Джеймс Гандольфини",
-            "Дженифер Льюис",
-            "Гарри Дин Стэнтон",
-            "Meat Loaf",
-            "Стинг",
-            "Джина Роулендс"
-        ],
-        "rating": 7.2,
-        "poster_path": "covers/movie_9821.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Chaos Productions",
-            "Scholastic Productions"
-        ]
-    },
-    {
         "id": "218",
         "type": "movie",
         "title": "Терминатор",
@@ -34886,5 +34818,107 @@
             "Warner Bros. Television"
         ],
         "seasons": 1
+    },
+    {
+        "id": "1398",
+        "type": "tv",
+        "title": "Сопрано",
+        "original_title": "The Sopranos",
+        "year": "1999",
+        "genres": [
+            "криминал",
+            "драма"
+        ],
+        "director": "Дэвид Чейз",
+        "cast": [
+            "Джеймс Гандольфини",
+            "Эди Фалко",
+            "Джейми-Линн Сиглер",
+            "Лоррейн Бракко",
+            "Майкл Империоли",
+            "Дреа де Маттео",
+            "Тони Сирико",
+            "Макс Казелла",
+            "Стив Ширрипа",
+            "Фрэнк Винсент"
+        ],
+        "rating": 8.7,
+        "poster_path": "covers/tv_1398.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "HBO",
+            "Chase Films"
+        ],
+        "seasons": 6
+    },
+    {
+        "id": "1078605",
+        "type": "movie",
+        "title": "Орудия",
+        "original_title": "Weapons",
+        "year": "2025",
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "director": "Зак Креггер",
+        "cast": [
+            "Джулия Гарнер",
+            "Джош Бролин",
+            "Олден Эйренрайк",
+            "Джастин Лонг",
+            "Бенедикт Вонг",
+            "Эми Мэдиган",
+            "Остин Абрамс",
+            "Тоби Хасс",
+            "Сара Пэкстон",
+            "Мелисса Понцио"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_1078605.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Орудия (Коллекция)",
+        "studios": [
+            "Subconscious",
+            "Vertigo Entertainment"
+        ]
+    },
+    {
+        "id": "87917",
+        "type": "tv",
+        "title": "Ради всего человечества",
+        "original_title": "For All Mankind",
+        "year": "2019",
+        "genres": [
+            "драма",
+            "НФ и Фэнтези",
+            "Война и Политика"
+        ],
+        "director": "Мэтт Уолперт",
+        "cast": [
+            "Ренн Шмидт",
+            "Юэль Киннаман",
+            "Синти Ву",
+            "Шантель ВанСантен",
+            "Эди Гатеги",
+            "Сара Джонс",
+            "Тоби Кеббелл",
+            "Джоди Бальфур",
+            "Крис Маршалл",
+            "Чарли Ли"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/tv_87917.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Tall Ship Productions",
+            "Sony Pictures Television"
+        ],
+        "seasons": 5
     }
 ]
