@@ -29679,38 +29679,6 @@
         ]
     },
     {
-        "id": 212778,
-        "type": "movie",
-        "title": "Повар на колесах",
-        "original_title": "Chef",
-        "year": "2014",
-        "genres": [
-            "комедия"
-        ],
-        "director": "Джон Фавро",
-        "cast": [
-            "Джон Фавро",
-            "Джон Легуизамо",
-            "Бобби Каннавале",
-            "Скарлетт Йоханссон",
-            "Роберт Дауни мл.",
-            "София Вергара",
-            "Дастин Хоффман",
-            "Эми Седарис",
-            "Оливер Платт",
-            "Расселл Питерс"
-        ],
-        "rating": 7.1,
-        "poster_path": "covers/movie_212778.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Altus Media",
-            "Fairview Entertainment"
-        ]
-    },
-    {
         "id": 37056,
         "type": "movie",
         "title": "Письма к Джульетте",
@@ -35200,5 +35168,108 @@
             "Sony Pictures Television"
         ],
         "seasons": 5
+    },
+    {
+        "id": "9022",
+        "type": "movie",
+        "title": "Все парни любят Мэнди Лейн",
+        "original_title": "All the Boys Love Mandy Lane",
+        "year": "2006",
+        "genres": [
+            "ужасы",
+            "детектив",
+            "триллер"
+        ],
+        "director": "Jonathan Levine",
+        "cast": [
+            "Эмбер Хёрд",
+            "Майкл Уэлш",
+            "Уитни Эйбл",
+            "Люк Граймс",
+            "Енсон Маунт",
+            "Эдвин Ходж",
+            "Аарон Химельштейн",
+            "Брук Блум",
+            "Amber Bartlett",
+            "Melissa Price"
+        ],
+        "rating": 5.6,
+        "poster_path": "covers/movie_9022.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Occupant Films"
+        ]
+    },
+    {
+        "id": "70453",
+        "type": "tv",
+        "title": "Острые предметы",
+        "original_title": "Sharp Objects",
+        "year": "2018",
+        "genres": [
+            "криминал",
+            "драма",
+            "детектив"
+        ],
+        "director": "Марти Ноксон",
+        "cast": [
+            "Эми Адамс",
+            "Патрисия Кларксон",
+            "Крис Мессина",
+            "Сидни Суини",
+            "София Лиллис",
+            "Элизабет Перкинс",
+            "Лулу Уилсон",
+            "Мэтт Крэйвен",
+            "Генри Черни",
+            "Мэдисон Девенпорт"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/tv_70453.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Entertainment One",
+            "Blumhouse Television"
+        ],
+        "seasons": 1
+    },
+    {
+        "id": "90260",
+        "type": "tv",
+        "title": "Меня это не устраивает!",
+        "original_title": "I Am Not Okay with This",
+        "year": "2020",
+        "genres": [
+            "драма",
+            "комедия",
+            "НФ и Фэнтези"
+        ],
+        "director": "Кристи Холл",
+        "cast": [
+            "София Лиллис",
+            "Уайатт Олефф",
+            "Sofia Bryant",
+            "Кэтлин Роуз Перкинс",
+            "최다니엘",
+            "Gregg Daniel",
+            "София Татум",
+            "David Theune",
+            "Shay Guthrie",
+            "Jackson Frazer"
+        ],
+        "rating": 8.0,
+        "poster_path": "covers/tv_90260.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "21 Laps Entertainment",
+            "Raindrop Valley"
+        ],
+        "seasons": 1
     }
 ]
