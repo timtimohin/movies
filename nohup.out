@@ -766,3 +766,10 @@ To https://github.com/timtimohin/movies.git
  3 files changed, 4478 insertions(+), 4216 deletions(-)
 To https://github.com/timtimohin/movies.git
    fe622e9..ac6a33f  main -> main
+[main 36dd7d3] Обновление базы через бота
+ 6 files changed, 184 insertions(+), 59 deletions(-)
+ create mode 100644 covers/movie_9022.jpg
+ create mode 100644 covers/tv_70453.jpg
+ create mode 100644 covers/tv_90260.jpg
+To https://github.com/timtimohin/movies.git
+   ac6a33f..36dd7d3  main -> main

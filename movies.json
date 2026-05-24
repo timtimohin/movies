@@ -30357,40 +30357,6 @@
         ]
     },
     {
-        "id": 116,
-        "type": "movie",
-        "title": "Матч Поинт",
-        "original_title": "Match Point",
-        "year": "2005",
-        "genres": [
-            "драма",
-            "мелодрама",
-            "триллер"
-        ],
-        "director": "Вуди Аллен",
-        "cast": [
-            "Джонатан Риз Майерс",
-            "Скарлетт Йоханссон",
-            "Эмили Мортимер",
-            "Брайан Кокс",
-            "Мэтью Гуд",
-            "Тоби Кеббелл",
-            "Марк Гэтисс",
-            "Юэн Бремнер",
-            "Rupert Penry-Jones",
-            "Колин Сэлмон"
-        ],
-        "rating": 7.4,
-        "poster_path": "covers/movie_116.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "BBC Film",
-            "Thema Production"
-        ]
-    },
-    {
         "id": 82856,
         "type": "tv",
         "title": "Мандалорец",
@@ -33517,7 +33483,7 @@
         "rating": 5.9,
         "poster_path": "covers/movie_2636.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Jerry Weintraub Productions",
@@ -35271,5 +35237,172 @@
             "Raindrop Valley"
         ],
         "seasons": 1
+    },
+    {
+        "id": "33016",
+        "type": "movie",
+        "title": "Смертельное благословение",
+        "original_title": "Deadly Blessing",
+        "year": "1981",
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "director": "Уэс Крэйвен",
+        "cast": [
+            "Maren Jensen",
+            "Шэрон Стоун",
+            "Susan Buckner",
+            "Эрнест Боргнайн",
+            "Lois Nettleton",
+            "Майкл Берриман",
+            "Douglas Barr",
+            "Lisa Hartman",
+            "Кевин Куни",
+            "Jeff East"
+        ],
+        "rating": 5.6,
+        "poster_path": "covers/movie_33016.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "United Artists",
+            "Polygram Pictures"
+        ]
+    },
+    {
+        "id": "46717",
+        "type": "movie",
+        "title": "Перекресток",
+        "original_title": "Intersection",
+        "year": "1994",
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Mark Rydell",
+        "cast": [
+            "Ричард Гир",
+            "Шэрон Стоун",
+            "Lolita Davidovich",
+            "Дженнифер Моррисон",
+            "Мартин Ландау",
+            "David Selby",
+            "Джей Бразо",
+            "A.C. Peterson",
+            "Кевин МакНалти",
+            "Gary Jones"
+        ],
+        "rating": 5.1,
+        "poster_path": "covers/movie_46717.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Paramount Pictures"
+        ]
+    },
+    {
+        "id": "2087",
+        "type": "movie",
+        "title": "Побег",
+        "original_title": "The Getaway",
+        "year": "1994",
+        "genres": [
+            "боевик",
+            "криминал",
+            "детектив",
+            "триллер"
+        ],
+        "director": "Roger Donaldson",
+        "cast": [
+            "Алек Болдуин",
+            "Ким Бейсингер",
+            "Майкл Медсен",
+            "Филип Сеймур Хоффман",
+            "Дженнифер Тилли",
+            "Дэвид Морс",
+            "Джеймс Вудс",
+            "Бутс Сазерленд",
+            "Ричард Фарнсуорт",
+            "James Stephens"
+        ],
+        "rating": 5.8,
+        "poster_path": "covers/movie_2087.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Largo Entertainment",
+            "The Turman-Foster Company"
+        ]
+    },
+    {
+        "id": "2047",
+        "type": "movie",
+        "title": "Настоящая Маккой",
+        "original_title": "The Real McCoy",
+        "year": "1993",
+        "genres": [
+            "боевик",
+            "криминал",
+            "драма",
+            "триллер"
+        ],
+        "director": "Рассел Малкэхи",
+        "cast": [
+            "Ким Бейсингер",
+            "Вэл Килмер",
+            "Теренс Стэмп",
+            "Nick Searcy",
+            "Афемо Омилами",
+            "Gailard Sartain",
+            "Марк Маколей",
+            "Raynor Scheine",
+            "Энди Шталь",
+            "Дэвид Дуайер"
+        ],
+        "rating": 5.7,
+        "poster_path": "covers/movie_2047.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Universal Pictures"
+        ]
+    },
+    {
+        "id": "37950",
+        "type": "movie",
+        "title": "Двойная жизнь Чарли Сан-Клауда",
+        "original_title": "Charlie St. Cloud",
+        "year": "2010",
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Бёрр Стирс",
+        "cast": [
+            "Зак Эфрон",
+            "Чарльз Тахан",
+            "Аманда Крю",
+            "Дэйв Франко",
+            "Ким Бейсингер",
+            "Донал Лог",
+            "Рэй Лиотта",
+            "Валери Тянь",
+            "Марси Т. Хаус",
+            "Джилл Тид"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_37950.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Marc Platt Productions",
+            "Universal Pictures"
+        ]
     }
 ]
