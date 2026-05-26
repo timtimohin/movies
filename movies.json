@@ -30082,7 +30082,7 @@
         "rating": 8.2,
         "poster_path": "covers/movie_441130.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Cartoon Saloon",
@@ -31523,40 +31523,6 @@
         "studios": [
             "Paramount Pictures",
             "Rysher Entertainment"
-        ]
-    },
-    {
-        "id": 1284120,
-        "type": "movie",
-        "title": "Гадкая сестра",
-        "original_title": "Den stygge stesøsteren",
-        "year": "2025",
-        "genres": [
-            "ужасы",
-            "комедия",
-            "драма"
-        ],
-        "director": "Emilie Blichfeldt",
-        "cast": [
-            "Lea Mathilde Skar-Myren",
-            "Ане Даль Торп",
-            "Теа Софи Лох Несс",
-            "Malte Gårdinger",
-            "Agnieszka Żulewska",
-            "Flo Fagerli",
-            "Isac Calmroth",
-            "Adam Lundgren",
-            "Richard Forsgren",
-            "Cecilia Forss"
-        ],
-        "rating": 7.3,
-        "poster_path": "covers/movie_1284120.jpg",
-        "original_language": "no",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Mer Film",
-            "Lava Films"
         ]
     },
     {
@@ -33422,39 +33388,6 @@
         "collection": "",
         "studios": [
             "Mosfilm"
-        ]
-    },
-    {
-        "id": 867,
-        "type": "movie",
-        "title": "Щепка",
-        "original_title": "Sliver",
-        "year": "1993",
-        "genres": [
-            "драма",
-            "триллер"
-        ],
-        "director": "Phillip Noyce",
-        "cast": [
-            "Шэрон Стоун",
-            "Уильям Болдуин",
-            "Том Беренджер",
-            "Полли Уокер",
-            "Си Си Эйч Паундер",
-            "Colleen Camp",
-            "Джим Бивер",
-            "Мартин Ландау",
-            "Нина Фош",
-            "Allison Mackie"
-        ],
-        "rating": 5.6,
-        "poster_path": "covers/movie_867.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Robert Evans Productions",
-            "Paramount Pictures"
         ]
     },
     {
@@ -35403,6 +35336,73 @@
         "studios": [
             "Marc Platt Productions",
             "Universal Pictures"
+        ]
+    },
+    {
+        "id": "985939",
+        "type": "movie",
+        "title": "Вышка",
+        "original_title": "Fall",
+        "year": "2022",
+        "genres": [
+            "триллер"
+        ],
+        "director": "Скотт Манн",
+        "cast": [
+            "Грейс Кэролайн Кёрри",
+            "Вирджиния Гарднер",
+            "Джеффри Дин Морган",
+            "Мэйсон Гудинг",
+            "Даррел Деннис",
+            "Джаспер Коул",
+            "Бамм Эриксен",
+            "Джулия Пейс-Митчелл",
+            "Эви Манн",
+            "Джозеф Манн"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_985939.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Вышка (Коллекция)",
+        "studios": [
+            "Tea Shop Productions",
+            "Capstone Pictures"
+        ]
+    },
+    {
+        "id": "457335",
+        "type": "movie",
+        "title": "Пушки Акимбо",
+        "original_title": "Guns Akimbo",
+        "year": "2020",
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "director": "Jason Lei Howden",
+        "cast": [
+            "Дэниел Рэдклифф",
+            "Самара Уивинг",
+            "Natasha Liu Bordizzo",
+            "Рис Дэрби",
+            "Нед Деннехи",
+            "Grant Bowler",
+            "Марк Роули",
+            "Colin Moy",
+            "Milo Cawthorne",
+            "Грэм Винсент"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_457335.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Occupant Entertainment",
+            "Four Knights Film"
         ]
     }
 ]
