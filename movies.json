@@ -35264,7 +35264,7 @@
         "rating": 5.8,
         "poster_path": "covers/movie_2087.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Largo Entertainment",
@@ -35403,6 +35403,139 @@
         "studios": [
             "Occupant Entertainment",
             "Four Knights Film"
+        ]
+    },
+    {
+        "id": "268531",
+        "type": "movie",
+        "title": "Капитан Подштанник: Первый эпический фильм",
+        "original_title": "Captain Underpants: The First Epic Movie",
+        "year": "2017",
+        "genres": [
+            "семейный",
+            "комедия",
+            "мультфильм",
+            "фантастика",
+            "боевик"
+        ],
+        "director": "David Soren",
+        "cast": [
+            "Кевин Харт",
+            "Томас Миддлдитч",
+            "Эд Хелмс",
+            "Джордан Пил",
+            "Ник Кролл",
+            "Кристен Шаал",
+            "Брайан Посен",
+            "Лесли Никол",
+            "Лесли Дэвид Бейкер",
+            "Крис Миллер"
+        ],
+        "rating": 6.3,
+        "poster_path": "covers/movie_268531.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Captain Underpants Collection",
+        "studios": [
+            "DreamWorks Animation",
+            "Scholastic Entertainment"
+        ]
+    },
+    {
+        "id": "1339713",
+        "type": "movie",
+        "title": "Обсессия",
+        "original_title": "Obsession",
+        "year": "2026",
+        "genres": [
+            "ужасы"
+        ],
+        "director": "Curry Barker",
+        "cast": [
+            "Майкл Джонстон",
+            "Инде Наварретт",
+            "Купер Томлинсон",
+            "Curry Barker",
+            "Меган Лоулесс",
+            "Энди Рихтер",
+            "Тим Робинсон",
+            "Дэрин Тондер",
+            "Хейли Фицджеральд",
+            "Justice"
+        ],
+        "rating": 7.9,
+        "poster_path": "covers/movie_1339713.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Tea Shop Productions",
+            "Under the Shell"
+        ]
+    },
+    {
+        "id": "60308",
+        "type": "movie",
+        "title": "Человек, который изменил всё",
+        "original_title": "Moneyball",
+        "year": "2011",
+        "genres": [
+            "драма"
+        ],
+        "director": "Беннетт Миллер",
+        "cast": [
+            "Брэд Питт",
+            "Джона Хилл",
+            "Филип Сеймур Хоффман",
+            "Гленн Моршауэр",
+            "Крис Прэтт",
+            "Робин Райт",
+            "Reed Diamond",
+            "Nick Searcy",
+            "Jack McGee",
+            "Стефен Бишоп"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_60308.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Scott Rudin Productions",
+            "Michael De Luca Productions"
+        ]
+    },
+    {
+        "id": "840705",
+        "type": "movie",
+        "title": "Подай знак",
+        "original_title": "Blink Twice",
+        "year": "2024",
+        "genres": [
+            "детектив",
+            "триллер"
+        ],
+        "director": "Зои Кравиц",
+        "cast": [
+            "Наоми Экки",
+            "Ченнинг Татум",
+            "Алиа Шокат",
+            "Джина Дэвис",
+            "Кристиан Слейтер",
+            "Адрия Архона",
+            "Хейли Джоэл Осмент",
+            "Кайл МакЛахлен",
+            "Саймон Рекс",
+            "Левон Хоук"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_840705.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Free Association",
+            "This Is Important"
         ]
     }
 ]
