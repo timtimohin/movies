@@ -32092,35 +32092,6 @@
         ]
     },
     {
-        "id": 870518,
-        "type": "movie",
-        "title": "Стоп-слово",
-        "original_title": "Sanctuary",
-        "year": "2023",
-        "genres": [
-            "драма",
-            "триллер"
-        ],
-        "director": "Zachary Wigon",
-        "cast": [
-            "Маргарет Куолли",
-            "Кристофер Эбботт",
-            "Danita Battle",
-            "Dominick Defilips",
-            "Christian Casatelli",
-            "Rene Calvo"
-        ],
-        "rating": 6.1,
-        "poster_path": "covers/movie_870518.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Rumble Films",
-            "Charades"
-        ]
-    },
-    {
         "id": 270303,
         "type": "movie",
         "title": "Оно приходит за тобой",
@@ -35137,41 +35108,6 @@
         "seasons": 1
     },
     {
-        "id": "90260",
-        "type": "tv",
-        "title": "Меня это не устраивает!",
-        "original_title": "I Am Not Okay with This",
-        "year": "2020",
-        "genres": [
-            "драма",
-            "комедия",
-            "НФ и Фэнтези"
-        ],
-        "director": "Кристи Холл",
-        "cast": [
-            "София Лиллис",
-            "Уайатт Олефф",
-            "Sofia Bryant",
-            "Кэтлин Роуз Перкинс",
-            "최다니엘",
-            "Gregg Daniel",
-            "София Татум",
-            "David Theune",
-            "Shay Guthrie",
-            "Jackson Frazer"
-        ],
-        "rating": 8.0,
-        "poster_path": "covers/tv_90260.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "21 Laps Entertainment",
-            "Raindrop Valley"
-        ],
-        "seasons": 1
-    },
-    {
         "id": "33016",
         "type": "movie",
         "title": "Смертельное благословение",
@@ -35269,40 +35205,6 @@
         "studios": [
             "Largo Entertainment",
             "The Turman-Foster Company"
-        ]
-    },
-    {
-        "id": "2047",
-        "type": "movie",
-        "title": "Настоящая Маккой",
-        "original_title": "The Real McCoy",
-        "year": "1993",
-        "genres": [
-            "боевик",
-            "криминал",
-            "драма",
-            "триллер"
-        ],
-        "director": "Рассел Малкэхи",
-        "cast": [
-            "Ким Бейсингер",
-            "Вэл Килмер",
-            "Теренс Стэмп",
-            "Nick Searcy",
-            "Афемо Омилами",
-            "Gailard Sartain",
-            "Марк Маколей",
-            "Raynor Scheine",
-            "Энди Шталь",
-            "Дэвид Дуайер"
-        ],
-        "rating": 5.7,
-        "poster_path": "covers/movie_2047.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Universal Pictures"
         ]
     },
     {
@@ -35536,6 +35438,40 @@
         "studios": [
             "Free Association",
             "This Is Important"
+        ]
+    },
+    {
+        "id": "269149",
+        "type": "movie",
+        "title": "Зверополис",
+        "original_title": "Zootopia",
+        "year": "2016",
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "комедия"
+        ],
+        "director": "Байрон Ховард",
+        "cast": [
+            "Джиннифер Гудвин",
+            "Джейсон Бейтман",
+            "Идрис Эльба",
+            "Джей Кей Симмонс",
+            "Алан Тьюдик",
+            "Октавия Спенсер",
+            "Джон Ди Маджо",
+            "Дженни Слейт",
+            "Бонни Хант",
+            "Томми Чонг"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_269149.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Зверополис (Коллекция)",
+        "studios": [
+            "Walt Disney Animation Studios"
         ]
     }
 ]
