@@ -35473,5 +35473,107 @@
         "studios": [
             "Walt Disney Animation Studios"
         ]
+    },
+    {
+        "id": "1390300",
+        "type": "movie",
+        "title": "Опасные отношения",
+        "original_title": "Over Your Dead Body",
+        "year": "2026",
+        "genres": [
+            "боевик",
+            "комедия",
+            "триллер"
+        ],
+        "director": "Йорма Такконе",
+        "cast": [
+            "Самара Уивинг",
+            "Джейсон Сигел",
+            "Пол Гилфойл",
+            "Тимоти Олифант",
+            "Аль Пачино",
+            "Кумэйл Нанджиани",
+            "Джульетт Льюис",
+            "Кейси Уилсон",
+            "Кит Джардин",
+            "Джейк Карран"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_1390300.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "87North Productions",
+            "XYZ Films"
+        ]
+    },
+    {
+        "id": "1301421",
+        "type": "movie",
+        "title": "Следствие ведут овечки",
+        "original_title": "The Sheep Detectives",
+        "year": "2026",
+        "genres": [
+            "комедия",
+            "семейный",
+            "детектив"
+        ],
+        "director": "Кайл Балда",
+        "cast": [
+            "Хью Джекман",
+            "Джулия Луи-Дрейфус",
+            "Эмма Томпсон",
+            "Николас Галицин",
+            "Бретт Голдстин",
+            "Реджина Холл",
+            "Брайан Крэнстон",
+            "Крис О’Дауд",
+            "Патрик Стюарт",
+            "Белла Рамзи"
+        ],
+        "rating": 7.7,
+        "poster_path": "covers/movie_1301421.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Working Title Films",
+            "Lord Miller"
+        ]
+    },
+    {
+        "id": "1083381",
+        "type": "movie",
+        "title": "Закулисье реальности",
+        "original_title": "Backrooms",
+        "year": "2026",
+        "genres": [
+            "ужасы",
+            "детектив",
+            "фантастика"
+        ],
+        "director": "Кейн Парсонс",
+        "cast": [
+            "Чиветел Эджиофор",
+            "Ренате Реинсве",
+            "Марк Дюпласс",
+            "Роберт Боброцкий",
+            "Финн Беннетт",
+            "Лукита Максуэлл",
+            "Филип Грэйнджер",
+            "Эван Джогиа",
+            "Кэтрин Изабель",
+            "Патрик Бейнхэм"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_1083381.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Backrooms Collection",
+        "studios": [
+            "Atomic Monster",
+            "21 Laps Entertainment"
+        ]
     }
 ]
