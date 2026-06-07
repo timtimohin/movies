@@ -36239,5 +36239,73 @@
             "Mikona Productions",
             "Universal Pictures"
         ]
+    },
+    {
+        "id": "9880",
+        "type": "movie",
+        "title": "Как стать принцессой",
+        "original_title": "The Princess Diaries",
+        "year": "2001",
+        "genres": [
+            "комедия",
+            "семейный",
+            "мелодрама"
+        ],
+        "director": "Garry Marshall",
+        "cast": [
+            "Энн Хэтэуэй",
+            "Джули Эндрюс",
+            "Хизер Матараццо",
+            "Сандра О",
+            "Mandy Moore",
+            "Гектор Элизондо",
+            "Кэролайн Гудолл",
+            "Todd Lowe",
+            "Patrick John Flueger",
+            "Шон О'Брайан"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_9880.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Дневники принцессы (Коллекция)",
+        "studios": [
+            "Bottom of the Ninth Productions",
+            "Walt Disney Pictures"
+        ]
+    },
+    {
+        "id": "3597",
+        "type": "movie",
+        "title": "Я знаю, что вы сделали прошлым летом",
+        "original_title": "I Know What You Did Last Summer",
+        "year": "1997",
+        "genres": [
+            "ужасы",
+            "триллер",
+            "детектив"
+        ],
+        "director": "Jim Gillespie",
+        "cast": [
+            "Дженнифер Лав Хьюитт",
+            "Фредди Принц мл.",
+            "Сара Мишель Геллар",
+            "Энн Хеч",
+            "Бриджетт Уилсон",
+            "Райан Филлипп",
+            "Патти Д’Арбанвиль",
+            "Rasool J'Han",
+            "Джонни Галэки",
+            "Мьюз Уотсон"
+        ],
+        "rating": 6.0,
+        "poster_path": "covers/movie_3597.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Я знаю, что вы сделали прошлым летом (Коллекция)",
+        "studios": [
+            "Mandalay Entertainment",
+            "Neal H. Moritz Productions"
+        ]
     }
 ]
