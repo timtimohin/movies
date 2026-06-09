@@ -35051,7 +35051,7 @@
         "rating": 7.7,
         "poster_path": "covers/movie_1266127.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "Я иду искать (Коллекция)",
         "studios": [
             "Searchlight Pictures",
@@ -35702,39 +35702,6 @@
         "seasons": 5
     },
     {
-        "id": "9022",
-        "type": "movie",
-        "title": "Все парни любят Мэнди Лейн",
-        "original_title": "All the Boys Love Mandy Lane",
-        "year": "2006",
-        "genres": [
-            "ужасы",
-            "детектив",
-            "триллер"
-        ],
-        "director": "Jonathan Levine",
-        "cast": [
-            "Эмбер Хёрд",
-            "Майкл Уэлш",
-            "Уитни Эйбл",
-            "Люк Граймс",
-            "Енсон Маунт",
-            "Эдвин Ходж",
-            "Брук Блум",
-            "Аарон Химельштейн",
-            "Robert Earl Keen",
-            "Melissa Price"
-        ],
-        "rating": 5.6,
-        "poster_path": "covers/movie_9022.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Occupant Films"
-        ]
-    },
-    {
         "id": "70453",
         "type": "tv",
         "title": "Острые предметы",
@@ -35867,38 +35834,6 @@
         "studios": [
             "Largo Entertainment",
             "The Turman-Foster Company"
-        ]
-    },
-    {
-        "id": "985939",
-        "type": "movie",
-        "title": "Вышка",
-        "original_title": "Fall",
-        "year": "2022",
-        "genres": [
-            "триллер"
-        ],
-        "director": "Скотт Манн",
-        "cast": [
-            "Грейс Кэролайн Кёрри",
-            "Вирджиния Гарднер",
-            "Джеффри Дин Морган",
-            "Мэйсон Гудинг",
-            "Джаспер Коул",
-            "Даррел Деннис",
-            "Бамм Эриксен",
-            "Джулия Пейс-Митчелл",
-            "Эви Манн",
-            "Джозеф Манн"
-        ],
-        "rating": 7.1,
-        "poster_path": "covers/movie_985939.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Вышка (Коллекция)",
-        "studios": [
-            "Tea Shop Productions",
-            "Capstone Pictures"
         ]
     },
     {
@@ -36306,6 +36241,281 @@
         "studios": [
             "Mandalay Entertainment",
             "Neal H. Moritz Productions"
+        ]
+    },
+    {
+        "id": "18347",
+        "type": "tv",
+        "title": "Сообщество",
+        "original_title": "Community",
+        "year": "2009",
+        "genres": [
+            "комедия"
+        ],
+        "director": "Дэн Хармон",
+        "cast": [
+            "Джоэл Макхейл",
+            "Гиллиан Джейкобс",
+            "Элисон Бри",
+            "Кит Дэвид",
+            "Джонатан Бэнкс",
+            "Чеви Чейз",
+            "Джим Рэш",
+            "Кен Джонг",
+            "Джон Оливер",
+            "Иветт Николь Браун"
+        ],
+        "rating": 8.0,
+        "poster_path": "covers/tv_18347.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Krasnoff / Foster Entertainment",
+            "Universal Media Studios"
+        ],
+        "seasons": 6
+    },
+    {
+        "id": "76148",
+        "type": "tv",
+        "title": "Девчонки из Дерри",
+        "original_title": "Derry Girls",
+        "year": "2018",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Lisa McGee",
+        "cast": [
+            "Сирша-Моника Джексон",
+            "Louisa Harland",
+            "Никола Кохлан",
+            "Иэн МакЭлхинни",
+            "Jamie Lee O'Donnell",
+            "Leah O'Rourke",
+            "Jamie Beamish",
+            "Phillipa Dunne",
+            "Питер Кэмпион",
+            "Dylan Llewellyn"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/tv_76148.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Hat Trick Productions"
+        ],
+        "seasons": 3
+    },
+    {
+        "id": "8592",
+        "type": "tv",
+        "title": "Парки и зоны отдыха",
+        "original_title": "Parks and Recreation",
+        "year": "2009",
+        "genres": [
+            "комедия"
+        ],
+        "director": "Майкл Шур",
+        "cast": [
+            "Эми Полер",
+            "Азиз Ансари",
+            "Ник Офферман",
+            "Крис Прэтт",
+            "Обри Плаза",
+            "Рашида Джонс",
+            "Адам Скотт",
+            "Бен Шварц",
+            "Роб Лоу",
+            "Натали Моралес"
+        ],
+        "rating": 8.0,
+        "poster_path": "covers/tv_8592.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Universal Television",
+            "Deedle-Dee Productions"
+        ],
+        "seasons": 7
+    },
+    {
+        "id": "14239",
+        "type": "movie",
+        "title": "Параллельный Мир",
+        "original_title": "Cool World",
+        "year": "1992",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фэнтези"
+        ],
+        "director": "Ralph Bakshi",
+        "cast": [
+            "Ким Бейсингер",
+            "Гэбриэл Бирн",
+            "Брэд Питт",
+            "Paul Ben-Victor",
+            "Дирдри О'Коннелл",
+            "Морис Ламарш",
+            "Janni Brenn",
+            "Чарли Адлер",
+            "Кэнди Майло",
+            "Грег Коллинз"
+        ],
+        "rating": 5.7,
+        "poster_path": "covers/movie_14239.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Paramount Pictures",
+            "Bakshi Animation"
+        ]
+    },
+    {
+        "id": "11497",
+        "type": "movie",
+        "title": "Все псы попадают в рай",
+        "original_title": "All Dogs Go to Heaven",
+        "year": "1989",
+        "genres": [
+            "драма",
+            "мультфильм",
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "director": "Don Bluth",
+        "cast": [
+            "Берт Рейнолдс",
+            "Dom DeLuise",
+            "Джудит Барси",
+            "Чарльз Нельсон Рейли",
+            "Джек Эйнджел",
+            "Лони Андерсон",
+            "Нэнси Картрайт",
+            "David N. Weiss",
+            "Vic Tayback",
+            "Ken Page"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_11497.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Все псы попадают в рай (Коллекция)",
+        "studios": [
+            "Goldcrest",
+            "Don Bluth Entertainment"
+        ]
+    },
+    {
+        "id": "12144",
+        "type": "movie",
+        "title": "Земля до начала времен",
+        "original_title": "The Land Before Time",
+        "year": "1988",
+        "genres": [
+            "семейный",
+            "мультфильм",
+            "приключения"
+        ],
+        "director": "Don Bluth",
+        "cast": [
+            "Gabriel Damon",
+            "Candace Hutson",
+            "Will Ryan",
+            "Фрэнк Уэлкер",
+            "Джудит Барси",
+            "Хелен Шейвер",
+            "Пэт Хингл",
+            "Bill Erwin",
+            "Burke Byrnes"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_12144.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Земля до начала времен (Коллекция)",
+        "studios": [
+            "Universal Pictures",
+            "Amblin Entertainment"
+        ]
+    },
+    {
+        "id": "9444",
+        "type": "movie",
+        "title": "Анастасия",
+        "original_title": "Anastasia",
+        "year": "1997",
+        "genres": [
+            "мультфильм",
+            "семейный",
+            "фэнтези",
+            "приключения"
+        ],
+        "director": "Gary Goldman",
+        "cast": [
+            "Мег Райан",
+            "Джон Кьюсак",
+            "Келси Грэммер",
+            "Джей Кей Симмонс",
+            "Кирстен Данст",
+            "Кристофер Ллойд",
+            "Лейси Шабер",
+            "Анджела Лэнсбери",
+            "Хэнк Азариа",
+            "Bernadette Peters"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/movie_9444.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Анастасия (Коллекция)",
+        "studios": [
+            "Fox Animation Studios",
+            "20th Century Fox"
+        ]
+    },
+    {
+        "id": "11704",
+        "type": "movie",
+        "title": "Секрет Н.И.М.Х.",
+        "original_title": "The Secret of NIMH",
+        "year": "1982",
+        "genres": [
+            "приключения",
+            "мультфильм",
+            "драма",
+            "семейный",
+            "фэнтези",
+            "детектив",
+            "фантастика"
+        ],
+        "director": "Don Bluth",
+        "cast": [
+            "Elizabeth Hartman",
+            "Дерек Якоби",
+            "Arthur Malet",
+            "Шеннен Доэрти",
+            "Уил Уитон",
+            "Питер Штраусс",
+            "Джон Кэрредин",
+            "Dom DeLuise",
+            "Paul Shenar",
+            "Альдо Рэй"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/movie_11704.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Секрет Н.И.М.Х. (Коллекция)",
+        "studios": [
+            "United Artists",
+            "Aurora"
         ]
     }
 ]

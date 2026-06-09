@@ -923,3 +923,10 @@ To https://github.com/timtimohin/movies.git
  3 files changed, 2100 insertions(+), 1396 deletions(-)
 To https://github.com/timtimohin/movies.git
    0a89e36..41c6066  main -> main
+[main 81e330e] Обновление базы через бота
+ 6 files changed, 124 insertions(+), 2 deletions(-)
+ create mode 100644 covers/movie_1083433.jpg
+ create mode 100644 covers/movie_3597.jpg
+ create mode 100644 covers/movie_9880.jpg
+To https://github.com/timtimohin/movies.git
+   41c6066..81e330e  main -> main
