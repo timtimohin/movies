@@ -34182,7 +34182,7 @@
         "rating": 7.1,
         "poster_path": "covers/tv_93287.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Yes, Norman Productions",
@@ -35872,42 +35872,6 @@
         ]
     },
     {
-        "id": "268531",
-        "type": "movie",
-        "title": "Капитан Подштанник: Первый эпический фильм",
-        "original_title": "Captain Underpants: The First Epic Movie",
-        "year": "2017",
-        "genres": [
-            "семейный",
-            "комедия",
-            "мультфильм",
-            "фантастика",
-            "боевик"
-        ],
-        "director": "David Soren",
-        "cast": [
-            "Кевин Харт",
-            "Томас Миддлдитч",
-            "Эд Хелмс",
-            "Джордан Пил",
-            "Ник Кролл",
-            "Крис Миллер",
-            "Кристен Шаал",
-            "Шуга Лин Бирд",
-            "Лесли Дэвид Бейкер",
-            "Брайан Посен"
-        ],
-        "rating": 6.3,
-        "poster_path": "covers/movie_268531.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Captain Underpants Collection",
-        "studios": [
-            "DreamWorks Animation",
-            "Scholastic Entertainment"
-        ]
-    },
-    {
         "id": "1339713",
         "type": "movie",
         "title": "Обсессия",
@@ -36516,6 +36480,140 @@
         "studios": [
             "United Artists",
             "Aurora"
+        ]
+    },
+    {
+        "id": "15392",
+        "type": "movie",
+        "title": "Перекрёстки",
+        "original_title": "Crossroads",
+        "year": "1986",
+        "genres": [
+            "драма",
+            "музыка",
+            "мелодрама"
+        ],
+        "director": "Уолтер Хилл",
+        "cast": [
+            "Ральф Маччио",
+            "Joe Seneca",
+            "Джейми Герц",
+            "Гарри Кэри мл.",
+            "Джо Мортон",
+            "Tim Russ",
+            "Allan Graf",
+            "Dennis Lipscomb",
+            "J.W. Smith",
+            "Diana Bellamy"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_15392.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Columbia Pictures"
+        ]
+    },
+    {
+        "id": "913290",
+        "type": "movie",
+        "title": "Варвар",
+        "original_title": "Barbarian",
+        "year": "2022",
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "director": "Зак Креггер",
+        "cast": [
+            "Джорджина Кэмпбелл",
+            "Джастин Лонг",
+            "Билл Скарсгард",
+            "Ричард Брейк",
+            "Кейт Босуорт",
+            "Сара Пэкстон",
+            "Brooke Dillman",
+            "Зак Креггер",
+            "Matthew Patrick Davis",
+            "Kurt Braunohler"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_913290.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "BoulderLight Pictures",
+            "Vertigo Entertainment"
+        ]
+    },
+    {
+        "id": "1297842",
+        "type": "movie",
+        "title": "Goat: Мечтай по-крупному",
+        "original_title": "GOAT",
+        "year": "2026",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "director": "Тайри Диллихей",
+        "cast": [
+            "Калеб Маклафлин",
+            "Габриэль Юнион",
+            "Стефен Карри",
+            "Дэвид Харбор",
+            "Пэттон Освальд",
+            "Уэйн Найт",
+            "Ник Кролл",
+            "Эдуардо Франко",
+            "Никола Кохлан",
+            "Дженифер Льюис"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/movie_1297842.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Sony Pictures Animation",
+            "Unanimous Media"
+        ]
+    },
+    {
+        "id": "1115544",
+        "type": "movie",
+        "title": "Майк и Ник и Ник и Элис",
+        "original_title": "Mike & Nick & Nick & Alice",
+        "year": "2026",
+        "genres": [
+            "комедия",
+            "фантастика",
+            "криминал"
+        ],
+        "director": "БенДэвид Грабински",
+        "cast": [
+            "Джеймс Марсден",
+            "Винс Вон",
+            "Эйса Гонсалес",
+            "Дольф Лундгрен",
+            "Стивен Рут",
+            "Кит Дэвид",
+            "Льюис Тан",
+            "Бен Шварц",
+            "Артуро Кастро",
+            "Джимми Татро"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_1115544.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "20th Century Studios",
+            "Mad Chance"
         ]
     }
 ]
