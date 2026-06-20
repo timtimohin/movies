@@ -32850,40 +32850,6 @@
         ]
     },
     {
-        "id": 1226578,
-        "type": "movie",
-        "title": "Собиратель душ",
-        "original_title": "Longlegs",
-        "year": "2024",
-        "genres": [
-            "криминал",
-            "ужасы",
-            "детектив"
-        ],
-        "director": "Оз Перкинс",
-        "cast": [
-            "Майка Монро",
-            "Николас Кейдж",
-            "Blair Underwood",
-            "Кирнан Шипка",
-            "Алисия Уитт",
-            "Мишель Чхве-Ли",
-            "Джейсон Дэй",
-            "Carmel Amit",
-            "Питер Брайант",
-            "Дэниэл Бэйкон"
-        ],
-        "rating": 6.5,
-        "poster_path": "covers/movie_1226578.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Longlegs Collection",
-        "studios": [
-            "C2 Motion Picture Group",
-            "Saturn Films"
-        ]
-    },
-    {
         "id": 11087,
         "type": "movie",
         "title": "Рука, качающая колыбель",
@@ -33653,41 +33619,6 @@
         "studios": [
             "Paramount Pictures",
             "DreamWorks Pictures"
-        ]
-    },
-    {
-        "id": 980431,
-        "type": "movie",
-        "title": "Легенда об Аанге: Последний маг воздуха",
-        "original_title": "Avatar Aang: The Last Airbender",
-        "year": "2026",
-        "genres": [
-            "боевик",
-            "приключения",
-            "мультфильм",
-            "фэнтези"
-        ],
-        "director": "Лорен Монтгомери",
-        "cast": [
-            "Эрик Нам",
-            "Дейв Батиста",
-            "Джессика Маттен",
-            "Тайка Вайтити",
-            "Ди Брэдли Бейкер",
-            "Ке Хюи Куан",
-            "Стивен Ян",
-            "Ронни Чин",
-            "Кен Джонг",
-            "Джеральдин Вишванатан"
-        ],
-        "rating": 0.0,
-        "poster_path": "covers/movie_980431.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Avatar: The Last Airbender - Collection",
-        "studios": [
-            "Nickelodeon Movies",
-            "Paramount Pictures"
         ]
     },
     {
@@ -36516,39 +36447,6 @@
         ]
     },
     {
-        "id": "913290",
-        "type": "movie",
-        "title": "Варвар",
-        "original_title": "Barbarian",
-        "year": "2022",
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "director": "Зак Креггер",
-        "cast": [
-            "Джорджина Кэмпбелл",
-            "Джастин Лонг",
-            "Билл Скарсгард",
-            "Ричард Брейк",
-            "Кейт Босуорт",
-            "Сара Пэкстон",
-            "Brooke Dillman",
-            "Зак Креггер",
-            "Matthew Patrick Davis",
-            "Kurt Braunohler"
-        ],
-        "rating": 6.9,
-        "poster_path": "covers/movie_913290.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "BoulderLight Pictures",
-            "Vertigo Entertainment"
-        ]
-    },
-    {
         "id": "1297842",
         "type": "movie",
         "title": "Goat: Мечтай по-крупному",
@@ -36615,5 +36513,139 @@
             "20th Century Studios",
             "Mad Chance"
         ]
+    },
+    {
+        "id": "306947",
+        "type": "movie",
+        "title": "Приглашение",
+        "original_title": "The Invitation",
+        "year": "2016",
+        "genres": [
+            "триллер",
+            "ужасы"
+        ],
+        "director": "Карин Кусама",
+        "cast": [
+            "Логан Маршалл-Грин",
+            "Tammy Blanchard",
+            "Emayatzy Corinealdi",
+            "Михил Хёйсман",
+            "Джон Кэрролл Линч",
+            "Тоби Хасс",
+            "Mike Doyle",
+            "Michelle Krusiec",
+            "Марайа Делфино",
+            "Lindsay Burdge"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_306947.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "XYZ Films",
+            "Gamechanger Films"
+        ]
+    },
+    {
+        "id": "549509",
+        "type": "movie",
+        "title": "Бруталист",
+        "original_title": "The Brutalist",
+        "year": "2024",
+        "genres": [
+            "драма"
+        ],
+        "director": "Брэди Корбет",
+        "cast": [
+            "Эдриен Броуди",
+            "Фелисити Джонс",
+            "Гай Пирс",
+            "Стейси Мартин",
+            "Алессандро Нивола",
+            "Рэффи Кэссиди",
+            "Джо Элвин",
+            "Джонатан Хайд",
+            "Эмма Лейрд",
+            "Исаак де Банколе"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_549509.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Brookstreet Pictures",
+            "Kaplan Morrison"
+        ]
+    },
+    {
+        "id": "38",
+        "type": "movie",
+        "title": "Вечное сияние чистого разума",
+        "original_title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "genres": [
+            "фантастика",
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Michel Gondry",
+        "cast": [
+            "Джим Керри",
+            "Кейт Уинслет",
+            "Кирстен Данст",
+            "Марк Руффало",
+            "Элайджа Вуд",
+            "Дэвид Кросс",
+            "Jane Adams",
+            "Том Уилкинсон",
+            "Дирдри О'Коннелл",
+            "Josh Flitter"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/movie_38.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Focus Features",
+            "Anonymous Content"
+        ]
+    },
+    {
+        "id": "270476",
+        "type": "tv",
+        "title": "Уидоус-Бэй",
+        "original_title": "Widow's Bay",
+        "year": "2026",
+        "genres": [
+            "драма",
+            "детектив",
+            "комедия"
+        ],
+        "director": "Кэти Дипполд",
+        "cast": [
+            "Мэттью Риз",
+            "Кейт О’Флинн",
+            "Кевин Кэрролл",
+            "Кингстон Руми Сауфвик",
+            "Бетти Гилпин",
+            "Стивен Рут",
+            "Хэмиш Линклейтер",
+            "Дейл Дикки",
+            "Кей Кэллан",
+            "Кристиан Клименсон"
+        ],
+        "rating": 8.2,
+        "poster_path": "covers/tv_270476.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Apple Studios",
+            "Chum Films"
+        ],
+        "seasons": 2
     }
 ]
