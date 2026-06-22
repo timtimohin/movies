@@ -32387,39 +32387,6 @@
         ]
     },
     {
-        "id": 398818,
-        "type": "movie",
-        "title": "Назови меня своим именем",
-        "original_title": "Call Me by Your Name",
-        "year": "2017",
-        "genres": [
-            "мелодрама",
-            "драма"
-        ],
-        "director": "Лука Гуаданьино",
-        "cast": [
-            "Арми Хаммер",
-            "Тимоти Шаламе",
-            "Майкл Стулбарг",
-            "Амира Казар",
-            "Peter Spears",
-            "Эстер Гаррель",
-            "Виктуар Дю Буа",
-            "Ванда Каприоло",
-            "Елена Буччи",
-            "Антонио Римольди"
-        ],
-        "rating": 8.1,
-        "poster_path": "covers/movie_398818.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "La Cinéfacture",
-            "Frenesy Film"
-        ]
-    },
-    {
         "id": 258480,
         "type": "movie",
         "title": "Кэрол",
@@ -36647,5 +36614,71 @@
             "Chum Films"
         ],
         "seasons": 2
+    },
+    {
+        "id": "279",
+        "type": "movie",
+        "title": "Амадей",
+        "original_title": "Amadeus",
+        "year": "1984",
+        "genres": [
+            "драма",
+            "история",
+            "музыка"
+        ],
+        "director": "Милош Форман",
+        "cast": [
+            "Ф. Мюррей Абрахам",
+            "Том Халс",
+            "Elizabeth Berridge",
+            "Simon Callow",
+            "Винсент Скьявелли",
+            "Джеффри Джонс",
+            "Синтия Никсон",
+            "Charles Kay",
+            "Рой Дотрис",
+            "Кристин Эберсоул"
+        ],
+        "rating": 8.0,
+        "poster_path": "covers/movie_279.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "The Saul Zaentz Company"
+        ]
+    },
+    {
+        "id": "273240",
+        "type": "tv",
+        "title": "Вне кампуса",
+        "original_title": "Off Campus",
+        "year": "2026",
+        "genres": [
+            "драма"
+        ],
+        "director": "Gina Fattore",
+        "cast": [
+            "Элла Брайт",
+            "Белмонт Камели",
+            "Мика Абдалла",
+            "Стивен Калин",
+            "Стив Хоуи",
+            "Антонио Сиприано",
+            "Райли Дэвис",
+            "Чарли Эванс",
+            "Джейлен Томас Брукс",
+            "Джош Хюстон"
+        ],
+        "rating": 8.9,
+        "poster_path": "covers/tv_273240.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Amazon MGM Studios",
+            "Temple Hill Entertainment"
+        ],
+        "seasons": 1
     }
 ]
