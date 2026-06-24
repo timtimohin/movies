@@ -31738,7 +31738,7 @@
         "rating": 8.3,
         "poster_path": "covers/tv_1063.jpg",
         "original_language": "ja",
-        "status": "planned",
+        "status": "favorite",
         "seasons": 1,
         "collection": "",
         "studios": [
@@ -32151,39 +32151,6 @@
         ]
     },
     {
-        "id": 24736,
-        "type": "movie",
-        "title": "В плену песков",
-        "original_title": "A Far Off Place",
-        "year": "1993",
-        "genres": [
-            "приключения",
-            "драма"
-        ],
-        "director": "Mikael Salomon",
-        "cast": [
-            "Риз Уизерспун",
-            "Итан Эмбри",
-            "Джек Томпсон",
-            "Роберт Джон Бёрк",
-            "Максимилиан Шелл",
-            "Патриша Кэлембер",
-            "Дэниэл Джерролл",
-            "Майлз Андерсон",
-            "Sebastian Klein",
-            "Andrew Whaley"
-        ],
-        "rating": 6.2,
-        "poster_path": "covers/movie_24736.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Walt Disney Pictures",
-            "Amblin Entertainment"
-        ]
-    },
-    {
         "id": 1592,
         "type": "movie",
         "title": "Первобытный страх",
@@ -32417,39 +32384,6 @@
         "studios": [
             "Killer Films",
             "Number 9 Films"
-        ]
-    },
-    {
-        "id": 3090,
-        "type": "movie",
-        "title": "Сокровища Сьерра Мадре",
-        "original_title": "The Treasure of the Sierra Madre",
-        "year": "1948",
-        "genres": [
-            "приключения",
-            "драма",
-            "вестерн"
-        ],
-        "director": "Джон Хьюстон",
-        "cast": [
-            "Хамфри Богарт",
-            "Уолтер Хьюстон",
-            "Тим Холт",
-            "Pat Flaherty",
-            "Arturo Soto Rangel",
-            "Джон Хьюстон",
-            "Бартон МакЛэйн",
-            "Роберт Блейк",
-            "Bruce Bennett",
-            "Harry J. Vejar"
-        ],
-        "rating": 8.0,
-        "poster_path": "covers/movie_3090.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Warner Bros. Pictures"
         ]
     },
     {
@@ -36680,5 +36614,40 @@
             "Temple Hill Entertainment"
         ],
         "seasons": 1
+    },
+    {
+        "id": "13225",
+        "type": "movie",
+        "title": "Долина папоротников: Последний тропический лес",
+        "original_title": "FernGully: The Last Rainforest",
+        "year": "1992",
+        "genres": [
+            "семейный",
+            "фэнтези",
+            "мультфильм",
+            "приключения"
+        ],
+        "director": "Bill Kroyer",
+        "cast": [
+            "Саманта Матис",
+            "Jonathan Ward",
+            "Кристиан Слейтер",
+            "Робин Уильямс",
+            "Тим Карри",
+            "Памела Эдлон",
+            "Чич Марин",
+            "Кэтлин Фримен",
+            "Гарри Ширер",
+            "Грейс Забриски"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_13225.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "Долина папоротников (Коллекция)",
+        "studios": [
+            "Kroyer Films",
+            "Youngheart Productions"
+        ]
     }
 ]

@@ -1126,3 +1126,9 @@ telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsucc
  create mode 100644 covers/tv_270476.jpg
 To https://github.com/timtimohin/movies.git
    7cb0753..82d3b37  main -> main
+[main f7bd842] Обновление базы через бота
+ 5 files changed, 126 insertions(+), 60 deletions(-)
+ create mode 100644 covers/movie_279.jpg
+ create mode 100644 covers/tv_273240.jpg
+To https://github.com/timtimohin/movies.git
+   82d3b37..f7bd842  main -> main
