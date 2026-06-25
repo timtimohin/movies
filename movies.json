@@ -36481,40 +36481,6 @@
         ]
     },
     {
-        "id": "38",
-        "type": "movie",
-        "title": "Вечное сияние чистого разума",
-        "original_title": "Eternal Sunshine of the Spotless Mind",
-        "year": "2004",
-        "genres": [
-            "фантастика",
-            "драма",
-            "мелодрама"
-        ],
-        "director": "Michel Gondry",
-        "cast": [
-            "Джим Керри",
-            "Кейт Уинслет",
-            "Кирстен Данст",
-            "Марк Руффало",
-            "Элайджа Вуд",
-            "Дэвид Кросс",
-            "Jane Adams",
-            "Том Уилкинсон",
-            "Дирдри О'Коннелл",
-            "Josh Flitter"
-        ],
-        "rating": 8.1,
-        "poster_path": "covers/movie_38.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Focus Features",
-            "Anonymous Content"
-        ]
-    },
-    {
         "id": "270476",
         "type": "tv",
         "title": "Уидоус-Бэй",
@@ -36565,10 +36531,10 @@
             "Ф. Мюррей Абрахам",
             "Том Халс",
             "Elizabeth Berridge",
-            "Simon Callow",
+            "Синтия Никсон",
             "Винсент Скьявелли",
             "Джеффри Джонс",
-            "Синтия Никсон",
+            "Simon Callow",
             "Charles Kay",
             "Рой Дотрис",
             "Кристин Эберсоул"
@@ -36648,6 +36614,176 @@
         "studios": [
             "Kroyer Films",
             "Youngheart Productions"
+        ]
+    },
+    {
+        "id": "11286",
+        "type": "movie",
+        "title": "Гонки «Пушечное ядро»",
+        "original_title": "The Cannonball Run",
+        "year": "1981",
+        "genres": [
+            "боевик",
+            "комедия",
+            "семейный"
+        ],
+        "director": "Hal Needham",
+        "cast": [
+            "Берт Рейнолдс",
+            "Роджер Мур",
+            "Фарра Фосетт",
+            "Джеки Чан",
+            "Эдриенн Барбо",
+            "Jack Elam",
+            "Rick Aviles",
+            "Dom DeLuise",
+            "許冠文",
+            "Dean Martin"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_11286.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Гонки «Пушечное ядро» (Коллекция)",
+        "studios": [
+            "Orange Sky Golden Harvest",
+            "Albert S. Ruddy Productions"
+        ]
+    },
+    {
+        "id": "24010",
+        "type": "movie",
+        "title": "Автобусная остановка",
+        "original_title": "Bus Stop",
+        "year": "1956",
+        "genres": [
+            "комедия",
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Joshua Logan",
+        "cast": [
+            "Мэрилин Монро",
+            "Don Murray",
+            "Артур О’Коннелл",
+            "Hope Lange",
+            "Eileen Heckart",
+            "Hans Conried",
+            "Robert Bray",
+            "Max Showalter",
+            "Betty Field",
+            "Del Moore"
+        ],
+        "rating": 6.1,
+        "poster_path": "covers/movie_24010.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Marilyn Monroe Productions",
+            "20th Century Fox"
+        ]
+    },
+    {
+        "id": "941109",
+        "type": "movie",
+        "title": "Грязная игра",
+        "original_title": "Play Dirty",
+        "year": "2025",
+        "genres": [
+            "криминал",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "director": "Шейн Блэк",
+        "cast": [
+            "Марк Уолберг",
+            "Лакит Стэнфилд",
+            "Роза Салазар",
+            "Томас Джейн",
+            "Киган-Майкл Кей",
+            "Тони Шалуб",
+            "Гретчен Мол",
+            "Nat Wolff",
+            "Чаквуди Ивуджи",
+            "Хемки Мадера"
+        ],
+        "rating": 6.6,
+        "poster_path": "covers/movie_941109.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Team Downey",
+            "Amazon MGM Studios"
+        ]
+    },
+    {
+        "id": "13509",
+        "type": "movie",
+        "title": "Взвод чудовищ",
+        "original_title": "The Monster Squad",
+        "year": "1987",
+        "genres": [
+            "комедия",
+            "боевик",
+            "фэнтези"
+        ],
+        "director": "Фред Деккер",
+        "cast": [
+            "André Gower",
+            "Робби Кайджер",
+            "Стефен Махт",
+            "Джон Гриз",
+            "Tom Noonan",
+            "David Proval",
+            "Стэн Шоу",
+            "Mary Ellen Trainor",
+            "Jason Hervey",
+            "Michael Faustino"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_13509.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Keith Barish Productions",
+            "Taft Entertainment Pictures"
+        ]
+    },
+    {
+        "id": "1669",
+        "type": "movie",
+        "title": "Охота за «Красным Октябрем»",
+        "original_title": "The Hunt for Red October",
+        "year": "1990",
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "director": "Джон МакТирнан",
+        "cast": [
+            "Шон Коннери",
+            "Алек Болдуин",
+            "Скотт Гленн",
+            "Сэм Нилл",
+            "Тим Карри",
+            "Стеллан Скарсгард",
+            "Джеймс Эрл Джонс",
+            "Кортни Б. Вэнс",
+            "Джеффри Джонс",
+            "Дэниэл Дэвис"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_1669.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Джек Райан (Коллекция)",
+        "studios": [
+            "Paramount Pictures",
+            "Mace Neufeld/Jerry Sherlock Productions"
         ]
     }
 ]
