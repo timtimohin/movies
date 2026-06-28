@@ -35862,7 +35862,7 @@
         "rating": 7.6,
         "poster_path": "covers/movie_1301421.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Working Title Films",
@@ -36348,74 +36348,6 @@
         ]
     },
     {
-        "id": "1297842",
-        "type": "movie",
-        "title": "Goat: Мечтай по-крупному",
-        "original_title": "GOAT",
-        "year": "2026",
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "director": "Тайри Диллихей",
-        "cast": [
-            "Калеб Маклафлин",
-            "Габриэль Юнион",
-            "Стефен Карри",
-            "Дэвид Харбор",
-            "Пэттон Освальд",
-            "Уэйн Найт",
-            "Ник Кролл",
-            "Эдуардо Франко",
-            "Никола Кохлан",
-            "Дженифер Льюис"
-        ],
-        "rating": 8.1,
-        "poster_path": "covers/movie_1297842.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Sony Pictures Animation",
-            "Unanimous Media"
-        ]
-    },
-    {
-        "id": "1115544",
-        "type": "movie",
-        "title": "Майк и Ник и Ник и Элис",
-        "original_title": "Mike & Nick & Nick & Alice",
-        "year": "2026",
-        "genres": [
-            "комедия",
-            "фантастика",
-            "криминал"
-        ],
-        "director": "БенДэвид Грабински",
-        "cast": [
-            "Джеймс Марсден",
-            "Винс Вон",
-            "Эйса Гонсалес",
-            "Дольф Лундгрен",
-            "Стивен Рут",
-            "Кит Дэвид",
-            "Льюис Тан",
-            "Бен Шварц",
-            "Артуро Кастро",
-            "Джимми Татро"
-        ],
-        "rating": 6.7,
-        "poster_path": "covers/movie_1115544.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "20th Century Studios",
-            "Mad Chance"
-        ]
-    },
-    {
         "id": "306947",
         "type": "movie",
         "title": "Приглашение",
@@ -36651,40 +36583,6 @@
         ]
     },
     {
-        "id": "24010",
-        "type": "movie",
-        "title": "Автобусная остановка",
-        "original_title": "Bus Stop",
-        "year": "1956",
-        "genres": [
-            "комедия",
-            "драма",
-            "мелодрама"
-        ],
-        "director": "Joshua Logan",
-        "cast": [
-            "Мэрилин Монро",
-            "Don Murray",
-            "Артур О’Коннелл",
-            "Hope Lange",
-            "Eileen Heckart",
-            "Hans Conried",
-            "Robert Bray",
-            "Max Showalter",
-            "Betty Field",
-            "Del Moore"
-        ],
-        "rating": 6.1,
-        "poster_path": "covers/movie_24010.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Marilyn Monroe Productions",
-            "20th Century Fox"
-        ]
-    },
-    {
         "id": "941109",
         "type": "movie",
         "title": "Грязная игра",
@@ -36784,6 +36682,41 @@
         "studios": [
             "Paramount Pictures",
             "Mace Neufeld/Jerry Sherlock Productions"
+        ]
+    },
+    {
+        "id": "527774",
+        "type": "movie",
+        "title": "Райя и последний дракон",
+        "original_title": "Raya and the Last Dragon",
+        "year": "2021",
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "приключения",
+            "фэнтези",
+            "семейный"
+        ],
+        "director": "Carlos López Estrada",
+        "cast": [
+            "Келли Мэри Трэн",
+            "Аквафина",
+            "Джемма Чан",
+            "Алан Тьюдик",
+            "Дичен Лакмэн",
+            "Бенедикт Вонг",
+            "Сандра О",
+            "Дэниел Дэ Ким",
+            "Сон Кан",
+            "Росс Батлер"
+        ],
+        "rating": 7.8,
+        "poster_path": "covers/movie_527774.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Walt Disney Animation Studios"
         ]
     }
 ]
