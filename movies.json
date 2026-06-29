@@ -35794,7 +35794,7 @@
         "rating": 6.7,
         "poster_path": "covers/movie_840705.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Free Association",
@@ -35964,7 +35964,7 @@
         "rating": 7.4,
         "poster_path": "covers/movie_11615.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Mikona Productions",
@@ -36713,10 +36713,45 @@
         "rating": 7.8,
         "poster_path": "covers/movie_527774.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Walt Disney Animation Studios"
         ]
+    },
+    {
+        "id": "108545",
+        "type": "tv",
+        "title": "Задача трех тел",
+        "original_title": "3 Body Problem",
+        "year": "2024",
+        "genres": [
+            "НФ и Фэнтези",
+            "детектив",
+            "драма"
+        ],
+        "director": "Дэвид Бениофф",
+        "cast": [
+            "Джован Адепо",
+            "Розалинд Чао",
+            "Лиам Каннингем",
+            "Эйса Гонсалес",
+            "Бенедикт Вонг",
+            "Джонатан Прайс",
+            "Ведетт Лим",
+            "Эдриен Эдмондсон",
+            "Бен Шнетцер",
+            "Билал Хасна"
+        ],
+        "rating": 7.5,
+        "poster_path": "covers/tv_108545.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Plan B Entertainment",
+            "Primitive Streak"
+        ],
+        "seasons": 1
     }
 ]
