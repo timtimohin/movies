@@ -30643,40 +30643,6 @@
         ]
     },
     {
-        "id": 77174,
-        "type": "movie",
-        "title": "Паранорман, или Как приручить зомби",
-        "original_title": "ParaNorman",
-        "year": "2012",
-        "genres": [
-            "семейный",
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "director": "Сэм Фелл",
-        "cast": [
-            "Коди Смит-Макфи",
-            "Tucker Albrizzi",
-            "Анна Кендрик",
-            "Джон Гудман",
-            "Кристофер Минц-Плассе",
-            "Кейси Аффлек",
-            "Лесли Манн",
-            "Скотт Менвиль",
-            "Джоделль Ферланд",
-            "Бернард Хилл"
-        ],
-        "rating": 7.0,
-        "poster_path": "covers/movie_77174.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "LAIKA"
-        ]
-    },
-    {
         "id": 170687,
         "type": "movie",
         "title": "Семейка монстров",
@@ -31498,41 +31464,6 @@
         "studios": [
             "avex pictures",
             "BUG FILMS"
-        ]
-    },
-    {
-        "id": 207332,
-        "type": "tv",
-        "title": "Дни Сакамото",
-        "original_title": "SAKAMOTO DAYS",
-        "year": "2025",
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "Боевик и Приключения"
-        ],
-        "director": "Неизвестно",
-        "cast": [
-            "Томокадзу Сугита",
-            "Нобунага Симадзаки",
-            "Аянэ Сакура",
-            "Нао Тояма",
-            "Саори Хаями",
-            "Нацуки Ханаэ",
-            "Дайсукэ Намикава",
-            "Нобухико Окамото",
-            "Хотю Оцука",
-            "Тиаки Кобаяси"
-        ],
-        "rating": 8.1,
-        "poster_path": "covers/tv_207332.jpg",
-        "original_language": "ja",
-        "status": "planned",
-        "seasons": 1,
-        "collection": "",
-        "studios": [
-            "TMS Entertainment",
-            "Shueisha"
         ]
     },
     {
@@ -33279,41 +33210,6 @@
         "studios": [
             "Blumhouse Productions",
             "Blue-Tongue Films"
-        ]
-    },
-    {
-        "id": 456740,
-        "type": "movie",
-        "title": "Хеллбой",
-        "original_title": "Hellboy",
-        "year": "2019",
-        "genres": [
-            "фэнтези",
-            "ужасы",
-            "боевик",
-            "приключения"
-        ],
-        "director": "Нил Маршалл",
-        "cast": [
-            "Дэвид Харбор",
-            "Милла Йовович",
-            "Иэн МакШейн",
-            "Стивен Грэм",
-            "Дэниел Дэ Ким",
-            "Томас Хейден Чёрч",
-            "Марк Стэнли",
-            "Софи Оконедо",
-            "Алистер Петри",
-            "Марио де ла Роса"
-        ],
-        "rating": 5.6,
-        "poster_path": "covers/movie_456740.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Campbell Grobman Films",
-            "Dark Horse Entertainment"
         ]
     },
     {
@@ -35969,40 +35865,6 @@
         "studios": [
             "Mikona Productions",
             "Universal Pictures"
-        ]
-    },
-    {
-        "id": "9880",
-        "type": "movie",
-        "title": "Как стать принцессой",
-        "original_title": "The Princess Diaries",
-        "year": "2001",
-        "genres": [
-            "комедия",
-            "семейный",
-            "мелодрама"
-        ],
-        "director": "Garry Marshall",
-        "cast": [
-            "Энн Хэтэуэй",
-            "Джули Эндрюс",
-            "Хизер Матараццо",
-            "Сандра О",
-            "Mandy Moore",
-            "Гектор Элизондо",
-            "Кэролайн Гудолл",
-            "Todd Lowe",
-            "Patrick John Flueger",
-            "Шон О'Брайан"
-        ],
-        "rating": 7.0,
-        "poster_path": "covers/movie_9880.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Дневники принцессы (Коллекция)",
-        "studios": [
-            "Bottom of the Ninth Productions",
-            "Walt Disney Pictures"
         ]
     },
     {
