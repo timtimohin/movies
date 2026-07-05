@@ -31458,7 +31458,7 @@
         "rating": 9.3,
         "poster_path": "covers/tv_196950.jpg",
         "original_language": "ja",
-        "status": "planned",
+        "status": "favorite",
         "seasons": 1,
         "collection": "",
         "studios": [
@@ -34418,38 +34418,6 @@
         ]
     },
     {
-        "id": "235",
-        "type": "movie",
-        "title": "Останься со мной",
-        "original_title": "Stand by Me",
-        "year": "1986",
-        "genres": [
-            "криминал",
-            "драма"
-        ],
-        "director": "Роб Райнер",
-        "cast": [
-            "Уил Уитон",
-            "Ривер Феникс",
-            "Кори Фельдман",
-            "Кифер Сазерленд",
-            "Ричард Дрейфус",
-            "Джерри О'Коннелл",
-            "Джон Кьюсак",
-            "Кэйси Семашко",
-            "Marshall Bell",
-            "Брюс Кирби"
-        ],
-        "rating": 7.8,
-        "poster_path": "covers/movie_235.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Act III Productions"
-        ]
-    },
-    {
         "id": "11313",
         "type": "movie",
         "title": "Сердца в Атлантиде",
@@ -36613,6 +36581,39 @@
         "studios": [
             "Plan B Entertainment",
             "Primitive Streak"
+        ],
+        "seasons": 1
+    },
+    {
+        "id": "254953",
+        "type": "tv",
+        "title": "Рустер",
+        "original_title": "Rooster",
+        "year": "2026",
+        "genres": [
+            "комедия"
+        ],
+        "director": "Билл Лоуренс",
+        "cast": [
+            "Стив Карелл",
+            "Чарли Клайв",
+            "Даниэль Дедуайлер",
+            "Джон К. Макгинли",
+            "Скотт Макартур",
+            "Алан Рак",
+            "Фил Данстер",
+            "Мэдисон Ху",
+            "Максимо Салас",
+            "Рори Сковел"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/tv_254953.jpg",
+        "original_language": "en",
+        "status": "favorite",
+        "collection": "",
+        "studios": [
+            "Warner Bros. Television",
+            "Doozer"
         ],
         "seasons": 1
     }
