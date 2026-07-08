@@ -1164,3 +1164,134 @@ To https://github.com/timtimohin/movies.git
  3 files changed, 21 insertions(+), 17 deletions(-)
 To https://github.com/timtimohin/movies.git
    0a7405f..136b605  main -> main
+[main 2216f07] Обновление базы через бота
+ 4 files changed, 65 insertions(+), 60 deletions(-)
+ create mode 100644 covers/tv_254953.jpg
+To https://github.com/timtimohin/movies.git
+   136b605..2216f07  main -> main
+2026-07-06 01:10:51,606 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 429. Description: Too Many Requests: retry after 5"
+2026-07-06 01:10:51,776 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 429. Description: Too Many Requests: retry after 5
+"
+2026-07-06 01:10:52,157 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 429. Description: Too Many Requests: retry after 5"
+2026-07-06 01:10:52,157 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 429. Description: Too Many Requests: retry after 5
+"
+2026-07-06 01:10:52,778 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 429. Description: Too Many Requests: retry after 5"
+2026-07-06 01:10:52,779 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 429. Description: Too Many Requests: retry after 5
+"
+2026-07-06 01:10:56,354 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway"
+2026-07-06 01:10:56,354 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+"
+2026-07-06 01:10:58,482 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway"
+2026-07-06 01:10:58,483 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+"
+2026-07-06 01:11:02,606 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway"
+2026-07-06 01:11:02,606 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+"

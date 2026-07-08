@@ -33179,40 +33179,6 @@
         ]
     },
     {
-        "id": 328425,
-        "type": "movie",
-        "title": "Подарок",
-        "original_title": "The Gift",
-        "year": "2015",
-        "genres": [
-            "триллер",
-            "детектив",
-            "драма"
-        ],
-        "director": "Джоэл Эдгертон",
-        "cast": [
-            "Джоэл Эдгертон",
-            "Ребекка Холл",
-            "Джейсон Бейтман",
-            "Уэнделл Пирс",
-            "Пи Джей Бирн",
-            "Бо Напп",
-            "Дэвид Денман",
-            "Laura Drake Mancini",
-            "David Joseph Craig",
-            "Эллисон Толман"
-        ],
-        "rating": 6.7,
-        "poster_path": "covers/movie_328425.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Blumhouse Productions",
-            "Blue-Tongue Films"
-        ]
-    },
-    {
         "id": 6978,
         "type": "movie",
         "title": "Большой переполох в маленьком Китае",
@@ -36616,5 +36582,138 @@
             "Doozer"
         ],
         "seasons": 1
+    },
+    {
+        "id": "1340206",
+        "type": "movie",
+        "title": "Настройщик",
+        "original_title": "Tuner",
+        "year": "2026",
+        "genres": [
+            "криминал",
+            "драма",
+            "триллер"
+        ],
+        "director": "Daniel Roher",
+        "cast": [
+            "Лео Вудалл",
+            "Хавана Роуз Лью",
+            "Дастин Хоффман",
+            "Жан Рено",
+            "Чарли Ли",
+            "Това Фелдшух",
+            "Джонни Парк",
+            "Лиор Раз",
+            "Элли Джеймисон",
+            "Херби Хэнкок"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_1340206.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Black Bear Pictures",
+            "Elevation Pictures"
+        ]
+    },
+    {
+        "id": "118379",
+        "type": "movie",
+        "title": "色情男女",
+        "original_title": "色情男女",
+        "year": "1996",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "爾冬陞",
+        "cast": [
+            "張國榮",
+            "莫文蔚",
+            "Шу Ци",
+            "徐錦江",
+            "Энтони Вон",
+            "劉青雲",
+            "秦沛",
+            "谷德昭",
+            "張同祖",
+            "Ло Цзя Ин"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_118379.jpg",
+        "original_language": "cn",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Orange Sky Golden Harvest",
+            "Film Unlimited"
+        ]
+    },
+    {
+        "id": "9043",
+        "type": "movie",
+        "title": "Привет семье!",
+        "original_title": "The Family Stone",
+        "year": "2005",
+        "genres": [
+            "комедия",
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Томас Безуча",
+        "cast": [
+            "Дермот Малруни",
+            "Сара Джессика Паркер",
+            "Дайан Китон",
+            "Клэр Дэйнс",
+            "Рэйчел МакАдамс",
+            "Элизабет Ризер",
+            "Крэйг Т. Нельсон",
+            "Люк Уилсон",
+            "Brian J. White",
+            "Пол Шнайдер"
+        ],
+        "rating": 6.3,
+        "poster_path": "covers/movie_9043.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Fox 2000 Pictures",
+            "The Family Stone"
+        ]
+    },
+    {
+        "id": "40490",
+        "type": "movie",
+        "title": "Кто в доме хозяин",
+        "original_title": "Man of the House",
+        "year": "1995",
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "director": "James Orr",
+        "cast": [
+            "Jonathan Taylor Thomas",
+            "Чеви Чейз",
+            "Фарра Фосетт",
+            "Ричард Портноу",
+            "Райан О’Нил",
+            "Ron Canada",
+            "Art LaFleur",
+            "Джордж Уэндт",
+            "Шейн Майер",
+            "Peter Appel"
+        ],
+        "rating": 5.4,
+        "poster_path": "covers/movie_40490.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Walt Disney Pictures"
+        ]
     }
 ]
