@@ -30436,39 +30436,6 @@
         ]
     },
     {
-        "id": 79548,
-        "type": "movie",
-        "title": "Игра на выживание",
-        "original_title": "Gone",
-        "year": "2012",
-        "genres": [
-            "триллер",
-            "детектив"
-        ],
-        "director": "Эйтор Далия",
-        "cast": [
-            "Аманда Сайфред",
-            "Дэниэл Санжата",
-            "Себастиан Стэн",
-            "Уэс Бентли",
-            "Дженнифер Карпентер",
-            "Джоэл Дэвид Мур",
-            "Nick Searcy",
-            "Хантер Пэрриш",
-            "Майкл Паре",
-            "Эмили Уикершем"
-        ],
-        "rating": 6.2,
-        "poster_path": "covers/movie_79548.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Sidney Kimmel Entertainment",
-            "Summit Entertainment"
-        ]
-    },
-    {
         "id": 49730,
         "type": "movie",
         "title": "Красная шапочка",
@@ -36610,7 +36577,7 @@
         "rating": 7.2,
         "poster_path": "covers/movie_1340206.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Black Bear Pictures",
@@ -36710,10 +36677,43 @@
         "rating": 5.4,
         "poster_path": "covers/movie_40490.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Walt Disney Pictures"
+        ]
+    },
+    {
+        "id": "15227",
+        "type": "movie",
+        "title": "Галактический экспресс 999",
+        "original_title": "銀河鉄道999",
+        "year": "1979",
+        "genres": [
+            "приключения",
+            "мультфильм",
+            "фантастика"
+        ],
+        "director": "りんたろう",
+        "cast": [
+            "Масако Нодзава",
+            "Масако Икэда",
+            "Йоко Асагами",
+            "Бандзё Гинга",
+            "小原乃梨子",
+            "Хидэкацу Шибата",
+            "Тошико Фудзита",
+            "富山敬",
+            "Горо Ная",
+            "田島令子"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_15227.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "collection": "Галактический экспресс 999 (Коллекция)",
+        "studios": [
+            "Toei Animation"
         ]
     }
 ]
