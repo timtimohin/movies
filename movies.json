@@ -30644,42 +30644,6 @@
         ]
     },
     {
-        "id": 458253,
-        "type": "movie",
-        "title": "Потерянное звено",
-        "original_title": "Missing Link",
-        "year": "2019",
-        "genres": [
-            "семейный",
-            "мультфильм",
-            "комедия",
-            "приключения",
-            "боевик"
-        ],
-        "director": "Крис Батлер",
-        "cast": [
-            "Хью Джекман",
-            "Зои Салдана",
-            "Зак Галифианакис",
-            "Эмма Томпсон",
-            "Тимоти Олифант",
-            "Стивен Фрай",
-            "Адам Годли",
-            "Мэтт Лукас",
-            "Дэвид Уолльямс",
-            "Амрита Ачарья"
-        ],
-        "rating": 6.9,
-        "poster_path": "covers/movie_458253.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "LAIKA",
-            "Annapurna Pictures"
-        ]
-    },
-    {
         "id": 441130,
         "type": "movie",
         "title": "Легенда о волках",
@@ -34088,40 +34052,6 @@
         ]
     },
     {
-        "id": "766475",
-        "type": "movie",
-        "title": "Смотрите, как они бегут",
-        "original_title": "See How They Run",
-        "year": "2022",
-        "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
-        ],
-        "director": "Том Джордж",
-        "cast": [
-            "Сэм Рокуэлл",
-            "Сирша Ронан",
-            "Эдриен Броуди",
-            "Рис Шерсмит",
-            "Ширли Хендерсон",
-            "Гаррис Дикинсон",
-            "Дэвид Ойелоуо",
-            "Рут Уилсон",
-            "Джейкоб Форчун-Ллойд",
-            "Шан Клиффорд"
-        ],
-        "rating": 6.3,
-        "poster_path": "covers/movie_766475.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Searchlight Pictures",
-            "DJ Films"
-        ]
-    },
-    {
         "id": "313297",
         "type": "movie",
         "title": "Кубо. Легенда о самурае",
@@ -36714,6 +36644,40 @@
         "collection": "Галактический экспресс 999 (Коллекция)",
         "studios": [
             "Toei Animation"
+        ]
+    },
+    {
+        "id": "83899",
+        "type": "movie",
+        "title": "Тебе конец!",
+        "original_title": "You're Next",
+        "year": "2013",
+        "genres": [
+            "ужасы",
+            "триллер",
+            "детектив"
+        ],
+        "director": "Адам Вингард",
+        "cast": [
+            "Sharni Vinson",
+            "Nicholas Tucci",
+            "Wendy Glenn",
+            "Тай Уэст",
+            "Эми Сеймец",
+            "Барбара Крэмптон",
+            "Саймон Барретт",
+            "Rob Moran",
+            "Ларри Фессенден",
+            "Kate Lyn Sheil"
+        ],
+        "rating": 6.6,
+        "poster_path": "covers/movie_83899.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Snoot Entertainment",
+            "HanWay Films"
         ]
     }
 ]
