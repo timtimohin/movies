@@ -32174,7 +32174,7 @@
         "rating": 8.5,
         "poster_path": "covers/movie_429.jpg",
         "original_language": "it",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "United Artists",
@@ -32246,41 +32246,6 @@
         "studios": [
             "Killer Films",
             "Number 9 Films"
-        ]
-    },
-    {
-        "id": 146,
-        "type": "movie",
-        "title": "Крадущийся тигр, затаившийся дракон",
-        "original_title": "卧虎藏龍",
-        "year": "2000",
-        "genres": [
-            "приключения",
-            "драма",
-            "боевик",
-            "мелодрама"
-        ],
-        "director": "李安",
-        "cast": [
-            "Чоу Юнь-Фат",
-            "Мишель Йео",
-            "Чжан Цзыи",
-            "Чан Чэнь",
-            "鄭佩佩",
-            "郎雄",
-            "李黎",
-            "李法曾",
-            "杨蕊",
-            "高西安"
-        ],
-        "rating": 7.4,
-        "poster_path": "covers/movie_146.jpg",
-        "original_language": "zh",
-        "status": "planned",
-        "collection": "Крадущийся тигр, затаившийся дракон (Коллекция)",
-        "studios": [
-            "Sony Pictures Classics",
-            "Columbia Pictures Film Production Asia"
         ]
     },
     {
@@ -36303,7 +36268,7 @@
         "rating": 6.6,
         "poster_path": "covers/movie_941109.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Team Downey",
@@ -36678,6 +36643,38 @@
         "studios": [
             "Snoot Entertainment",
             "HanWay Films"
+        ]
+    },
+    {
+        "id": "1430077",
+        "type": "movie",
+        "title": "Хокум",
+        "original_title": "Hokum",
+        "year": "2026",
+        "genres": [
+            "ужасы"
+        ],
+        "director": "Damian McCarthy",
+        "cast": [
+            "Адам Скотт",
+            "Питер Кунан",
+            "Дэвид Уилмот",
+            "Остин Амелио",
+            "Майкл Патрик",
+            "Брендан Конрой",
+            "Флоренс Ордеш",
+            "Уилл О’Коннелл",
+            "Эзра Карлайл",
+            "Mallory Adams"
+        ],
+        "rating": 6.9,
+        "poster_path": "covers/movie_1430077.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Spooky Pictures",
+            "Image Nation Abu Dhabi"
         ]
     }
 ]

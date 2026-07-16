@@ -1329,3 +1329,164 @@ Traceback (most recent call last):
     raise ApiTelegramException(method_name, result, result_json)
 telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
 "
+[main 40db51b] Обновление базы через бота
+ 4 files changed, 87 insertions(+), 122 deletions(-)
+ create mode 100644 covers/movie_83899.jpg
+To https://github.com/timtimohin/movies.git
+   c9d09c4..40db51b  main -> main
+🤖 Бот запущен (v.26.05.17)
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+Сбой связи с Telegram: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Перезапуск через 5 секунд...
+2026-07-14 01:27:26,423 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway"
+2026-07-14 01:27:26,491 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+"
+2026-07-14 01:27:26,888 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway"
+2026-07-14 01:27:26,888 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+"
+2026-07-14 01:27:27,506 (__init__.py:1254 MainThread) ERROR - TeleBot: "Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway"
+2026-07-14 01:27:27,506 (__init__.py:1256 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 1247, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 116, in raise_exceptions
+    raise self.exception_info
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/util.py", line 98, in run
+    task(*args, **kwargs)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 689, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/__init__.py", line 661, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/count_timohin/.local/lib/python3.10/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
+"
