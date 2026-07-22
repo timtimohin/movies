@@ -32443,41 +32443,6 @@
         ]
     },
     {
-        "id": 1149504,
-        "type": "movie",
-        "title": "Хани, не надо!",
-        "original_title": "Honey Don't!",
-        "year": "2025",
-        "genres": [
-            "комедия",
-            "криминал",
-            "детектив",
-            "триллер"
-        ],
-        "director": "Итан Коэн",
-        "cast": [
-            "Маргарет Куолли",
-            "Обри Плаза",
-            "Крис Эванс",
-            "Чарли Дэй",
-            "Кристен Коннолли",
-            "Don Swayze",
-            "Sarah J. Bartholomew",
-            "Sean J. Dillingham",
-            "Лена Холл",
-            "Билли Айкнер"
-        ],
-        "rating": 5.6,
-        "poster_path": "covers/movie_1149504.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Focus Features",
-            "Working Title Films"
-        ]
-    },
-    {
         "id": 270303,
         "type": "movie",
         "title": "Оно приходит за тобой",
@@ -36136,40 +36101,6 @@
         "studios": [
             "Kroyer Films",
             "Youngheart Productions"
-        ]
-    },
-    {
-        "id": "11286",
-        "type": "movie",
-        "title": "Гонки «Пушечное ядро»",
-        "original_title": "The Cannonball Run",
-        "year": "1981",
-        "genres": [
-            "боевик",
-            "комедия",
-            "семейный"
-        ],
-        "director": "Hal Needham",
-        "cast": [
-            "Берт Рейнолдс",
-            "Роджер Мур",
-            "Фарра Фосетт",
-            "Джеки Чан",
-            "Эдриенн Барбо",
-            "Jack Elam",
-            "Rick Aviles",
-            "Dom DeLuise",
-            "許冠文",
-            "Dean Martin"
-        ],
-        "rating": 6.2,
-        "poster_path": "covers/movie_11286.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Гонки «Пушечное ядро» (Коллекция)",
-        "studios": [
-            "Orange Sky Golden Harvest",
-            "Albert S. Ruddy Productions"
         ]
     },
     {

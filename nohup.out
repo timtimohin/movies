@@ -1558,3 +1558,8 @@ Traceback (most recent call last):
     raise ApiTelegramException(method_name, result, result_json)
 telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 502. Description: Bad Gateway
 "
+[main e5c1661] Обновление базы через бота
+ 4 files changed, 132 insertions(+), 122 deletions(-)
+ create mode 100644 covers/movie_940551.jpg
+To https://github.com/timtimohin/movies.git
+   94bc4d4..e5c1661  main -> main
