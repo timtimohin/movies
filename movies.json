@@ -30510,40 +30510,6 @@
         ]
     },
     {
-        "id": 471506,
-        "type": "movie",
-        "title": "В объятиях лжи",
-        "original_title": "Greta",
-        "year": "2019",
-        "genres": [
-            "детектив",
-            "триллер",
-            "драма"
-        ],
-        "director": "Нил Джордан",
-        "cast": [
-            "Хлоя Грейс Морец",
-            "Изабель Юппер",
-            "Майка Монро",
-            "Колм Фиори",
-            "Стивен Ри",
-            "Джефф Хиллер",
-            "Заве Эштон",
-            "Raven Dauda",
-            "Jane Perry",
-            "Паркер Сойерс"
-        ],
-        "rating": 6.6,
-        "poster_path": "covers/movie_471506.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Sidney Kimmel Entertainment",
-            "Lawrence Bender Productions"
-        ]
-    },
-    {
         "id": 11495,
         "type": "movie",
         "title": "Воспламеняющая взглядом",
@@ -32040,7 +32006,7 @@
         "rating": 7.7,
         "poster_path": "covers/movie_1592.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Paramount Pictures",
@@ -35562,40 +35528,6 @@
         ]
     },
     {
-        "id": "1083381",
-        "type": "movie",
-        "title": "Закулисье реальности",
-        "original_title": "Backrooms",
-        "year": "2026",
-        "genres": [
-            "ужасы",
-            "детектив",
-            "фантастика"
-        ],
-        "director": "Кейн Парсонс",
-        "cast": [
-            "Чиветел Эджиофор",
-            "Ренате Реинсве",
-            "Марк Дюпласс",
-            "Роберт Боброцкий",
-            "Филип Грэйнджер",
-            "Финн Беннетт",
-            "Криста Косонен",
-            "Лукита Максуэлл",
-            "Эван Джогиа",
-            "Кэтрин Изабель"
-        ],
-        "rating": 6.8,
-        "poster_path": "covers/movie_1083381.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Atomic Monster",
-            "21 Laps Entertainment"
-        ]
-    },
-    {
         "id": "13342",
         "type": "movie",
         "title": "Беспечные времена в «Риджмонт Хай»",
@@ -36675,6 +36607,41 @@
         "studios": [
             "Spooky Pictures",
             "Image Nation Abu Dhabi"
+        ]
+    },
+    {
+        "id": "940551",
+        "type": "movie",
+        "title": "Миграция",
+        "original_title": "Migration",
+        "year": "2023",
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения",
+            "мультфильм"
+        ],
+        "director": "Бенджамин Реннер",
+        "cast": [
+            "Кумэйл Нанджиани",
+            "Элизабет Бэнкс",
+            "Caspar Jennings",
+            "Изабела Мерсед",
+            "Киган-Майкл Кей",
+            "Дэнни Де Вито",
+            "Аквафина",
+            "Кэрол Кейн",
+            "Карлос Алазраки",
+            "Карлос Алазраки"
+        ],
+        "rating": 7.4,
+        "poster_path": "covers/movie_940551.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Universal Pictures",
+            "Illumination"
         ]
     }
 ]
