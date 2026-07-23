@@ -1563,3 +1563,7 @@ telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsucc
  create mode 100644 covers/movie_940551.jpg
 To https://github.com/timtimohin/movies.git
    94bc4d4..e5c1661  main -> main
+[main 3186dd9] Обновление базы через бота
+ 3 files changed, 7 insertions(+), 121 deletions(-)
+To https://github.com/timtimohin/movies.git
+   e5c1661..3186dd9  main -> main
