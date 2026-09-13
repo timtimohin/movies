@@ -30543,39 +30543,6 @@
         ]
     },
     {
-        "id": 418879,
-        "type": "movie",
-        "title": "Война токов",
-        "original_title": "The Current War",
-        "year": "2018",
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "director": "Alfonso Gomez-Rejon",
-        "cast": [
-            "Бенедикт Камбербэтч",
-            "Майкл Шеннон",
-            "Николас Холт",
-            "Том Холланд",
-            "Мэттью Макфэдьен",
-            "Кэтрин Уотерстон",
-            "Гарри Меллинг",
-            "Таппенс Мидлтон",
-            "Craig Roberts",
-            "Стэнли Таунсенд"
-        ],
-        "rating": 6.7,
-        "poster_path": "covers/movie_418879.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Bazelevs",
-            "Film Rites"
-        ]
-    },
-    {
         "id": 170687,
         "type": "movie",
         "title": "Семейка монстров",
@@ -32040,7 +32007,7 @@
         "rating": 6.7,
         "poster_path": "covers/movie_245.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "Universal Pictures",
@@ -36208,39 +36175,6 @@
         "collection": "",
         "studios": [
             "Walt Disney Pictures"
-        ]
-    },
-    {
-        "id": "3021",
-        "type": "movie",
-        "title": "1408",
-        "original_title": "1408",
-        "year": "2007",
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "director": "Микаэль Хофстрём",
-        "cast": [
-            "Джон Кьюсак",
-            "Сэмюэл Л. Джексон",
-            "Мэри МакКормак",
-            "Джордж Коттл",
-            "Тони Шалуб",
-            "Исайя Уитлок мл.",
-            "Лен Кариу",
-            "Benny Urquidez",
-            "Иоганн Урб",
-            "Уильям Армстронг"
-        ],
-        "rating": 6.7,
-        "poster_path": "covers/movie_3021.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Dimension Films",
-            "di Bonaventura Pictures"
         ]
     },
     {
