@@ -36380,5 +36380,242 @@
             "Regency Enterprises",
             "Warner Bros. Pictures"
         ]
+    },
+    {
+        "id": "9441",
+        "type": "movie",
+        "title": "Мачеха",
+        "original_title": "Stepmom",
+        "year": "1998",
+        "genres": [
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "director": "Крис Коламбус",
+        "cast": [
+            "Джулия Робертс",
+            "Сьюзан Сарандон",
+            "Эд Харрис",
+            "Джена Мэлоун",
+            "Дэвид Зайас",
+            "Liam Aiken",
+            "Линн Уитфилд",
+            "Хосе Рамон Росарио",
+            "Херберт Расселл",
+            "Mary Louise Wilson"
+        ],
+        "rating": 7.2,
+        "poster_path": "covers/movie_9441.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "1492 Pictures",
+            "Columbia Pictures"
+        ]
+    },
+    {
+        "id": "18041",
+        "type": "movie",
+        "title": "Сплетня",
+        "original_title": "Gossip",
+        "year": "2000",
+        "genres": [
+            "детектив",
+            "триллер"
+        ],
+        "director": "Davis Guggenheim",
+        "cast": [
+            "Джеймс Марсден",
+            "Лина Хиди",
+            "Норман Ридус",
+            "Эдвард Джеймс Олмос",
+            "Кейт Хадсон",
+            "Джошуа Джексон",
+            "Sharon Lawrence",
+            "Эрик Богосян",
+            "Крис Холден-Рид",
+            "Marisa Coughlan"
+        ],
+        "rating": 5.8,
+        "poster_path": "covers/movie_18041.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "NPV Entertainment",
+            "Village Roadshow Pictures"
+        ]
+    },
+    {
+        "id": "8413",
+        "type": "movie",
+        "title": "Сквозь горизонт",
+        "original_title": "Event Horizon",
+        "year": "1997",
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "детектив"
+        ],
+        "director": "Пол У. С. Андерсон",
+        "cast": [
+            "Лоренс Фишбёрн",
+            "Сэм Нилл",
+            "Кэтлин Куинлан",
+            "Джоэли Ричардсон",
+            "Джейсон Айзекс",
+            "Ричард Т. Джонс",
+            "Шон Пертви",
+            "Джек Ноузворти",
+            "Эмили Бут",
+            "Ной Хантли"
+        ],
+        "rating": 6.6,
+        "poster_path": "covers/movie_8413.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Impact Pictures",
+            "Paramount Pictures"
+        ]
+    },
+    {
+        "id": "9605",
+        "type": "movie",
+        "title": "Одинокая белая женщина",
+        "original_title": "Single White Female",
+        "year": "1992",
+        "genres": [
+            "триллер"
+        ],
+        "director": "Барбет Шрёдер",
+        "cast": [
+            "Бриджит Фонда",
+            "Дженнифер Джейсон Ли",
+            "Стивен Вебер",
+            "Стивен Тоболовски",
+            "Frances Bay",
+            "Renée Estevez",
+            "Jessica Lundy",
+            "Амелия Кэмпбелл",
+            "Питер Фридман",
+            "Тара Карсиан"
+        ],
+        "rating": 6.3,
+        "poster_path": "covers/movie_9605.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Одинокая белая женщина (Коллекция)",
+        "studios": [
+            "Columbia Pictures"
+        ]
+    },
+    {
+        "id": "9529",
+        "type": "movie",
+        "title": "Кэндимэн",
+        "original_title": "Candyman",
+        "year": "1992",
+        "genres": [
+            "драма",
+            "ужасы",
+            "триллер"
+        ],
+        "director": "Bernard Rose",
+        "cast": [
+            "Вирджиния Мэдсен",
+            "Тони Тодд",
+            "Ксандер Беркли",
+            "Тед Рэйми",
+            "Vanessa Williams",
+            "DeJuan Guy",
+            "Эрик Эдвардс",
+            "Майкл Калкин",
+            "Bernard Rose",
+            "Кейси Леммонс"
+        ],
+        "rating": 6.7,
+        "poster_path": "covers/movie_9529.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Кэндимэн (Коллекция)",
+        "studios": [
+            "Propaganda Films",
+            "PolyGram Filmed Entertainment"
+        ]
+    },
+    {
+        "id": "9411",
+        "type": "movie",
+        "title": "Падший",
+        "original_title": "Fallen",
+        "year": "1998",
+        "genres": [
+            "криминал",
+            "драма",
+            "триллер",
+            "фэнтези"
+        ],
+        "director": "Gregory Hoblit",
+        "cast": [
+            "Дензел Вашингтон",
+            "Джон Гудман",
+            "Дональд Сазерленд",
+            "Элиас Котеас",
+            "Эмбет Дэвидц",
+            "Джеймс Гандольфини",
+            "Роберт Джой",
+            "Аида Туртурро",
+            "Рино Уилсон",
+            "Gabriel Casseus"
+        ],
+        "rating": 6.8,
+        "poster_path": "covers/movie_9411.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Turner Pictures",
+            "Atlas Entertainment"
+        ]
+    },
+    {
+        "id": "91997",
+        "type": "tv",
+        "title": "ПЛУТОН",
+        "original_title": "PLUTO",
+        "year": "2023",
+        "genres": [
+            "мультфильм",
+            "НФ и Фэнтези",
+            "детектив",
+            "криминал"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Синсю Фудзи",
+            "Тосио Фурукава",
+            "Ёко Хикаса",
+            "Мамору Мияно",
+            "Роми Пак",
+            "Ютака Аояма",
+            "Тосихико Сэки",
+            "Такая Хаси",
+            "Рикия Кояма",
+            "Кадзухиро Ямадзи"
+        ],
+        "rating": 7.9,
+        "poster_path": "covers/tv_91997.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "GENCO",
+            "Studio M2"
+        ],
+        "seasons": 1
     }
 ]
