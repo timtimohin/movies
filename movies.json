@@ -36617,5 +36617,73 @@
             "Studio M2"
         ],
         "seasons": 1
+    },
+    {
+        "id": "1084244",
+        "type": "movie",
+        "title": "История игрушек 5",
+        "original_title": "Toy Story 5",
+        "year": "2026",
+        "genres": [
+            "мультфильм",
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "director": "Эндрю Стэнтон",
+        "cast": [
+            "Джоан Кьюсак",
+            "Том Хэнкс",
+            "Тим Аллен",
+            "Энни Поттс",
+            "Уоллес Шон",
+            "Джон Ратценбергер",
+            "Джей Эрнандес",
+            "Грета Ли",
+            "Бонни Хант",
+            "Конан О'Брайен"
+        ],
+        "rating": 8.4,
+        "poster_path": "covers/movie_1084244.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "История игрушек (Коллекция)",
+        "studios": [
+            "Pixar"
+        ]
+    },
+    {
+        "id": "83533",
+        "type": "movie",
+        "title": "Аватар: Пламя и пепел",
+        "original_title": "Avatar: Fire and Ash",
+        "year": "2025",
+        "genres": [
+            "фантастика",
+            "приключения",
+            "фэнтези"
+        ],
+        "director": "Джеймс Кэмерон",
+        "cast": [
+            "Сэм Уортингтон",
+            "Зои Салдана",
+            "Сигурни Уивер",
+            "Кейт Уинслет",
+            "Дэвид Тьюлис",
+            "Стивен Лэнг",
+            "Джованни Рибизи",
+            "Си Си Эйч Паундер",
+            "Клифф Кёртис",
+            "Мэтт Джералд"
+        ],
+        "rating": 7.6,
+        "poster_path": "covers/movie_83533.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "Аватар (Коллекция)",
+        "studios": [
+            "20th Century Studios",
+            "Lightstorm Entertainment"
+        ]
     }
 ]
