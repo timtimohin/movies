@@ -36348,40 +36348,6 @@
         ]
     },
     {
-        "id": "1645",
-        "type": "movie",
-        "title": "Время убивать",
-        "original_title": "A Time to Kill",
-        "year": "1996",
-        "genres": [
-            "криминал",
-            "драма",
-            "триллер"
-        ],
-        "director": "Джоэл Шумахер",
-        "cast": [
-            "Мэттью Макконахи",
-            "Сандра Буллок",
-            "Сэмюэл Л. Джексон",
-            "Кифер Сазерленд",
-            "Октавия Спенсер",
-            "Оливер Платт",
-            "Кевин Спейси",
-            "Дональд Сазерленд",
-            "Эшли Джадд",
-            "М. Эммет Уолш"
-        ],
-        "rating": 7.4,
-        "poster_path": "covers/movie_1645.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Regency Enterprises",
-            "Warner Bros. Pictures"
-        ]
-    },
-    {
         "id": "9441",
         "type": "movie",
         "title": "Мачеха",
@@ -36619,40 +36585,6 @@
         "seasons": 1
     },
     {
-        "id": "1084244",
-        "type": "movie",
-        "title": "История игрушек 5",
-        "original_title": "Toy Story 5",
-        "year": "2026",
-        "genres": [
-            "мультфильм",
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "director": "Эндрю Стэнтон",
-        "cast": [
-            "Джоан Кьюсак",
-            "Том Хэнкс",
-            "Тим Аллен",
-            "Энни Поттс",
-            "Уоллес Шон",
-            "Джон Ратценбергер",
-            "Джей Эрнандес",
-            "Грета Ли",
-            "Бонни Хант",
-            "Конан О'Брайен"
-        ],
-        "rating": 8.4,
-        "poster_path": "covers/movie_1084244.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "История игрушек (Коллекция)",
-        "studios": [
-            "Pixar"
-        ]
-    },
-    {
         "id": "83533",
         "type": "movie",
         "title": "Аватар: Пламя и пепел",
@@ -36685,5 +36617,72 @@
             "20th Century Studios",
             "Lightstorm Entertainment"
         ]
+    },
+    {
+        "id": "1425859",
+        "type": "movie",
+        "title": "Remain",
+        "original_title": "Remain",
+        "year": "2027",
+        "genres": [
+            "мелодрама",
+            "детектив",
+            "триллер"
+        ],
+        "director": "М. Найт Шьямалан",
+        "cast": [
+            "Джейк Джилленхол",
+            "Фиби Дайневор",
+            "Эшли Уолтерс",
+            "М. Найт Шьямалан",
+            "Джули Хэгерти",
+            "Джей О. Сандерс",
+            "Мария Диззия",
+            "Трэйси Айфичор",
+            "Ханна Джеймс",
+            "Калеб Руминер"
+        ],
+        "rating": 0.0,
+        "poster_path": "covers/movie_1425859.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Blinding Edge Pictures"
+        ]
+    },
+    {
+        "id": "4613",
+        "type": "tv",
+        "title": "Братья по оружию",
+        "original_title": "Band of Brothers",
+        "year": "2001",
+        "genres": [
+            "драма",
+            "Война и Политика"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Майкл Кудлиц",
+            "Рик Гомес",
+            "Скотт Граймс",
+            "Майкл Фассбендер",
+            "Нил Макдона",
+            "Кёрк Асеведо",
+            "Дэмиэн Льюис",
+            "Донни Уолберг",
+            "Рон Ливингстон",
+            "Декстер Флетчер"
+        ],
+        "rating": 8.6,
+        "poster_path": "covers/tv_4613.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "DreamWorks Pictures",
+            "Playtone"
+        ],
+        "seasons": 1
     }
 ]
