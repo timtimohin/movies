@@ -36374,7 +36374,7 @@
         "rating": 7.2,
         "poster_path": "covers/movie_9441.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "1492 Pictures",
@@ -36684,5 +36684,37 @@
             "Playtone"
         ],
         "seasons": 1
+    },
+    {
+        "id": "950028",
+        "type": "movie",
+        "title": "Приглашение",
+        "original_title": "The Invite",
+        "year": "2026",
+        "genres": [
+            "комедия",
+            "драма",
+            "мелодрама"
+        ],
+        "director": "Оливия Уайлд",
+        "cast": [
+            "Сет Роген",
+            "Оливия Уайлд",
+            "Пенелопа Крус",
+            "Эдвард Нортон",
+            "Скип Хоуленд",
+            "Рэйчел Туроу",
+            "Мэл Пауэлл",
+            "Mario Valdez"
+        ],
+        "rating": 7.3,
+        "poster_path": "covers/movie_950028.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Annapurna Pictures",
+            "FilmNation Entertainment"
+        ]
     }
 ]
