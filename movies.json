@@ -36414,40 +36414,6 @@
         ]
     },
     {
-        "id": "9529",
-        "type": "movie",
-        "title": "Кэндимэн",
-        "original_title": "Candyman",
-        "year": "1992",
-        "genres": [
-            "драма",
-            "ужасы",
-            "триллер"
-        ],
-        "director": "Bernard Rose",
-        "cast": [
-            "Вирджиния Мэдсен",
-            "Тони Тодд",
-            "Ксандер Беркли",
-            "Тед Рэйми",
-            "Vanessa Williams",
-            "DeJuan Guy",
-            "Эрик Эдвардс",
-            "Майкл Калкин",
-            "Bernard Rose",
-            "Кейси Леммонс"
-        ],
-        "rating": 6.7,
-        "poster_path": "covers/movie_9529.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Кэндимэн (Коллекция)",
-        "studios": [
-            "Propaganda Films",
-            "PolyGram Filmed Entertainment"
-        ]
-    },
-    {
         "id": "9411",
         "type": "movie",
         "title": "Падший",
@@ -36618,38 +36584,6 @@
             "Playtone"
         ],
         "seasons": 1
-    },
-    {
-        "id": "950028",
-        "type": "movie",
-        "title": "Приглашение",
-        "original_title": "The Invite",
-        "year": "2026",
-        "genres": [
-            "комедия",
-            "драма",
-            "мелодрама"
-        ],
-        "director": "Оливия Уайлд",
-        "cast": [
-            "Сет Роген",
-            "Оливия Уайлд",
-            "Пенелопа Крус",
-            "Эдвард Нортон",
-            "Скип Хоуленд",
-            "Рэйчел Туроу",
-            "Мэл Пауэлл",
-            "Mario Valdez"
-        ],
-        "rating": 7.3,
-        "poster_path": "covers/movie_950028.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Annapurna Pictures",
-            "FilmNation Entertainment"
-        ]
     },
     {
         "id": "14411",

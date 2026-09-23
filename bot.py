@@ -7,6 +7,7 @@ import html
 import time
 from dotenv import load_dotenv
 import logging
+import subprocess
 logging.basicConfig(level=logging.DEBUG, format='%(levelname)s - %(message)s')
 telebot.logger.setLevel(logging.DEBUG)
 
@@ -775,22 +776,25 @@ def sync_to_github(message):
 
     bot.send_message(message.chat.id, "🔄 Начинаю синхронизацию с GitHub...")
     try:
-        # 1. Выдаем серверу "паспорт", чтобы он мог делать коммиты
-        os.system('git config user.name "MovieBot"')
-        os.system('git config user.email "bot@example.com"')
-        
-        os.system('git add .')
-        os.system('git commit -m "Обновление базы через бота"')
-        
-        # 2. Используем ваш токен из сейфа для открытия двери GitHub
+        subprocess.run(['git', 'config', 'user.name', 'MovieBot'], check=False)
+        subprocess.run(['git', 'config', 'user.email', 'bot@example.com'], check=False)
+        subprocess.run(['git', 'add', '.'], check=False)
+        subprocess.run(['git', 'commit', '-m', 'Обновление базы через бота'], check=False)
+
         repo_url = f"https://{GITHUB_TOKEN}@github.com/timtimohin/movies.git"
-        push_result = os.system(f'git push {repo_url} main')
         
-        # 3. Честно проверяем, дошел ли груз
-        if push_result == 0:
+        # Запускаем push и перехватываем текст консоли (capture_output=True)
+        result = subprocess.run(['git', 'push', repo_url, 'main'], capture_output=True, text=True)
+
+        if result.returncode == 0:
             bot.send_message(message.chat.id, "✅ Синхронизация успешна!\nИзменения появятся на сайте через 1-2 минуты.\nСсылка: https://timtimohin.github.io/movies/")
         else:
-            bot.send_message(message.chat.id, "❌ Ошибка: GitHub отклонил файлы. Проверьте, правильный ли GITHUB_TOKEN в вашем файле .env.")
+            # Достаем реальный текст ошибки
+            error_text = result.stderr if result.stderr else result.stdout
+            # Обязательно прячем токен из логов!
+            safe_error = error_text.replace(GITHUB_TOKEN, '***TOKEN***') if error_text else "Неизвестная ошибка Git"
+            
+            bot.send_message(message.chat.id, f"❌ Ошибка Git:\n\n<code>{html.escape(safe_error)}</code>", parse_mode="HTML")
     except Exception as e:
         bot.send_message(message.chat.id, f"❌ Системная ошибка: {e}")
 
