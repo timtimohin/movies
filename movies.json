@@ -32182,39 +32182,6 @@
         ]
     },
     {
-        "id": 77,
-        "type": "movie",
-        "title": "Мементо",
-        "original_title": "Memento",
-        "year": "2000",
-        "genres": [
-            "детектив",
-            "триллер"
-        ],
-        "director": "Кристофер Нолан",
-        "cast": [
-            "Гай Пирс",
-            "Кэрри-Энн Мосс",
-            "Джо Пантолиано",
-            "Томас Леннон",
-            "Стивен Тоболовски",
-            "Каллум Кит Ренни",
-            "Марк Бун мл.",
-            "Харриет Сэнсом Харрис",
-            "Jorja Fox",
-            "Марианн Мюллерлейл"
-        ],
-        "rating": 8.2,
-        "poster_path": "covers/movie_77.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Newmarket Films",
-            "Summit Entertainment"
-        ]
-    },
-    {
         "id": 5544,
         "type": "movie",
         "title": "Хиросима, любовь моя",
@@ -35742,39 +35709,6 @@
         ]
     },
     {
-        "id": "306947",
-        "type": "movie",
-        "title": "Приглашение",
-        "original_title": "The Invitation",
-        "year": "2016",
-        "genres": [
-            "триллер",
-            "ужасы"
-        ],
-        "director": "Карин Кусама",
-        "cast": [
-            "Логан Маршалл-Грин",
-            "Tammy Blanchard",
-            "Emayatzy Corinealdi",
-            "Михил Хёйсман",
-            "Джон Кэрролл Линч",
-            "Тоби Хасс",
-            "Mike Doyle",
-            "Michelle Krusiec",
-            "Марайа Делфино",
-            "Lindsay Burdge"
-        ],
-        "rating": 6.4,
-        "poster_path": "covers/movie_306947.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "XYZ Films",
-            "Gamechanger Films"
-        ]
-    },
-    {
         "id": "549509",
         "type": "movie",
         "title": "Бруталист",
@@ -36715,6 +36649,42 @@
         "studios": [
             "Annapurna Pictures",
             "FilmNation Entertainment"
+        ]
+    },
+    {
+        "id": "14411",
+        "type": "movie",
+        "title": "Синдбад: Легенда семи морей",
+        "original_title": "Sinbad: Legend of the Seven Seas",
+        "year": "2003",
+        "genres": [
+            "боевик",
+            "приключения",
+            "мультфильм",
+            "семейный",
+            "фэнтези"
+        ],
+        "director": "Тимоти Джонсон",
+        "cast": [
+            "Брэд Питт",
+            "Кэтрин Зета-Джонс",
+            "Мишель Пфайффер",
+            "Фрэнк Уэлкер",
+            "Джим Каммингс",
+            "Джозеф Файннс",
+            "Деннис Хэйсберт",
+            "Adriano Giannini",
+            "Конрад Вернон",
+            "Раман Хуэй"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_14411.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "DreamWorks Animation",
+            "DreamWorks Pictures"
         ]
     }
 ]

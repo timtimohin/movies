@@ -6,6 +6,9 @@ import base64
 import html
 import time
 from dotenv import load_dotenv
+import logging
+logging.basicConfig(level=logging.DEBUG, format='%(levelname)s - %(message)s')
+telebot.logger.setLevel(logging.DEBUG)
 
 # Загружаем ключи из нашего сейфа
 load_dotenv()
@@ -603,9 +606,14 @@ def process_and_add_item(item_id, chat_id, media_type, target_status, message_id
         poster_path = ""
         if details.get("poster_path"):
             if not os.path.exists("covers"): os.makedirs("covers")
-            img = requests.get(f"https://image.tmdb.org/t/p/w500{details['poster_path']}").content
-            poster_path = f"covers/{media_type}_{item_id}.jpg"
-            with open(poster_path, 'wb') as h: h.write(img)
+            try:
+                # Добавили timeout=10
+                img = requests.get(f"https://image.tmdb.org/t/p/w500{details['poster_path']}", timeout=10).content
+                poster_path = f"covers/{media_type}_{item_id}.jpg"
+                with open(poster_path, 'wb') as h: h.write(img)
+            except Exception as e:
+                print(f"Ошибка загрузки постера: {e}")
+                # Если картинка не скачалась, фильм все равно добавится в базу (просто без обложки)
 
         title = details.get("title") if media_type == 'movie' else details.get("name")
         year = str(details.get("release_date") or details.get("first_air_date"))[:4]
