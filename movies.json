@@ -36182,40 +36182,6 @@
         ]
     },
     {
-        "id": "89901",
-        "type": "tv",
-        "title": "Дикинсон",
-        "original_title": "Dickinson",
-        "year": "2019",
-        "genres": [
-            "комедия",
-            "драма"
-        ],
-        "director": "Алена Смит",
-        "cast": [
-            "Хейли Стайнфелд",
-            "Тоби Хасс",
-            "Adrian Enscoe",
-            "Jane Krakowski",
-            "Аманда Уоррен",
-            "Айо Эдебири",
-            "Чиназа Уче",
-            "Финн Джонс",
-            "Роберт Пикардо",
-            "Элла Хант"
-        ],
-        "rating": 8.5,
-        "poster_path": "covers/tv_89901.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "wiip",
-            "Anonymous Content"
-        ],
-        "seasons": 3
-    },
-    {
         "id": "70573",
         "type": "tv",
         "title": "Блеск",
@@ -36614,7 +36580,7 @@
         "rating": 7.1,
         "poster_path": "covers/movie_14411.jpg",
         "original_language": "en",
-        "status": "planned",
+        "status": "favorite",
         "collection": "",
         "studios": [
             "DreamWorks Animation",
