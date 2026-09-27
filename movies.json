@@ -33515,39 +33515,6 @@
         ]
     },
     {
-        "id": 157351,
-        "type": "movie",
-        "title": "Эммануэль и правда о рыбах",
-        "original_title": "The Truth About Emanuel",
-        "year": "2013",
-        "genres": [
-            "драма",
-            "триллер"
-        ],
-        "director": "Francesca Gregorini",
-        "cast": [
-            "Кая Скоделарио",
-            "Джессика Бил",
-            "Альфред Молина",
-            "Джимми Симпсон",
-            "Сэм Джагер",
-            "Фрэнсис О'Коннор",
-            "Спенсер Гарретт",
-            "Анайрин Барнард",
-            "Энн Рэмси",
-            "Jonathan Schmock"
-        ],
-        "rating": 6.0,
-        "poster_path": "covers/movie_157351.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Rooks Nest Entertainment",
-            "MRB Productions"
-        ]
-    },
-    {
         "id": 305943,
         "type": "movie",
         "title": "Ловушка",
@@ -36451,40 +36418,6 @@
         "seasons": 1
     },
     {
-        "id": "83533",
-        "type": "movie",
-        "title": "Аватар: Пламя и пепел",
-        "original_title": "Avatar: Fire and Ash",
-        "year": "2025",
-        "genres": [
-            "фантастика",
-            "приключения",
-            "фэнтези"
-        ],
-        "director": "Джеймс Кэмерон",
-        "cast": [
-            "Сэм Уортингтон",
-            "Зои Салдана",
-            "Сигурни Уивер",
-            "Кейт Уинслет",
-            "Дэвид Тьюлис",
-            "Стивен Лэнг",
-            "Джованни Рибизи",
-            "Си Си Эйч Паундер",
-            "Клифф Кёртис",
-            "Мэтт Джералд"
-        ],
-        "rating": 7.6,
-        "poster_path": "covers/movie_83533.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "Аватар (Коллекция)",
-        "studios": [
-            "20th Century Studios",
-            "Lightstorm Entertainment"
-        ]
-    },
-    {
         "id": "1425859",
         "type": "movie",
         "title": "Remain",
@@ -36585,6 +36518,39 @@
         "studios": [
             "DreamWorks Animation",
             "DreamWorks Pictures"
+        ]
+    },
+    {
+        "id": "7300",
+        "type": "movie",
+        "title": "Один прекрасный день",
+        "original_title": "One Fine Day",
+        "year": "1996",
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "director": "Michael Hoffman",
+        "cast": [
+            "Мишель Пфайффер",
+            "Джордж Клуни",
+            "Мэй Уитман",
+            "Холланд Тейлор",
+            "Аманда Пит",
+            "Чарльз Дёрнинг",
+            "Битти Шрэм",
+            "Анна Мария Хорсфорд",
+            "Алекс Д. Линц",
+            "Эллен Грин"
+        ],
+        "rating": 6.5,
+        "poster_path": "covers/movie_7300.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Fox 2000 Pictures",
+            "Via Rosa Productions"
         ]
     }
 ]
