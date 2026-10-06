@@ -32979,40 +32979,6 @@
         ]
     },
     {
-        "id": 46639,
-        "type": "tv",
-        "title": "Американские боги",
-        "original_title": "American Gods",
-        "year": "2017",
-        "genres": [
-            "драма",
-            "детектив",
-            "НФ и Фэнтези"
-        ],
-        "director": "Bryan Fuller",
-        "cast": [
-            "Рики Уиттл",
-            "Иэн МакШейн",
-            "Эмили Браунинг",
-            "Питер Стормаре",
-            "Дэнис О’Хэр",
-            "Пабло Шрайбер",
-            "Kahyun Kim",
-            "Эрик Джонсон",
-            "Омид Абтахи",
-            "Клорис Личмен"
-        ],
-        "rating": 7.1,
-        "poster_path": "covers/tv_46639.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "FremantleMedia North America"
-        ],
-        "seasons": 3
-    },
-    {
         "id": 1413,
         "type": "tv",
         "title": "Американская история ужасов",
@@ -36183,38 +36149,6 @@
         "seasons": 3
     },
     {
-        "id": "925",
-        "type": "movie",
-        "title": "Делай как надо",
-        "original_title": "Do the Right Thing",
-        "year": "1989",
-        "genres": [
-            "драма"
-        ],
-        "director": "Спайк Ли",
-        "cast": [
-            "Дэнни Айелло",
-            "Осси Дэвис",
-            "Ruby Dee",
-            "Сэмюэл Л. Джексон",
-            "Джанкарло Эспозито",
-            "Мартин Лоуренс",
-            "Джон Туртурро",
-            "Фрэнки Фэйзон",
-            "Спайк Ли",
-            "Джон Саведж"
-        ],
-        "rating": 7.8,
-        "poster_path": "covers/movie_925.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Universal Pictures",
-            "40 Acres and a Mule Filmworks"
-        ]
-    },
-    {
         "id": "9441",
         "type": "movie",
         "title": "Мачеха",
@@ -36551,6 +36485,39 @@
         "studios": [
             "Fox 2000 Pictures",
             "Via Rosa Productions"
+        ]
+    },
+    {
+        "id": "15037",
+        "type": "movie",
+        "title": "Не могу дождаться",
+        "original_title": "Can't Hardly Wait",
+        "year": "1998",
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "director": "Harry Elfont",
+        "cast": [
+            "Дженнифер Лав Хьюитт",
+            "Итан Эмбри",
+            "Чарли Корсмо",
+            "Джейми Прессли",
+            "Питер Фачинелли",
+            "Сет Грин",
+            "Lauren Ambrose",
+            "Erik Palladino",
+            "Тамала Джонс",
+            "Шон Патрик Томас"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_15037.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Columbia Pictures",
+            "Tall Trees Productions"
         ]
     }
 ]
