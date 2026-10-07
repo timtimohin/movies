@@ -36519,5 +36519,108 @@
             "Columbia Pictures",
             "Tall Trees Productions"
         ]
+    },
+    {
+        "id": "11459",
+        "type": "movie",
+        "title": "Высший пилотаж",
+        "original_title": "Sky High",
+        "year": "2005",
+        "genres": [
+            "приключения",
+            "комедия",
+            "семейный"
+        ],
+        "director": "Майк Митчелл",
+        "cast": [
+            "Майкл Ангарано",
+            "Курт Рассел",
+            "Келли Престон",
+            "Мэри Элизабет Уинстэд",
+            "Даниэль Панабэйкер",
+            "Брюс Кэмпбелл",
+            "Клорис Личмен",
+            "Дэйв Фоли",
+            "Стивен Стрейт",
+            "Николас Браун"
+        ],
+        "rating": 6.3,
+        "poster_path": "covers/movie_11459.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Max Stronghold Productions Inc.",
+            "Walt Disney Pictures"
+        ]
+    },
+    {
+        "id": "207784",
+        "type": "tv",
+        "title": "Подземелье вкусностей",
+        "original_title": "ダンジョン飯",
+        "year": "2024",
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "Боевик и Приключения",
+            "НФ и Фэнтези"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Кэнтаро Кумагаи",
+            "Саяка Сэмбонги",
+            "Асуна Томари",
+            "Риэ Такахаси",
+            "Саори Хаями",
+            "Акари Кито",
+            "Ёко Хикаса",
+            "Кадзухико Иноуэ",
+            "Ю Кобаяси",
+            "Мию Томита"
+        ],
+        "rating": 8.4,
+        "poster_path": "covers/tv_207784.jpg",
+        "original_language": "ja",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "TRIGGER",
+            "KADOKAWA"
+        ],
+        "seasons": 2
+    },
+    {
+        "id": "942922",
+        "type": "movie",
+        "title": "Старушки за Брэйди",
+        "original_title": "80 for Brady",
+        "year": "2023",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Kyle Marvin",
+        "cast": [
+            "Лили Томлин",
+            "Джейн Фонда",
+            "Рита Морено",
+            "Пэттон Освальд",
+            "Салли Филд",
+            "Энди Рихтер",
+            "Мэтт Лауриа",
+            "Sara Gilbert",
+            "Боб Балабан",
+            "Глинн Тёрмен"
+        ],
+        "rating": 6.2,
+        "poster_path": "covers/movie_942922.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "199 Productions",
+            "Watch This Ready"
+        ]
     }
 ]
