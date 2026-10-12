@@ -27763,13 +27763,13 @@
             "Тиаки Кобаяси",
             "Юмири Ханамори",
             "Рёхей Кимура",
-            "Кэнсё Оно",
-            "Макото Фурукава",
-            "Мугихито",
             "Риэ Такахаси",
-            "Мамико Ното",
             "Дзюнъити Сувабэ",
-            "Юко Кайда"
+            "Тикахиро Кобаяши",
+            "Кэнсё Оно",
+            "Мамико Ното",
+            "Тэцу Инада",
+            "Даики Ямасита"
         ],
         "rating": 8.2,
         "poster_path": "covers/tv_117465.jpg",
@@ -36521,40 +36521,6 @@
         ]
     },
     {
-        "id": "11459",
-        "type": "movie",
-        "title": "Высший пилотаж",
-        "original_title": "Sky High",
-        "year": "2005",
-        "genres": [
-            "приключения",
-            "комедия",
-            "семейный"
-        ],
-        "director": "Майк Митчелл",
-        "cast": [
-            "Майкл Ангарано",
-            "Курт Рассел",
-            "Келли Престон",
-            "Мэри Элизабет Уинстэд",
-            "Даниэль Панабэйкер",
-            "Брюс Кэмпбелл",
-            "Клорис Личмен",
-            "Дэйв Фоли",
-            "Стивен Стрейт",
-            "Николас Браун"
-        ],
-        "rating": 6.3,
-        "poster_path": "covers/movie_11459.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Max Stronghold Productions Inc.",
-            "Walt Disney Pictures"
-        ]
-    },
-    {
         "id": "207784",
         "type": "tv",
         "title": "Подземелье вкусностей",
@@ -36622,5 +36588,41 @@
             "199 Productions",
             "Watch This Ready"
         ]
+    },
+    {
+        "id": "284833",
+        "type": "tv",
+        "title": "Аватар: Семь убежищ",
+        "original_title": "Avatar: Seven Havens",
+        "year": "2026",
+        "genres": [
+            "мультфильм",
+            "Боевик и Приключения",
+            "НФ и Фэнтези",
+            "семейный"
+        ],
+        "director": "Майкл Данте Димартино",
+        "cast": [
+            "Saheli Khan",
+            "Aishwarya 'Aishu' Devan",
+            "Major Curda",
+            "Даррен Барнет",
+            "Ди Брэдли Бейкер",
+            "Эрик Бауза",
+            "Сакина Джаффри",
+            "Акшай Ханна",
+            "Клайд Кусацу",
+            "Зехра Фазал"
+        ],
+        "rating": 8.8,
+        "poster_path": "covers/tv_284833.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Avatar Studios",
+            "Nickelodeon Animation Studio"
+        ],
+        "seasons": 1
     }
 ]
