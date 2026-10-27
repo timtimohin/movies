@@ -36045,41 +36045,6 @@
         ]
     },
     {
-        "id": "1461201",
-        "type": "movie",
-        "title": "Хранитель камфорного дерева",
-        "original_title": "クスノキの番人",
-        "year": "2026",
-        "genres": [
-            "мультфильм",
-            "драма",
-            "детектив",
-            "фэнтези"
-        ],
-        "director": "Томохико Ито",
-        "cast": [
-            "Такахаси, Фумия",
-            "Юки Амами",
-            "齋藤飛鳥",
-            "Томокадзу Сугита",
-            "Кэндзиро Цуда",
-            "神谷明",
-            "Такэхито Коясу",
-            "Рэина Уэда",
-            "Нобуо Тобита",
-            "Такао Осава"
-        ],
-        "rating": 8.0,
-        "poster_path": "covers/movie_1461201.jpg",
-        "original_language": "ja",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "A-1 Pictures",
-            "Psyde Kick Studio"
-        ]
-    },
-    {
         "id": "7484",
         "type": "movie",
         "title": "Сезон охоты",
@@ -36455,39 +36420,6 @@
         ]
     },
     {
-        "id": "7300",
-        "type": "movie",
-        "title": "Один прекрасный день",
-        "original_title": "One Fine Day",
-        "year": "1996",
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "director": "Michael Hoffman",
-        "cast": [
-            "Мишель Пфайффер",
-            "Джордж Клуни",
-            "Мэй Уитман",
-            "Холланд Тейлор",
-            "Аманда Пит",
-            "Чарльз Дёрнинг",
-            "Битти Шрэм",
-            "Анна Мария Хорсфорд",
-            "Алекс Д. Линц",
-            "Эллен Грин"
-        ],
-        "rating": 6.5,
-        "poster_path": "covers/movie_7300.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Fox 2000 Pictures",
-            "Via Rosa Productions"
-        ]
-    },
-    {
         "id": "15037",
         "type": "movie",
         "title": "Не могу дождаться",
@@ -36557,39 +36489,6 @@
         "seasons": 2
     },
     {
-        "id": "942922",
-        "type": "movie",
-        "title": "Старушки за Брэйди",
-        "original_title": "80 for Brady",
-        "year": "2023",
-        "genres": [
-            "комедия",
-            "драма"
-        ],
-        "director": "Kyle Marvin",
-        "cast": [
-            "Лили Томлин",
-            "Джейн Фонда",
-            "Рита Морено",
-            "Пэттон Освальд",
-            "Салли Филд",
-            "Энди Рихтер",
-            "Мэтт Лауриа",
-            "Sara Gilbert",
-            "Боб Балабан",
-            "Глинн Тёрмен"
-        ],
-        "rating": 6.2,
-        "poster_path": "covers/movie_942922.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "199 Productions",
-            "Watch This Ready"
-        ]
-    },
-    {
         "id": "284833",
         "type": "tv",
         "title": "Аватар: Семь убежищ",
@@ -36624,5 +36523,39 @@
             "Nickelodeon Animation Studio"
         ],
         "seasons": 1
+    },
+    {
+        "id": "310131",
+        "type": "movie",
+        "title": "Ведьма",
+        "original_title": "The Witch",
+        "year": "2016",
+        "genres": [
+            "ужасы",
+            "фэнтези",
+            "детектив"
+        ],
+        "director": "Роберт Эггерс",
+        "cast": [
+            "Аня Тейлор-Джой",
+            "Ральф Айнесон",
+            "Кейт Дики",
+            "Джулиан Ричингс",
+            "Sarah Stephens",
+            "Harvey Scrimshaw",
+            "Bathsheba Garnett",
+            "Daniel Malik",
+            "Ellie Grainger",
+            "Керри Эклунд"
+        ],
+        "rating": 7.0,
+        "poster_path": "covers/movie_310131.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Very Special Projects",
+            "Parts & Labor"
+        ]
     }
 ]
