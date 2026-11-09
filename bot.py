@@ -778,6 +778,9 @@ def sync_to_github(message):
     try:
         subprocess.run(['git', 'config', 'user.name', 'MovieBot'], check=False)
         subprocess.run(['git', 'config', 'user.email', 'bot@example.com'], check=False)
+
+        subprocess.run(['git', 'config', '--global', '--add', 'safe.directory', '/app'], check=False)
+        
         subprocess.run(['git', 'add', '.'], check=False)
         subprocess.run(['git', 'commit', '-m', 'Обновление базы через бота'], check=False)
 

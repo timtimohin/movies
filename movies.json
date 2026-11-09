@@ -34756,39 +34756,6 @@
         ]
     },
     {
-        "id": "15592",
-        "type": "movie",
-        "title": "На пляже",
-        "original_title": "Beaches",
-        "year": "1988",
-        "genres": [
-            "комедия",
-            "драма"
-        ],
-        "director": "Garry Marshall",
-        "cast": [
-            "Бетт Мидлер",
-            "Барбара Херши",
-            "Джон Хёрд",
-            "Маим Бялик",
-            "James Read",
-            "Lainie Kazan",
-            "Фил Лидс",
-            "Spalding Gray",
-            "Никки Блэр",
-            "Frank Campanella"
-        ],
-        "rating": 6.7,
-        "poster_path": "covers/movie_15592.jpg",
-        "original_language": "en",
-        "status": "planned",
-        "collection": "",
-        "studios": [
-            "Touchstone Pictures",
-            "All Girl Productions"
-        ]
-    },
-    {
         "id": "1177767",
         "type": "movie",
         "title": "Майл-Энд-Кикс",
@@ -36556,6 +36523,142 @@
         "studios": [
             "Very Special Projects",
             "Parts & Labor"
+        ]
+    },
+    {
+        "id": "258165",
+        "type": "tv",
+        "title": "К востоку от Эдема",
+        "original_title": "East of Eden",
+        "year": "2026",
+        "genres": [
+            "драма"
+        ],
+        "director": "Зои Казан",
+        "cast": [
+            "Флоренс Пью",
+            "Кристофер Эбботт",
+            "Майк Файст",
+            "Киаран Хайндс",
+            "Джозеф Зада",
+            "Хун Ли",
+            "Марта Плимптон",
+            "Джо Андерс",
+            "Costa D'Angelo",
+            "Тэнди Райт"
+        ],
+        "rating": 7.9,
+        "poster_path": "covers/tv_258165.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Fifth Season",
+            "Anonymous Content"
+        ],
+        "seasons": 1
+    },
+    {
+        "id": "95480",
+        "type": "tv",
+        "title": "Медленные лошади",
+        "original_title": "Slow Horses",
+        "year": "2022",
+        "genres": [
+            "криминал",
+            "драма",
+            "детектив"
+        ],
+        "director": "Неизвестно",
+        "cast": [
+            "Гэри Олдман",
+            "Джек Лауден",
+            "Кристин Скотт Томас",
+            "Оливия Кук",
+            "Хьюго Уивинг",
+            "Рут Брэдли",
+            "Саския Ривз",
+            "Эйми-Фион Эдвардс",
+            "Джонатан Прайс",
+            "Том Брук"
+        ],
+        "rating": 8.1,
+        "poster_path": "covers/tv_95480.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "See-Saw Films",
+            "Flying Studio Pictures"
+        ],
+        "seasons": 6
+    },
+    {
+        "id": "1619",
+        "type": "movie",
+        "title": "Путь оружия",
+        "original_title": "The Way of the Gun",
+        "year": "2000",
+        "genres": [
+            "боевик",
+            "криминал",
+            "драма",
+            "триллер"
+        ],
+        "director": "Кристофер МакКуорри",
+        "cast": [
+            "Райан Филлипп",
+            "Бенисио дель Торо",
+            "Джульетт Льюис",
+            "Джеймс Каан",
+            "Тэй Диггз",
+            "Сара Сильверман",
+            "Джеффри Льюис",
+            "Кристин Леман",
+            "Скотт Уилсон",
+            "Дилан Кассман"
+        ],
+        "rating": 6.4,
+        "poster_path": "covers/movie_1619.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "Artisan Entertainment",
+            "Aqaba Productions"
+        ]
+    },
+    {
+        "id": "14926",
+        "type": "movie",
+        "title": "Городские девчонки",
+        "original_title": "Uptown Girls",
+        "year": "2003",
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "director": "Боаз Якин",
+        "cast": [
+            "Бриттани Мёрфи",
+            "Дакота Фаннинг",
+            "Марли Шелтон",
+            "Фишер Стивенс",
+            "Джесси Спенсер",
+            "Хэзер Локлир",
+            "Дональд Фэйсон",
+            "Остин Пендлтон",
+            "Mark McGrath",
+            "Марселин Хьюго"
+        ],
+        "rating": 7.1,
+        "poster_path": "covers/movie_14926.jpg",
+        "original_language": "en",
+        "status": "planned",
+        "collection": "",
+        "studios": [
+            "GreeneStreet Films",
+            "Metro-Goldwyn-Mayer"
         ]
     }
 ]
